@@ -1,0 +1,1 @@
+Make a sound into the echo tube and listen for it to reflect back from the far end. You’ll hear a half-second delay, and strange distortions created by the journey. 

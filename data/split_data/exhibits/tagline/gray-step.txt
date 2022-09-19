@@ -1,0 +1,1 @@
+Your visual system uses edges to detect differences.

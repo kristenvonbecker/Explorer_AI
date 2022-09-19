@@ -1,0 +1,1 @@
+Turn the crank and watch a moving cell model. Different parts of the cell extend and retract, and the cell’s internal bulk sometimes shifts from one area to another. 

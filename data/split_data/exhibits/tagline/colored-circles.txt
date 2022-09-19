@@ -1,0 +1,1 @@
+Overlapping pools of red, blue, and green create a Venn diagram of additive color.

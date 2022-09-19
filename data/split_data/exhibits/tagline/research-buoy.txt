@@ -1,0 +1,1 @@
+This NOAA buoy gathers data on CO 2 levels, which are increasing in our oceans and affecting marine life.

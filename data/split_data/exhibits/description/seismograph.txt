@@ -1,0 +1,1 @@
+This seismograph is an earthquake detector that records the up-and-down motion of the ground—whether made by tectonic activity or by you. 

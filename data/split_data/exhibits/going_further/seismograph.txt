@@ -1,0 +1,1 @@
+Seismographs measure not only the seismic waves emanating from an earthquake, but also their precise time of arrival. By comparing the data collected by several seismographs in different places, scientists can determine the true strength of an earthquake and locate its starting point, or epicenter .
