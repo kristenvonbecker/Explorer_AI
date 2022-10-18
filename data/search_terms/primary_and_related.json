@@ -1,0 +1,5203 @@
+[
+  {
+    "text": "natural frequency",
+    "primary": [
+      [
+        "natural",
+        "JJ"
+      ],
+      [
+        "frequency",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "frequency",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "natural",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "electric fields and forces",
+    "primary": [
+      [
+        "electric",
+        "JJ"
+      ],
+      [
+        "fields",
+        "NNS"
+      ],
+      [
+        "and",
+        "CC"
+      ],
+      [
+        "forces",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "fields",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "forces",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "electric",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "electric",
+          "JJ"
+        ],
+        [
+          "fields",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "electric",
+          "JJ"
+        ],
+        [
+          "forces",
+          "NNS"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "accelerated gravitational motion",
+    "primary": [
+      [
+        "accelerated",
+        "VBN"
+      ],
+      [
+        "gravitational",
+        "JJ"
+      ],
+      [
+        "motion",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "accelerated",
+          "VBN"
+        ]
+      ],
+      [
+        [
+          "gravitational",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "gravitational",
+          "JJ"
+        ],
+        [
+          "motion",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "afterimage",
+    "primary": [
+      [
+        "afterimage",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "judgment",
+    "primary": [
+      [
+        "judgment",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "thin films",
+    "primary": [
+      [
+        "thin",
+        "JJ"
+      ],
+      [
+        "films",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "films",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "thin",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "frame of reference",
+    "primary": [
+      [
+        "frame",
+        "NN"
+      ],
+      [
+        "of",
+        "IN"
+      ],
+      [
+        "reference",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "frame",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "reference",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "reference",
+          "NN"
+        ],
+        [
+          "frame",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "nodes and antinodes",
+    "primary": [
+      [
+        "nodes",
+        "NNS"
+      ],
+      [
+        "and",
+        "CC"
+      ],
+      [
+        "antinodes",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "nodes",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "antinodes",
+          "NNS"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "sublimation",
+    "primary": [
+      [
+        "sublimation",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "bernoulli effect",
+    "primary": [
+      [
+        "bernoulli",
+        "NNS"
+      ],
+      [
+        "effect",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "bernoulli",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "effect",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "subtractive color mixing",
+    "primary": [
+      [
+        "subtractive",
+        "JJ"
+      ],
+      [
+        "color",
+        "NN"
+      ],
+      [
+        "mixing",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "color",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "mixing",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "subtractive",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "subtractive",
+          "JJ"
+        ],
+        [
+          "color",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "color",
+          "NN"
+        ],
+        [
+          "mixing",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "size distance",
+    "primary": [
+      [
+        "size",
+        "NN"
+      ],
+      [
+        "distance",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "size",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "distance",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "upwelling",
+    "primary": [
+      [
+        "upwelling",
+        "VBG"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "nonlinear behavior",
+    "primary": [
+      [
+        "nonlinear",
+        "JJ"
+      ],
+      [
+        "behavior",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "behavior",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "nonlinear",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "information processing and encoding",
+    "primary": [
+      [
+        "information",
+        "NN"
+      ],
+      [
+        "processing",
+        "NN"
+      ],
+      [
+        "and",
+        "CC"
+      ],
+      [
+        "encoding",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "information",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "processing",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "encoding",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "information",
+          "NN"
+        ],
+        [
+          "processing",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "information",
+          "NN"
+        ],
+        [
+          "encoding",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "resonance",
+    "primary": [
+      [
+        "resonance",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "spatial perception",
+    "primary": [
+      [
+        "spatial",
+        "JJ"
+      ],
+      [
+        "perception",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "perception",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "spatial",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "attention",
+    "primary": [
+      [
+        "attention",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "melting",
+    "primary": [
+      [
+        "melting",
+        "VBG"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "visual edge effects",
+    "primary": [
+      [
+        "visual",
+        "JJ"
+      ],
+      [
+        "edge",
+        "NN"
+      ],
+      [
+        "effects",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "edge",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "effects",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "visual",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "visual",
+          "JJ"
+        ],
+        [
+          "edge",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "edge",
+          "NN"
+        ],
+        [
+          "effects",
+          "NNS"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "superposition",
+    "primary": [
+      [
+        "superposition",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "exponentials",
+    "primary": [
+      [
+        "exponentials",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "surface tension of liquids",
+    "primary": [
+      [
+        "surface",
+        "NN"
+      ],
+      [
+        "tension",
+        "NN"
+      ],
+      [
+        "of",
+        "IN"
+      ],
+      [
+        "liquids",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "surface",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "tension",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "liquids",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "surface",
+          "NN"
+        ],
+        [
+          "tension",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "liquids",
+          "NNS"
+        ],
+        [
+          "tension",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "numbers",
+    "primary": [
+      [
+        "numbers",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "complimentary color",
+    "primary": [
+      [
+        "complimentary",
+        "JJ"
+      ],
+      [
+        "color",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "color",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "complimentary",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "binocular vision",
+    "primary": [
+      [
+        "binocular",
+        "JJ"
+      ],
+      [
+        "vision",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "vision",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "binocular",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "crystallization",
+    "primary": [
+      [
+        "crystallization",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "fatigue",
+    "primary": [
+      [
+        "fatigue",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "color vision",
+    "primary": [
+      [
+        "color",
+        "NN"
+      ],
+      [
+        "vision",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "color",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "vision",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "oscillation",
+    "primary": [
+      [
+        "oscillation",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "iridescence",
+    "primary": [
+      [
+        "iridescence",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "conservation of angular momentum",
+    "primary": [
+      [
+        "conservation",
+        "NN"
+      ],
+      [
+        "of",
+        "IN"
+      ],
+      [
+        "angular",
+        "JJ"
+      ],
+      [
+        "momentum",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "conservation",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "momentum",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "angular",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "angular",
+          "JJ"
+        ],
+        [
+          "momentum",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "decomposition",
+    "primary": [
+      [
+        "decomposition",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "polarization",
+    "primary": [
+      [
+        "polarization",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "evaporation",
+    "primary": [
+      [
+        "evaporation",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "close packing",
+    "primary": [
+      [
+        "close",
+        "RB"
+      ],
+      [
+        "packing",
+        "VBG"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "packing",
+          "VBG"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "ferromagnetism",
+    "primary": [
+      [
+        "ferromagnetism",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "parabolas",
+    "primary": [
+      [
+        "parabolas",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "metacognition",
+    "primary": [
+      [
+        "metacognition",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "albedo",
+    "primary": [
+      [
+        "albedo",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "depth perception",
+    "primary": [
+      [
+        "depth",
+        "NN"
+      ],
+      [
+        "perception",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "depth",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "perception",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "transverse waves",
+    "primary": [
+      [
+        "transverse",
+        "NN"
+      ],
+      [
+        "waves",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "transverse",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "waves",
+          "NNS"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "probability",
+    "primary": [
+      [
+        "probability",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "shadows",
+    "primary": [
+      [
+        "shadows",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "rhythm",
+    "primary": [
+      [
+        "rhythm",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "composition of perpendicular motion",
+    "primary": [
+      [
+        "composition",
+        "NN"
+      ],
+      [
+        "of",
+        "IN"
+      ],
+      [
+        "perpendicular",
+        "JJ"
+      ],
+      [
+        "motion",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "composition",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "perpendicular",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "perpendicular",
+          "JJ"
+        ],
+        [
+          "motion",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "simple harmonic motion",
+    "primary": [
+      [
+        "simple",
+        "NN"
+      ],
+      [
+        "harmonic",
+        "JJ"
+      ],
+      [
+        "motion",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "simple",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "harmonic",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "harmonic",
+          "JJ"
+        ],
+        [
+          "motion",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "social loafing",
+    "primary": [
+      [
+        "social",
+        "JJ"
+      ],
+      [
+        "loafing",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "loafing",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "social",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "gravitational forces",
+    "primary": [
+      [
+        "gravitational",
+        "JJ"
+      ],
+      [
+        "forces",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "forces",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "gravitational",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "torque",
+    "primary": [
+      [
+        "torque",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "social influence",
+    "primary": [
+      [
+        "social",
+        "JJ"
+      ],
+      [
+        "influence",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "influence",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "social",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "phase",
+    "primary": [
+      [
+        "phase",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "accelerated rotational motion",
+    "primary": [
+      [
+        "accelerated",
+        "VBN"
+      ],
+      [
+        "rotational",
+        "JJ"
+      ],
+      [
+        "motion",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "accelerated",
+          "VBN"
+        ]
+      ],
+      [
+        [
+          "rotational",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "rotational",
+          "JJ"
+        ],
+        [
+          "motion",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "interference",
+    "primary": [
+      [
+        "interference",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "standing waves",
+    "primary": [
+      [
+        "standing",
+        "VBG"
+      ],
+      [
+        "waves",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "waves",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "standing",
+          "VBG"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "vortices",
+    "primary": [
+      [
+        "vortices",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "ionization",
+    "primary": [
+      [
+        "ionization",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "prisoner 's dilemma",
+    "primary": [
+      [
+        "prisoner",
+        "NN"
+      ],
+      [
+        "'s",
+        "POS"
+      ],
+      [
+        "dilemma",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "prisoner",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "dilemma",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "patterns",
+    "primary": [
+      [
+        "patterns",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "damping",
+    "primary": [
+      [
+        "damping",
+        "VBG"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "persistence of vision",
+    "primary": [
+      [
+        "persistence",
+        "NN"
+      ],
+      [
+        "of",
+        "IN"
+      ],
+      [
+        "vision",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "persistence",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "vision",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "vision",
+          "NN"
+        ],
+        [
+          "persistence",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "coand\u0103 effect",
+    "primary": [
+      [
+        "coand\u0103",
+        "NNS"
+      ],
+      [
+        "effect",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "coand\u0103",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "effect",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "conservation of energy",
+    "primary": [
+      [
+        "conservation",
+        "NN"
+      ],
+      [
+        "of",
+        "IN"
+      ],
+      [
+        "energy",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "conservation",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "energy",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "energy",
+          "NN"
+        ],
+        [
+          "conservation",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "reproduction",
+    "primary": [
+      [
+        "reproduction",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "precession",
+    "primary": [
+      [
+        "precession",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "hand eye coordination",
+    "primary": [
+      [
+        "hand",
+        "NN"
+      ],
+      [
+        "eye",
+        "NN"
+      ],
+      [
+        "coordination",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "hand",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "eye",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "coordination",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "hand",
+          "NN"
+        ],
+        [
+          "eye",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "eye",
+          "NN"
+        ],
+        [
+          "coordination",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "wave guide",
+    "primary": [
+      [
+        "wave",
+        "NN"
+      ],
+      [
+        "guide",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "wave",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "guide",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "information and noise",
+    "primary": [
+      [
+        "information",
+        "NN"
+      ],
+      [
+        "and",
+        "CC"
+      ],
+      [
+        "noise",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "information",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "noise",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "pendular motion",
+    "primary": [
+      [
+        "pendular",
+        "JJ"
+      ],
+      [
+        "motion",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "pendular",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "kinetic energy",
+    "primary": [
+      [
+        "kinetic",
+        "JJ"
+      ],
+      [
+        "energy",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "energy",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "kinetic",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "real images",
+    "primary": [
+      [
+        "real",
+        "JJ"
+      ],
+      [
+        "images",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "images",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "real",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "refraction",
+    "primary": [
+      [
+        "refraction",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "parabolic arc",
+    "primary": [
+      [
+        "parabolic",
+        "JJ"
+      ],
+      [
+        "arc",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "arc",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "parabolic",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "color mixing",
+    "primary": [
+      [
+        "color",
+        "NN"
+      ],
+      [
+        "mixing",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "color",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "mixing",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "light production",
+    "primary": [
+      [
+        "light",
+        "JJ"
+      ],
+      [
+        "production",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "production",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "light",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "techniques to make the invisible visible",
+    "primary": [
+      [
+        "techniques",
+        "NNS"
+      ],
+      [
+        "to",
+        "TO"
+      ],
+      [
+        "make",
+        "VB"
+      ],
+      [
+        "the",
+        "DT"
+      ],
+      [
+        "invisible",
+        "JJ"
+      ],
+      [
+        "visible",
+        "JJ"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "techniques",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "make",
+          "VB"
+        ]
+      ],
+      [
+        [
+          "invisible",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "visible",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "electric current",
+    "primary": [
+      [
+        "electric",
+        "JJ"
+      ],
+      [
+        "current",
+        "JJ"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "electric",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "current",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "linear inertia",
+    "primary": [
+      [
+        "linear",
+        "JJ"
+      ],
+      [
+        "inertia",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "inertia",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "linear",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "parallax",
+    "primary": [
+      [
+        "parallax",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "phosphoresence",
+    "primary": [
+      [
+        "phosphoresence",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "diffraction",
+    "primary": [
+      [
+        "diffraction",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "dominant cues",
+    "primary": [
+      [
+        "dominant",
+        "JJ"
+      ],
+      [
+        "cues",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "cues",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "dominant",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "selective awareness",
+    "primary": [
+      [
+        "selective",
+        "JJ"
+      ],
+      [
+        "awareness",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "awareness",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "selective",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "gas flow",
+    "primary": [
+      [
+        "gas",
+        "NN"
+      ],
+      [
+        "flow",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "gas",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "flow",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "stereotypes",
+    "primary": [
+      [
+        "stereotypes",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "laminar flow",
+    "primary": [
+      [
+        "laminar",
+        "NN"
+      ],
+      [
+        "flow",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "laminar",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "flow",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "resource sharing",
+    "primary": [
+      [
+        "resource",
+        "NN"
+      ],
+      [
+        "sharing",
+        "VBG"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "resource",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "sharing",
+          "VBG"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "freezing",
+    "primary": [
+      [
+        "freezing",
+        "VBG"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "dispersion",
+    "primary": [
+      [
+        "dispersion",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "light gathering",
+    "primary": [
+      [
+        "light",
+        "NN"
+      ],
+      [
+        "gathering",
+        "VBG"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "light",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "gathering",
+          "VBG"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "rotational motion",
+    "primary": [
+      [
+        "rotational",
+        "JJ"
+      ],
+      [
+        "motion",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "rotational",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "randomness",
+    "primary": [
+      [
+        "randomness",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "harmonics",
+    "primary": [
+      [
+        "harmonics",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "pressure",
+    "primary": [
+      [
+        "pressure",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "scattering",
+    "primary": [
+      [
+        "scattering",
+        "VBG"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "social dilemma",
+    "primary": [
+      [
+        "social",
+        "JJ"
+      ],
+      [
+        "dilemma",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "dilemma",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "social",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "mental tasks",
+    "primary": [
+      [
+        "mental",
+        "JJ"
+      ],
+      [
+        "tasks",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "tasks",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "mental",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "condensation",
+    "primary": [
+      [
+        "condensation",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "reflection",
+    "primary": [
+      [
+        "reflection",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "gyroscopics",
+    "primary": [
+      [
+        "gyroscopics",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "rotational inertia",
+    "primary": [
+      [
+        "rotational",
+        "JJ"
+      ],
+      [
+        "inertia",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "inertia",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "rotational",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "fluid mechanics",
+    "primary": [
+      [
+        "fluid",
+        "NN"
+      ],
+      [
+        "mechanics",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "fluid",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "mechanics",
+          "NNS"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "change of state",
+    "primary": [
+      [
+        "change",
+        "NN"
+      ],
+      [
+        "of",
+        "IN"
+      ],
+      [
+        "state",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "change",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "state",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "state",
+          "NN"
+        ],
+        [
+          "change",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "symmetry",
+    "primary": [
+      [
+        "symmetry",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "color separation",
+    "primary": [
+      [
+        "color",
+        "NN"
+      ],
+      [
+        "separation",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "color",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "separation",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "phototaxis",
+    "primary": [
+      [
+        "phototaxis",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "electromagnetic radiation spectrum",
+    "primary": [
+      [
+        "electromagnetic",
+        "JJ"
+      ],
+      [
+        "radiation",
+        "NN"
+      ],
+      [
+        "spectrum",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "radiation",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "spectrum",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "electromagnetic",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "electromagnetic",
+          "JJ"
+        ],
+        [
+          "radiation",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "radiation",
+          "NN"
+        ],
+        [
+          "spectrum",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "frequency",
+    "primary": [
+      [
+        "frequency",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "accelerated linear motion",
+    "primary": [
+      [
+        "accelerated",
+        "VBN"
+      ],
+      [
+        "linear",
+        "JJ"
+      ],
+      [
+        "motion",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "accelerated",
+          "VBN"
+        ]
+      ],
+      [
+        [
+          "linear",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "linear",
+          "JJ"
+        ],
+        [
+          "motion",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "reaction time",
+    "primary": [
+      [
+        "reaction",
+        "NN"
+      ],
+      [
+        "time",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "reaction",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "time",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "transformation of energy",
+    "primary": [
+      [
+        "transformation",
+        "NN"
+      ],
+      [
+        "of",
+        "IN"
+      ],
+      [
+        "energy",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "transformation",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "energy",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "energy",
+          "NN"
+        ],
+        [
+          "transformation",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "emotion",
+    "primary": [
+      [
+        "emotion",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "feedback",
+    "primary": [
+      [
+        "feedback",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "apparent motion",
+    "primary": [
+      [
+        "apparent",
+        "JJ"
+      ],
+      [
+        "motion",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "apparent",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "atoms and particles",
+    "primary": [
+      [
+        "atoms",
+        "NNS"
+      ],
+      [
+        "and",
+        "CC"
+      ],
+      [
+        "particles",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "atoms",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "particles",
+          "NNS"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "number series",
+    "primary": [
+      [
+        "number",
+        "NN"
+      ],
+      [
+        "series",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "number",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "series",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "mental activity",
+    "primary": [
+      [
+        "mental",
+        "JJ"
+      ],
+      [
+        "activity",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "activity",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "mental",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "effect of temperature",
+    "primary": [
+      [
+        "effect",
+        "NN"
+      ],
+      [
+        "of",
+        "IN"
+      ],
+      [
+        "temperature",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "effect",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "temperature",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "temperature",
+          "NN"
+        ],
+        [
+          "effect",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "embryonic development",
+    "primary": [
+      [
+        "embryonic",
+        "JJ"
+      ],
+      [
+        "development",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "development",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "embryonic",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "color",
+    "primary": [
+      [
+        "color",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "magnetization",
+    "primary": [
+      [
+        "magnetization",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "time effects in perception",
+    "primary": [
+      [
+        "time",
+        "NN"
+      ],
+      [
+        "effects",
+        "NNS"
+      ],
+      [
+        "in",
+        "IN"
+      ],
+      [
+        "perception",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "time",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "effects",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "perception",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "time",
+          "NN"
+        ],
+        [
+          "effects",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "perception",
+          "NN"
+        ],
+        [
+          "effects",
+          "NNS"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "motion detection",
+    "primary": [
+      [
+        "motion",
+        "NN"
+      ],
+      [
+        "detection",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "detection",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "visual motion detection",
+    "primary": [
+      [
+        "visual",
+        "JJ"
+      ],
+      [
+        "motion",
+        "NN"
+      ],
+      [
+        "detection",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "detection",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "visual",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "visual",
+          "JJ"
+        ],
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "motion",
+          "NN"
+        ],
+        [
+          "detection",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "friction",
+    "primary": [
+      [
+        "friction",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "economic exchange",
+    "primary": [
+      [
+        "economic",
+        "JJ"
+      ],
+      [
+        "exchange",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "exchange",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "economic",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "light absorption",
+    "primary": [
+      [
+        "light",
+        "JJ"
+      ],
+      [
+        "absorption",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "absorption",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "light",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "turbulent flow",
+    "primary": [
+      [
+        "turbulent",
+        "NN"
+      ],
+      [
+        "flow",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "turbulent",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "flow",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "blackness",
+    "primary": [
+      [
+        "blackness",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "modeling landscapes",
+    "primary": [
+      [
+        "modeling",
+        "VBG"
+      ],
+      [
+        "landscapes",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "landscapes",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "modeling",
+          "VBG"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "fluorescence",
+    "primary": [
+      [
+        "fluorescence",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "projections",
+    "primary": [
+      [
+        "projections",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "photosynthesis",
+    "primary": [
+      [
+        "photosynthesis",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "lateral inhibition",
+    "primary": [
+      [
+        "lateral",
+        "JJ"
+      ],
+      [
+        "inhibition",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "inhibition",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "lateral",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "microscopy",
+    "primary": [
+      [
+        "microscopy",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "potential energy",
+    "primary": [
+      [
+        "potential",
+        "JJ"
+      ],
+      [
+        "energy",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "energy",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "potential",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "wave excitation",
+    "primary": [
+      [
+        "wave",
+        "NN"
+      ],
+      [
+        "excitation",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "wave",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "excitation",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "periodic motion",
+    "primary": [
+      [
+        "periodic",
+        "JJ"
+      ],
+      [
+        "motion",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "periodic",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "biases",
+    "primary": [
+      [
+        "biases",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "electromagnetic forces",
+    "primary": [
+      [
+        "electromagnetic",
+        "JJ"
+      ],
+      [
+        "forces",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "forces",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "electromagnetic",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "amibiguous cues",
+    "primary": [
+      [
+        "amibiguous",
+        "JJ"
+      ],
+      [
+        "cues",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "cues",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "amibiguous",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "image formation",
+    "primary": [
+      [
+        "image",
+        "NN"
+      ],
+      [
+        "formation",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "image",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "formation",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "parabolic mirrors",
+    "primary": [
+      [
+        "parabolic",
+        "JJ"
+      ],
+      [
+        "mirrors",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "mirrors",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "parabolic",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "wind",
+    "primary": [
+      [
+        "wind",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "lenses",
+    "primary": [
+      [
+        "lenses",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "center of gravity",
+    "primary": [
+      [
+        "center",
+        "NN"
+      ],
+      [
+        "of",
+        "IN"
+      ],
+      [
+        "gravity",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "center",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "gravity",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "gravity",
+          "NN"
+        ],
+        [
+          "center",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "vibration",
+    "primary": [
+      [
+        "vibration",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "weather",
+    "primary": [
+      [
+        "weather",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "identity",
+    "primary": [
+      [
+        "identity",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "cornsweet illusion",
+    "primary": [
+      [
+        "cornsweet",
+        "NN"
+      ],
+      [
+        "illusion",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "cornsweet",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "illusion",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "acoustics",
+    "primary": [
+      [
+        "acoustics",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "evaporation",
+    "primary": [
+      [
+        "evaporation",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "chicken wire",
+    "primary": [
+      [
+        "chicken",
+        "NN"
+      ],
+      [
+        "wire",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "chicken",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "wire",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "ocean",
+    "primary": [
+      [
+        "ocean",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "sharks",
+    "primary": [
+      [
+        "sharks",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "neon",
+    "primary": [
+      [
+        "neon",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "migrations",
+    "primary": [
+      [
+        "migrations",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "huygens ' principle",
+    "primary": [
+      [
+        "huygens",
+        "NNS"
+      ],
+      [
+        "'",
+        "POS"
+      ],
+      [
+        "principle",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "huygens",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "principle",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "mirrors",
+    "primary": [
+      [
+        "mirrors",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "turbulence",
+    "primary": [
+      [
+        "turbulence",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "carbon dioxide",
+    "primary": [
+      [
+        "carbon",
+        "NN"
+      ],
+      [
+        "dioxide",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "carbon",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "dioxide",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "parallel",
+    "primary": [
+      [
+        "parallel",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "phase angle",
+    "primary": [
+      [
+        "phase",
+        "NN"
+      ],
+      [
+        "angle",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "phase",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "angle",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "parabolas",
+    "primary": [
+      [
+        "parabolas",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "organisms",
+    "primary": [
+      [
+        "organisms",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "cosmic rays",
+    "primary": [
+      [
+        "cosmic",
+        "JJ"
+      ],
+      [
+        "rays",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "rays",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "cosmic",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "simultaneous contrast",
+    "primary": [
+      [
+        "simultaneous",
+        "JJ"
+      ],
+      [
+        "contrast",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "contrast",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "simultaneous",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "series",
+    "primary": [
+      [
+        "series",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "chaos",
+    "primary": [
+      [
+        "chaos",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "amplification",
+    "primary": [
+      [
+        "amplification",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "genetics",
+    "primary": [
+      [
+        "genetics",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "lasers",
+    "primary": [
+      [
+        "lasers",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "artwork",
+    "primary": [
+      [
+        "artwork",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "membrane",
+    "primary": [
+      [
+        "membrane",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "newton 's laws",
+    "primary": [
+      [
+        "newton",
+        "NN"
+      ],
+      [
+        "'s",
+        "POS"
+      ],
+      [
+        "laws",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "newton",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "laws",
+          "NNS"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "reflections",
+    "primary": [
+      [
+        "reflections",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "ratio",
+    "primary": [
+      [
+        "ratio",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "circuit",
+    "primary": [
+      [
+        "circuit",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "ping pong balls",
+    "primary": [
+      [
+        "ping",
+        "VBG"
+      ],
+      [
+        "pong",
+        "NN"
+      ],
+      [
+        "balls",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "pong",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "balls",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "ping",
+          "VBG"
+        ]
+      ],
+      [
+        [
+          "pong",
+          "NN"
+        ],
+        [
+          "balls",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "ping",
+          "VBG"
+        ],
+        [
+          "pong",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "dna",
+    "primary": [
+      [
+        "dna",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "levitation",
+    "primary": [
+      [
+        "levitation",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "navigation",
+    "primary": [
+      [
+        "navigation",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "curves",
+    "primary": [
+      [
+        "curves",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "illusions",
+    "primary": [
+      [
+        "illusions",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "model organisms",
+    "primary": [
+      [
+        "model",
+        "NN"
+      ],
+      [
+        "organisms",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "model",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "organisms",
+          "NNS"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "whales",
+    "primary": [
+      [
+        "whales",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "gases",
+    "primary": [
+      [
+        "gases",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "portraits",
+    "primary": [
+      [
+        "portraits",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "sun",
+    "primary": [
+      [
+        "sun",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "bicycle wheel",
+    "primary": [
+      [
+        "bicycle",
+        "NN"
+      ],
+      [
+        "wheel",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "bicycle",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "wheel",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "speakers",
+    "primary": [
+      [
+        "speakers",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "identical twins",
+    "primary": [
+      [
+        "identical",
+        "JJ"
+      ],
+      [
+        "twins",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "twins",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "identical",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "pendulums",
+    "primary": [
+      [
+        "pendulums",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "dissection",
+    "primary": [
+      [
+        "dissection",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "eyes",
+    "primary": [
+      [
+        "eyes",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "nerves",
+    "primary": [
+      [
+        "nerves",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "wind",
+    "primary": [
+      [
+        "wind",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "zebrafish",
+    "primary": [
+      [
+        "zebrafish",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "heat transfer",
+    "primary": [
+      [
+        "heat",
+        "NN"
+      ],
+      [
+        "transfer",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "heat",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "transfer",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "volcanoes",
+    "primary": [
+      [
+        "volcanoes",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "marine",
+    "primary": [
+      [
+        "marine",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "pacific",
+    "primary": [
+      [
+        "pacific",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "complexity",
+    "primary": [
+      [
+        "complexity",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "turtles",
+    "primary": [
+      [
+        "turtles",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "condensation",
+    "primary": [
+      [
+        "condensation",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "appearance",
+    "primary": [
+      [
+        "appearance",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "unicellular organisms",
+    "primary": [
+      [
+        "unicellular",
+        "JJ"
+      ],
+      [
+        "organisms",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "organisms",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "unicellular",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "tides",
+    "primary": [
+      [
+        "tides",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "ganzfeld effect",
+    "primary": [
+      [
+        "ganzfeld",
+        "NN"
+      ],
+      [
+        "effect",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "ganzfeld",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "effect",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "afterimage",
+    "primary": [
+      [
+        "afterimage",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "fragmentation",
+    "primary": [
+      [
+        "fragmentation",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "cmy retina",
+    "primary": [
+      [
+        "cmy",
+        "NN"
+      ],
+      [
+        "retina",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "cmy",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "retina",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "balance",
+    "primary": [
+      [
+        "balance",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "boundary",
+    "primary": [
+      [
+        "boundary",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "magnetic field",
+    "primary": [
+      [
+        "magnetic",
+        "JJ"
+      ],
+      [
+        "field",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "field",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "magnetic",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "photography",
+    "primary": [
+      [
+        "photography",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "chladni",
+    "primary": [
+      [
+        "chladni",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "spinning",
+    "primary": [
+      [
+        "spinning",
+        "VBG"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "wavelength",
+    "primary": [
+      [
+        "wavelength",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "cells",
+    "primary": [
+      [
+        "cells",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "prisms",
+    "primary": [
+      [
+        "prisms",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "pressure",
+    "primary": [
+      [
+        "pressure",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "water",
+    "primary": [
+      [
+        "water",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "proportion",
+    "primary": [
+      [
+        "proportion",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "earthquakes",
+    "primary": [
+      [
+        "earthquakes",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "attentive listening",
+    "primary": [
+      [
+        "attentive",
+        "JJ"
+      ],
+      [
+        "listening",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "listening",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "attentive",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "rotation",
+    "primary": [
+      [
+        "rotation",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "electrolysis",
+    "primary": [
+      [
+        "electrolysis",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "sand",
+    "primary": [
+      [
+        "sand",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "equilibrium",
+    "primary": [
+      [
+        "equilibrium",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "human traits genetics environment nature nurture inheritance diversity",
+    "primary": [
+      [
+        "human",
+        "JJ"
+      ],
+      [
+        "traits",
+        "VBZ"
+      ],
+      [
+        "genetics",
+        "NNS"
+      ],
+      [
+        "environment",
+        "NN"
+      ],
+      [
+        "nature",
+        "NN"
+      ],
+      [
+        "nurture",
+        "NN"
+      ],
+      [
+        "inheritance",
+        "NN"
+      ],
+      [
+        "diversity",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "genetics",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "environment",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "nature",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "nurture",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "inheritance",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "diversity",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "traits",
+          "VBZ"
+        ]
+      ],
+      [
+        [
+          "human",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "genetics",
+          "NNS"
+        ],
+        [
+          "environment",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "environment",
+          "NN"
+        ],
+        [
+          "nature",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "nature",
+          "NN"
+        ],
+        [
+          "nurture",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "nurture",
+          "NN"
+        ],
+        [
+          "inheritance",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "inheritance",
+          "NN"
+        ],
+        [
+          "diversity",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "traits",
+          "VBZ"
+        ],
+        [
+          "genetics",
+          "NNS"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "magnification",
+    "primary": [
+      [
+        "magnification",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "habitat",
+    "primary": [
+      [
+        "habitat",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "stroop effect",
+    "primary": [
+      [
+        "stroop",
+        "NN"
+      ],
+      [
+        "effect",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "stroop",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "effect",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "rgb",
+    "primary": [
+      [
+        "rgb",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "fish eggs",
+    "primary": [
+      [
+        "fish",
+        "NN"
+      ],
+      [
+        "eggs",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "fish",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "eggs",
+          "NNS"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "soap",
+    "primary": [
+      [
+        "soap",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "cooperation",
+    "primary": [
+      [
+        "cooperation",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "scale",
+    "primary": [
+      [
+        "scale",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "focal point",
+    "primary": [
+      [
+        "focal",
+        "JJ"
+      ],
+      [
+        "point",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "point",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "focal",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "perspective",
+    "primary": [
+      [
+        "perspective",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "magnet",
+    "primary": [
+      [
+        "magnet",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "musical instruments",
+    "primary": [
+      [
+        "musical",
+        "JJ"
+      ],
+      [
+        "instruments",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "instruments",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "musical",
+          "JJ"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "comets",
+    "primary": [
+      [
+        "comets",
+        "NNS"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "cmy",
+    "primary": [
+      [
+        "cmy",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "embryology",
+    "primary": [
+      [
+        "embryology",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "model",
+    "primary": [
+      [
+        "model",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "adaptation",
+    "primary": [
+      [
+        "adaptation",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "sundial",
+    "primary": [
+      [
+        "sundial",
+        "JJ"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "plankton",
+    "primary": [
+      [
+        "plankton",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "fog",
+    "primary": [
+      [
+        "fog",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "skin",
+    "primary": [
+      [
+        "skin",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "cells movement animation",
+    "primary": [
+      [
+        "cells",
+        "NNS"
+      ],
+      [
+        "movement",
+        "NN"
+      ],
+      [
+        "animation",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "cells",
+          "NNS"
+        ]
+      ],
+      [
+        [
+          "movement",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "animation",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "cells",
+          "NNS"
+        ],
+        [
+          "movement",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "movement",
+          "NN"
+        ],
+        [
+          "animation",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "moon",
+    "primary": [
+      [
+        "moon",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "human generosity project",
+    "primary": [
+      [
+        "human",
+        "JJ"
+      ],
+      [
+        "generosity",
+        "NN"
+      ],
+      [
+        "project",
+        "NN"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "generosity",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "project",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "human",
+          "JJ"
+        ]
+      ],
+      [
+        [
+          "human",
+          "JJ"
+        ],
+        [
+          "generosity",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "generosity",
+          "NN"
+        ],
+        [
+          "project",
+          "NN"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "air currents",
+    "primary": [
+      [
+        "air",
+        "NN"
+      ],
+      [
+        "currents",
+        "NNS"
+      ]
+    ],
+    "related": [
+      [
+        [
+          "air",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "currents",
+          "NNS"
+        ]
+      ]
+    ]
+  },
+  {
+    "text": "gravity",
+    "primary": [
+      [
+        "gravity",
+        "NN"
+      ]
+    ],
+    "related": []
+  },
+  {
+    "text": "bubbles",
+    "primary": [
+      [
+        "bubbles",
+        "NNS"
+      ]
+    ],
+    "related": []
+  }
+]
