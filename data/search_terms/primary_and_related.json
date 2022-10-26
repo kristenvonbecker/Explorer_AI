@@ -49,20 +49,12 @@
     "related": [
       [
         [
-          "fields",
-          "NNS"
-        ]
-      ],
-      [
-        [
-          "forces",
-          "NNS"
-        ]
-      ],
-      [
-        [
           "electric",
           "JJ"
+        ],
+        [
+          "field",
+          "NN"
         ]
       ],
       [
@@ -71,18 +63,26 @@
           "JJ"
         ],
         [
-          "fields",
-          "NNS"
+          "force",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "field",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "force",
+          "NN"
         ]
       ],
       [
         [
           "electric",
           "JJ"
-        ],
-        [
-          "forces",
-          "NNS"
         ]
       ]
     ]
@@ -106,6 +106,26 @@
     "related": [
       [
         [
+          "gravitational",
+          "JJ"
+        ],
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "accelerated",
+          "VBN"
+        ],
+        [
           "motion",
           "NN"
         ]
@@ -121,16 +141,6 @@
           "gravitational",
           "JJ"
         ]
-      ],
-      [
-        [
-          "gravitational",
-          "JJ"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
       ]
     ]
   },
@@ -142,7 +152,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "afterimage",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "judgment",
@@ -152,7 +169,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "judgment",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "thin films",
@@ -169,8 +193,8 @@
     "related": [
       [
         [
-          "films",
-          "NNS"
+          "film",
+          "NN"
         ]
       ],
       [
@@ -241,14 +265,14 @@
     "related": [
       [
         [
-          "nodes",
-          "NNS"
+          "node",
+          "NN"
         ]
       ],
       [
         [
-          "antinodes",
-          "NNS"
+          "antinode",
+          "NN"
         ]
       ]
     ]
@@ -261,7 +285,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "sublimation",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "bernoulli effect",
@@ -278,8 +309,8 @@
     "related": [
       [
         [
-          "bernoulli",
-          "NNS"
+          "bernoullis",
+          "NN"
         ]
       ],
       [
@@ -309,6 +340,26 @@
     "related": [
       [
         [
+          "subtractive",
+          "JJ"
+        ],
+        [
+          "color",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "subtractive",
+          "JJ"
+        ],
+        [
+          "mixing",
+          "NN"
+        ]
+      ],
+      [
+        [
           "color",
           "NN"
         ]
@@ -321,28 +372,18 @@
       ],
       [
         [
-          "subtractive",
-          "JJ"
-        ]
-      ],
-      [
-        [
-          "subtractive",
-          "JJ"
-        ],
-        [
-          "color",
-          "NN"
-        ]
-      ],
-      [
-        [
           "color",
           "NN"
         ],
         [
           "mixing",
           "NN"
+        ]
+      ],
+      [
+        [
+          "subtractive",
+          "JJ"
         ]
       ]
     ]
@@ -480,7 +521,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "resonance",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "spatial perception",
@@ -517,7 +565,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "attention",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "melting",
@@ -548,24 +603,6 @@
     "related": [
       [
         [
-          "edge",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "effects",
-          "NNS"
-        ]
-      ],
-      [
-        [
-          "visual",
-          "JJ"
-        ]
-      ],
-      [
-        [
           "visual",
           "JJ"
         ],
@@ -576,12 +613,40 @@
       ],
       [
         [
+          "visual",
+          "JJ"
+        ],
+        [
+          "effect",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "edge",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "effect",
+          "NN"
+        ]
+      ],
+      [
+        [
           "edge",
           "NN"
         ],
         [
-          "effects",
-          "NNS"
+          "effect",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "visual",
+          "JJ"
         ]
       ]
     ]
@@ -594,7 +659,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "superposition",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "exponentials",
@@ -604,7 +676,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "exponential",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "surface tension of liquids",
@@ -641,8 +720,8 @@
       ],
       [
         [
-          "liquids",
-          "NNS"
+          "liquid",
+          "NN"
         ]
       ],
       [
@@ -657,8 +736,8 @@
       ],
       [
         [
-          "liquids",
-          "NNS"
+          "liquid",
+          "NN"
         ],
         [
           "tension",
@@ -675,7 +754,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "number",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "complimentary color",
@@ -739,7 +825,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "crystallization",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "fatigue",
@@ -749,7 +842,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "fatigue",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "color vision",
@@ -786,7 +886,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "oscillation",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "iridescence",
@@ -796,7 +903,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "iridescence",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "conservation of angular momentum",
@@ -821,6 +935,16 @@
     "related": [
       [
         [
+          "angular",
+          "JJ"
+        ],
+        [
+          "momentum",
+          "NN"
+        ]
+      ],
+      [
+        [
           "conservation",
           "NN"
         ]
@@ -833,18 +957,22 @@
       ],
       [
         [
-          "angular",
-          "JJ"
+          "conservation",
+          "NN"
+        ],
+        [
+          "of",
+          "IN"
+        ],
+        [
+          "momentum",
+          "NN"
         ]
       ],
       [
         [
           "angular",
           "JJ"
-        ],
-        [
-          "momentum",
-          "NN"
         ]
       ]
     ]
@@ -857,7 +985,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "decomposition",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "polarization",
@@ -867,7 +1002,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "polarization",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "evaporation",
@@ -877,7 +1019,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "evaporation",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "close packing",
@@ -908,7 +1057,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "ferromagnetism",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "parabolas",
@@ -918,7 +1074,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "parabola",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "metacognition",
@@ -928,7 +1091,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "metacognition",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "albedo",
@@ -938,7 +1108,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "albedo",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "depth perception",
@@ -988,8 +1165,8 @@
       ],
       [
         [
-          "waves",
-          "NNS"
+          "wave",
+          "NN"
         ]
       ]
     ]
@@ -1002,7 +1179,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "probability",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "shadows",
@@ -1012,7 +1196,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "shadow",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "rhythm",
@@ -1022,7 +1213,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "rhythm",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "composition of perpendicular motion",
@@ -1047,6 +1245,16 @@
     "related": [
       [
         [
+          "perpendicular",
+          "JJ"
+        ],
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
           "composition",
           "NN"
         ]
@@ -1059,18 +1267,22 @@
       ],
       [
         [
-          "perpendicular",
-          "JJ"
+          "composition",
+          "NN"
+        ],
+        [
+          "of",
+          "IN"
+        ],
+        [
+          "motion",
+          "NN"
         ]
       ],
       [
         [
           "perpendicular",
           "JJ"
-        ],
-        [
-          "motion",
-          "NN"
         ]
       ]
     ]
@@ -1094,6 +1306,16 @@
     "related": [
       [
         [
+          "harmonic",
+          "JJ"
+        ],
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
           "simple",
           "NN"
         ]
@@ -1106,18 +1328,18 @@
       ],
       [
         [
-          "harmonic",
-          "JJ"
+          "simple",
+          "NN"
+        ],
+        [
+          "motion",
+          "NN"
         ]
       ],
       [
         [
           "harmonic",
           "JJ"
-        ],
-        [
-          "motion",
-          "NN"
         ]
       ]
     ]
@@ -1164,8 +1386,8 @@
     "related": [
       [
         [
-          "forces",
-          "NNS"
+          "force",
+          "NN"
         ]
       ],
       [
@@ -1184,7 +1406,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "torque",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "social influence",
@@ -1221,7 +1450,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "phase",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "accelerated rotational motion",
@@ -1242,6 +1478,26 @@
     "related": [
       [
         [
+          "rotational",
+          "JJ"
+        ],
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "accelerated",
+          "VBN"
+        ],
+        [
           "motion",
           "NN"
         ]
@@ -1257,16 +1513,6 @@
           "rotational",
           "JJ"
         ]
-      ],
-      [
-        [
-          "rotational",
-          "JJ"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
       ]
     ]
   },
@@ -1278,7 +1524,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "interference",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "standing waves",
@@ -1295,8 +1548,8 @@
     "related": [
       [
         [
-          "waves",
-          "NNS"
+          "wave",
+          "NN"
         ]
       ],
       [
@@ -1315,7 +1568,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "vortice",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "ionization",
@@ -1325,22 +1585,25 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "ionization",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
-    "text": "prisoner 's dilemma",
+    "text": "prisoners dilemma",
     "primary": [
       [
-        "prisoner",
-        "NN"
-      ],
-      [
-        "'s",
-        "POS"
+        "prisoners",
+        "NNS"
       ],
       [
         "dilemma",
-        "NN"
+        "VBP"
       ]
     ],
     "related": [
@@ -1353,7 +1616,7 @@
       [
         [
           "dilemma",
-          "NN"
+          "VBP"
         ]
       ]
     ]
@@ -1366,7 +1629,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "pattern",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "damping",
@@ -1434,8 +1704,8 @@
     "related": [
       [
         [
-          "coand\u0103",
-          "NNS"
+          "coand\u0103s",
+          "NN"
         ]
       ],
       [
@@ -1495,7 +1765,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "reproduction",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "precession",
@@ -1505,7 +1782,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "precession",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "hand eye coordination",
@@ -1691,8 +1975,8 @@
     "related": [
       [
         [
-          "images",
-          "NNS"
+          "image",
+          "NN"
         ]
       ],
       [
@@ -1711,7 +1995,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "refraction",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "parabolic arc",
@@ -1825,8 +2116,8 @@
     "related": [
       [
         [
-          "techniques",
-          "NNS"
+          "technique",
+          "NN"
         ]
       ],
       [
@@ -1911,7 +2202,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "parallax",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "phosphoresence",
@@ -1921,7 +2219,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "phosphoresence",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "diffraction",
@@ -1931,7 +2236,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "diffraction",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "dominant cues",
@@ -1948,8 +2260,8 @@
     "related": [
       [
         [
-          "cues",
-          "NNS"
+          "cue",
+          "NN"
         ]
       ],
       [
@@ -2022,7 +2334,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "stereotype",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "laminar flow",
@@ -2096,7 +2415,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "dispersion",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "light gathering",
@@ -2160,7 +2486,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "randomness",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "harmonics",
@@ -2170,7 +2503,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "harmonic",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "pressure",
@@ -2180,7 +2520,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "pressure",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "scattering",
@@ -2234,8 +2581,8 @@
     "related": [
       [
         [
-          "tasks",
-          "NNS"
+          "task",
+          "NN"
         ]
       ],
       [
@@ -2254,7 +2601,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "condensation",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "reflection",
@@ -2264,7 +2618,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "reflection",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "gyroscopics",
@@ -2274,7 +2635,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "gyroscopic",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "rotational inertia",
@@ -2324,8 +2692,8 @@
       ],
       [
         [
-          "mechanics",
-          "NNS"
+          "mechanic",
+          "NN"
         ]
       ]
     ]
@@ -2379,7 +2747,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "symmetry",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "color separation",
@@ -2416,7 +2791,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "phototaxis",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "electromagnetic radiation spectrum",
@@ -2437,6 +2819,26 @@
     "related": [
       [
         [
+          "electromagnetic",
+          "JJ"
+        ],
+        [
+          "radiation",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "electromagnetic",
+          "JJ"
+        ],
+        [
+          "spectrum",
+          "NN"
+        ]
+      ],
+      [
+        [
           "radiation",
           "NN"
         ]
@@ -2449,28 +2851,18 @@
       ],
       [
         [
-          "electromagnetic",
-          "JJ"
-        ]
-      ],
-      [
-        [
-          "electromagnetic",
-          "JJ"
-        ],
-        [
-          "radiation",
-          "NN"
-        ]
-      ],
-      [
-        [
           "radiation",
           "NN"
         ],
         [
           "spectrum",
           "NN"
+        ]
+      ],
+      [
+        [
+          "electromagnetic",
+          "JJ"
         ]
       ]
     ]
@@ -2483,7 +2875,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "frequency",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "accelerated linear motion",
@@ -2504,6 +2903,26 @@
     "related": [
       [
         [
+          "linear",
+          "JJ"
+        ],
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "accelerated",
+          "VBN"
+        ],
+        [
           "motion",
           "NN"
         ]
@@ -2518,16 +2937,6 @@
         [
           "linear",
           "JJ"
-        ]
-      ],
-      [
-        [
-          "linear",
-          "JJ"
-        ],
-        [
-          "motion",
-          "NN"
         ]
       ]
     ]
@@ -2608,7 +3017,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "emotion",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "feedback",
@@ -2618,7 +3034,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "feedback",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "apparent motion",
@@ -2666,14 +3089,14 @@
     "related": [
       [
         [
-          "atoms",
-          "NNS"
+          "atom",
+          "NN"
         ]
       ],
       [
         [
-          "particles",
-          "NNS"
+          "particle",
+          "NN"
         ]
       ]
     ]
@@ -2808,7 +3231,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "color",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "magnetization",
@@ -2818,7 +3248,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "magnetization",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "time effects in perception",
@@ -2849,8 +3286,8 @@
       ],
       [
         [
-          "effects",
-          "NNS"
+          "effect",
+          "NN"
         ]
       ],
       [
@@ -2865,8 +3302,8 @@
           "NN"
         ],
         [
-          "effects",
-          "NNS"
+          "effect",
+          "NN"
         ]
       ],
       [
@@ -2875,8 +3312,8 @@
           "NN"
         ],
         [
-          "effects",
-          "NNS"
+          "effect",
+          "NN"
         ]
       ]
     ]
@@ -2927,6 +3364,26 @@
     "related": [
       [
         [
+          "visual",
+          "JJ"
+        ],
+        [
+          "motion",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "visual",
+          "JJ"
+        ],
+        [
+          "detection",
+          "NN"
+        ]
+      ],
+      [
+        [
           "motion",
           "NN"
         ]
@@ -2939,28 +3396,18 @@
       ],
       [
         [
-          "visual",
-          "JJ"
-        ]
-      ],
-      [
-        [
-          "visual",
-          "JJ"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
           "motion",
           "NN"
         ],
         [
           "detection",
           "NN"
+        ]
+      ],
+      [
+        [
+          "visual",
+          "JJ"
         ]
       ]
     ]
@@ -2973,7 +3420,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "friction",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "economic exchange",
@@ -3064,7 +3518,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "blackness",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "modeling landscapes",
@@ -3081,8 +3542,8 @@
     "related": [
       [
         [
-          "landscapes",
-          "NNS"
+          "landscape",
+          "NN"
         ]
       ],
       [
@@ -3101,7 +3562,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "fluorescence",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "projections",
@@ -3111,7 +3579,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "projection",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "photosynthesis",
@@ -3121,7 +3596,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "photosynthesis",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "lateral inhibition",
@@ -3158,7 +3640,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "microscopy",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "potential energy",
@@ -3249,7 +3738,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "biase",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "electromagnetic forces",
@@ -3266,8 +3762,8 @@
     "related": [
       [
         [
-          "forces",
-          "NNS"
+          "force",
+          "NN"
         ]
       ],
       [
@@ -3293,8 +3789,8 @@
     "related": [
       [
         [
-          "cues",
-          "NNS"
+          "cue",
+          "NN"
         ]
       ],
       [
@@ -3347,8 +3843,8 @@
     "related": [
       [
         [
-          "mirrors",
-          "NNS"
+          "mirror",
+          "NN"
         ]
       ],
       [
@@ -3367,7 +3863,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "wind",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "lenses",
@@ -3377,7 +3880,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "lense",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "center of gravity",
@@ -3428,7 +3938,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "vibration",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "weather",
@@ -3438,7 +3955,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "weather",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "identity",
@@ -3448,7 +3972,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "identity",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "cornsweet illusion",
@@ -3485,7 +4016,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "acoustic",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "evaporation",
@@ -3495,7 +4033,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "evaporation",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "chicken wire",
@@ -3532,7 +4077,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "ocean",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "sharks",
@@ -3542,7 +4094,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "shark",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "neon",
@@ -3552,7 +4111,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "neon",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "migrations",
@@ -3562,18 +4128,21 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "migration",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
-    "text": "huygens ' principle",
+    "text": "huygens principle",
     "primary": [
       [
         "huygens",
         "NNS"
-      ],
-      [
-        "'",
-        "POS"
       ],
       [
         "principle",
@@ -3583,8 +4152,8 @@
     "related": [
       [
         [
-          "huygens",
-          "NNS"
+          "huygen",
+          "NN"
         ]
       ],
       [
@@ -3603,7 +4172,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "mirror",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "turbulence",
@@ -3613,7 +4189,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "turbulence",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "carbon dioxide",
@@ -3650,7 +4233,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "parallel",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "phase angle",
@@ -3687,7 +4277,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "parabola",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "organisms",
@@ -3697,7 +4294,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "organism",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "cosmic rays",
@@ -3714,8 +4318,8 @@
     "related": [
       [
         [
-          "rays",
-          "NNS"
+          "ray",
+          "NN"
         ]
       ],
       [
@@ -3761,7 +4365,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "series",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "chaos",
@@ -3771,7 +4382,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "chaos",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "amplification",
@@ -3781,7 +4399,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "amplification",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "genetics",
@@ -3791,7 +4416,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "genetic",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "lasers",
@@ -3801,7 +4433,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "laser",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "artwork",
@@ -3811,7 +4450,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "artwork",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "membrane",
@@ -3821,18 +4467,21 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "membrane",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
-    "text": "newton 's laws",
+    "text": "newtons laws",
     "primary": [
       [
-        "newton",
-        "NN"
-      ],
-      [
-        "'s",
-        "POS"
+        "newtons",
+        "NNS"
       ],
       [
         "laws",
@@ -3848,8 +4497,8 @@
       ],
       [
         [
-          "laws",
-          "NNS"
+          "law",
+          "NN"
         ]
       ]
     ]
@@ -3862,7 +4511,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "reflection",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "ratio",
@@ -3872,7 +4528,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "ratio",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "circuit",
@@ -3882,7 +4545,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "circuit",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "ping pong balls",
@@ -3909,14 +4579,8 @@
       ],
       [
         [
-          "balls",
-          "NNS"
-        ]
-      ],
-      [
-        [
-          "ping",
-          "VBG"
+          "ball",
+          "NN"
         ]
       ],
       [
@@ -3925,8 +4589,8 @@
           "NN"
         ],
         [
-          "balls",
-          "NNS"
+          "ball",
+          "NN"
         ]
       ],
       [
@@ -3937,6 +4601,12 @@
         [
           "pong",
           "NN"
+        ]
+      ],
+      [
+        [
+          "ping",
+          "VBG"
         ]
       ]
     ]
@@ -3949,7 +4619,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "dna",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "levitation",
@@ -3959,7 +4636,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "levitation",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "navigation",
@@ -3969,7 +4653,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "navigation",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "curves",
@@ -3979,7 +4670,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "curve",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "illusions",
@@ -3989,7 +4687,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "illusion",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "model organisms",
@@ -4012,8 +4717,8 @@
       ],
       [
         [
-          "organisms",
-          "NNS"
+          "organism",
+          "NN"
         ]
       ]
     ]
@@ -4026,7 +4731,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "whale",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "gases",
@@ -4036,7 +4748,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "gase",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "portraits",
@@ -4046,7 +4765,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "portrait",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "sun",
@@ -4056,7 +4782,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "sun",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "bicycle wheel",
@@ -4093,7 +4826,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "speaker",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "identical twins",
@@ -4110,8 +4850,8 @@
     "related": [
       [
         [
-          "twins",
-          "NNS"
+          "twin",
+          "NN"
         ]
       ],
       [
@@ -4130,7 +4870,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "pendulum",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "dissection",
@@ -4140,7 +4887,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "dissection",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "eyes",
@@ -4150,7 +4904,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "eye",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "nerves",
@@ -4160,7 +4921,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "nerve",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "wind",
@@ -4170,7 +4938,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "wind",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "zebrafish",
@@ -4180,7 +4955,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "zebrafish",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "heat transfer",
@@ -4217,7 +4999,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "volcano",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "marine",
@@ -4227,7 +5016,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "marine",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "pacific",
@@ -4237,7 +5033,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "pacific",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "complexity",
@@ -4247,7 +5050,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "complexity",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "turtles",
@@ -4257,7 +5067,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "turtle",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "condensation",
@@ -4267,7 +5084,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "condensation",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "appearance",
@@ -4277,7 +5101,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "appearance",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "unicellular organisms",
@@ -4294,8 +5125,8 @@
     "related": [
       [
         [
-          "organisms",
-          "NNS"
+          "organism",
+          "NN"
         ]
       ],
       [
@@ -4314,7 +5145,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "tide",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "ganzfeld effect",
@@ -4351,7 +5189,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "afterimage",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "fragmentation",
@@ -4361,7 +5206,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "fragmentation",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "cmy retina",
@@ -4398,7 +5250,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "balance",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "boundary",
@@ -4408,7 +5267,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "boundary",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "magnetic field",
@@ -4445,7 +5311,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "photography",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "chladni",
@@ -4455,7 +5328,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "chladni",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "spinning",
@@ -4475,7 +5355,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "wavelength",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "cells",
@@ -4485,7 +5372,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "cell",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "prisms",
@@ -4495,7 +5389,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "prism",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "pressure",
@@ -4505,7 +5406,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "pressure",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "water",
@@ -4515,7 +5423,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "water",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "proportion",
@@ -4525,7 +5440,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "proportion",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "earthquakes",
@@ -4535,7 +5457,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "earthquake",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "attentive listening",
@@ -4572,7 +5501,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "rotation",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "electrolysis",
@@ -4582,7 +5518,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "electrolysis",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "sand",
@@ -4592,7 +5535,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "sand",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "equilibrium",
@@ -4602,7 +5552,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "equilibrium",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "human traits genetics environment nature nurture inheritance diversity",
@@ -4643,8 +5600,8 @@
     "related": [
       [
         [
-          "genetics",
-          "NNS"
+          "genetic",
+          "NN"
         ]
       ],
       [
@@ -4674,6 +5631,66 @@
       [
         [
           "diversity",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "genetic",
+          "NN"
+        ],
+        [
+          "environment",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "environment",
+          "NN"
+        ],
+        [
+          "nature",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "nature",
+          "NN"
+        ],
+        [
+          "nurture",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "nurture",
+          "NN"
+        ],
+        [
+          "inheritance",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "inheritance",
+          "NN"
+        ],
+        [
+          "diversity",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "traits",
+          "VBZ"
+        ],
+        [
+          "genetic",
           "NN"
         ]
       ],
@@ -4688,66 +5705,6 @@
           "human",
           "JJ"
         ]
-      ],
-      [
-        [
-          "genetics",
-          "NNS"
-        ],
-        [
-          "environment",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "environment",
-          "NN"
-        ],
-        [
-          "nature",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "nature",
-          "NN"
-        ],
-        [
-          "nurture",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "nurture",
-          "NN"
-        ],
-        [
-          "inheritance",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "inheritance",
-          "NN"
-        ],
-        [
-          "diversity",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "traits",
-          "VBZ"
-        ],
-        [
-          "genetics",
-          "NNS"
-        ]
       ]
     ]
   },
@@ -4759,7 +5716,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "magnification",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "habitat",
@@ -4769,7 +5733,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "habitat",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "stroop effect",
@@ -4806,7 +5777,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "rgb",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "fish eggs",
@@ -4829,8 +5807,8 @@
       ],
       [
         [
-          "eggs",
-          "NNS"
+          "egg",
+          "NN"
         ]
       ]
     ]
@@ -4843,7 +5821,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "soap",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "cooperation",
@@ -4853,7 +5838,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "cooperation",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "scale",
@@ -4863,7 +5855,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "scale",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "focal point",
@@ -4900,7 +5899,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "perspective",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "magnet",
@@ -4910,7 +5916,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "magnet",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "musical instruments",
@@ -4927,8 +5940,8 @@
     "related": [
       [
         [
-          "instruments",
-          "NNS"
+          "instrument",
+          "NN"
         ]
       ],
       [
@@ -4947,7 +5960,14 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "comet",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "cmy",
@@ -4957,7 +5977,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "cmy",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "embryology",
@@ -4967,7 +5994,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "embryology",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "model",
@@ -4977,7 +6011,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "model",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "adaptation",
@@ -4987,7 +6028,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "adaptation",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "sundial",
@@ -5007,7 +6055,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "plankton",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "fog",
@@ -5017,7 +6072,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "fog",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "skin",
@@ -5027,7 +6089,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "skin",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "cells movement animation",
@@ -5048,8 +6117,8 @@
     "related": [
       [
         [
-          "cells",
-          "NNS"
+          "cell",
+          "NN"
         ]
       ],
       [
@@ -5066,8 +6135,8 @@
       ],
       [
         [
-          "cells",
-          "NNS"
+          "cell",
+          "NN"
         ],
         [
           "movement",
@@ -5094,7 +6163,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "moon",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "human generosity project",
@@ -5115,6 +6191,26 @@
     "related": [
       [
         [
+          "human",
+          "JJ"
+        ],
+        [
+          "generosity",
+          "NN"
+        ]
+      ],
+      [
+        [
+          "human",
+          "JJ"
+        ],
+        [
+          "project",
+          "NN"
+        ]
+      ],
+      [
+        [
           "generosity",
           "NN"
         ]
@@ -5127,28 +6223,18 @@
       ],
       [
         [
-          "human",
-          "JJ"
-        ]
-      ],
-      [
-        [
-          "human",
-          "JJ"
-        ],
-        [
-          "generosity",
-          "NN"
-        ]
-      ],
-      [
-        [
           "generosity",
           "NN"
         ],
         [
           "project",
           "NN"
+        ]
+      ],
+      [
+        [
+          "human",
+          "JJ"
         ]
       ]
     ]
@@ -5174,8 +6260,8 @@
       ],
       [
         [
-          "currents",
-          "NNS"
+          "current",
+          "NN"
         ]
       ]
     ]
@@ -5188,7 +6274,14 @@
         "NN"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "gravity",
+          "NN"
+        ]
+      ]
+    ]
   },
   {
     "text": "bubbles",
@@ -5198,6 +6291,13 @@
         "NNS"
       ]
     ],
-    "related": []
+    "related": [
+      [
+        [
+          "bubble",
+          "NN"
+        ]
+      ]
+    ]
   }
 ]
