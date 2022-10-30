@@ -1,0 +1,14 @@
+.btn-language{
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.dropdown-menu{
+    min-width: unset;
+}
+
+.dropdown-item{
+    text-decoration: none !important;
+}  Wika   English Español  繁體中文    Para kanino ang mga bulaklak?  Ang ethereal lacy na mga aninong  sumasaklaw sa bawat kalatagan ay para sa lahat ng papasok sa Black Box. Ang mga layunin ng manlilikha ay gumawa ng isang espasyo kung saan ang mga bisita ng lahat ng kasarian, lahi, nasyonalidad, at relihiyon ay malugod na tinatanggap, at upang mag-alok ng pagkakataong tuklasin ang ating mga pagkakatulad at pagkakaiba. Ang mga tela ng Islam, arkitektura, at mga motif ng bulaklak ay nagbigay inspirasyon sa mga pattern na ginawa ni Agha gamit ang liwanag at anino. Ang nag-iisang beacon ng liwanag ay kumikinang mula sa loob ng isang nakabiting steel cube, na parang ibababad ka sa mga pattern na gumagalaw at nagbabago habang gumagala ang mga bisita sa espasyo.   Ang All the Flowers Are for Me (Turquoise) ay makikita sa Black Box ng Exploratorium, isang espasyong galerya na nakatuon sa isang patuloy na serye ng mga installation ng sining ng media.  Mapapanood sa  Makinang: Tuklasin ang Sining ng Liwanag , Nobyembre 17, 2022–Enero 29, 2023.  Larawan: Drew Baron. Sa kagandahang-loob ng The Columbia Museum of Art. 

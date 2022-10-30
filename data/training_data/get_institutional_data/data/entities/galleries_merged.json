@@ -1,0 +1,2186 @@
+{
+  "gallery-6": {
+    "tagline": [
+      {
+        "name": "history",
+        "type": "OTHER",
+        "salience": 0.37304630875587463,
+        "source": "language_v1"
+      },
+      {
+        "name": "geography",
+        "type": "OTHER",
+        "salience": 0.26395416259765625,
+        "source": "language_v1"
+      },
+      {
+        "name": "ecology",
+        "type": "OTHER",
+        "salience": 0.2469492405653,
+        "source": "language_v1"
+      },
+      {
+        "name": "Bay Area",
+        "type": "LOCATION",
+        "salience": 0.11605030298233032,
+        "source": "language_v1"
+      }
+    ],
+    "description": [
+      {
+        "name": "human forces",
+        "type": "PERSON",
+        "salience": 0.5015197396278381,
+        "source": "language_v1"
+      },
+      {
+        "name": "landscape",
+        "type": "OTHER",
+        "salience": 0.2100793868303299,
+        "source": "language_v1"
+      },
+      {
+        "name": "stories",
+        "type": "WORK_OF_ART",
+        "salience": 0.07192748039960861,
+        "source": "language_v1"
+      },
+      {
+        "name": "place",
+        "type": "OTHER",
+        "salience": 0.06610848009586334,
+        "source": "language_v1"
+      },
+      {
+        "name": "ecology",
+        "type": "OTHER",
+        "salience": 0.05005434527993202,
+        "source": "language_v1"
+      },
+      {
+        "name": "region",
+        "type": "LOCATION",
+        "salience": 0.035184696316719055,
+        "source": "language_v1"
+      },
+      {
+        "name": "history",
+        "type": "OTHER",
+        "salience": 0.022123869508504868,
+        "source": "language_v1"
+      },
+      {
+        "name": "geography",
+        "type": "OTHER",
+        "salience": 0.022123869508504868,
+        "source": "language_v1"
+      },
+      {
+        "name": "San Francisco Bay",
+        "type": "LOCATION",
+        "salience": 0.020878128707408905,
+        "source": "language_v1"
+      }
+    ],
+    "curator_statement": [
+      {
+        "name": "San Francisco",
+        "salience": 0.25960201025009155,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "views",
+        "salience": 0.08302949368953705,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "exhibition space",
+        "salience": 0.07863658666610718,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "waterfront",
+        "salience": 0.07863658666610718,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "Bay",
+        "salience": 0.06265412271022797,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "downtown cityscape",
+        "salience": 0.03023717738687992,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "environment",
+        "salience": 0.025150896981358528,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "ideas",
+        "salience": 0.02306288667023182,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "library",
+        "salience": 0.015365036204457283,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "investigations",
+        "salience": 0.014575203880667686,
+        "type": "EVENT",
+        "source": "merge"
+      },
+      {
+        "name": "entry point",
+        "salience": 0.014575203880667686,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "instruments",
+        "salience": 0.013123899698257446,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "exhibits",
+        "salience": 0.012218802236020565,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Fisher Bay Observatory Gallery",
+        "salience": 0.011645435355603695,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "sciences",
+        "salience": 0.011285152286291122,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "history",
+        "salience": 0.011285152286291122,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "processes",
+        "salience": 0.011203131638467312,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "landscape",
+        "salience": 0.011203131638467312,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Susan Schwartzenberg",
+        "salience": 0.010665041394531727,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "astronomy",
+        "salience": 0.009915638715028763,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "perspectives",
+        "salience": 0.009915638715028763,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "experience",
+        "salience": 0.009915638715028763,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "ecology",
+        "salience": 0.009915638715028763,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "human impact",
+        "salience": 0.009843536652624607,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "artworks",
+        "salience": 0.009794664569199085,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "books",
+        "salience": 0.009067009203135967,
+        "type": "WORK_OF_ART",
+        "source": "merge"
+      },
+      {
+        "name": "maps",
+        "salience": 0.009067009203135967,
+        "type": "WORK_OF_ART",
+        "source": "merge"
+      },
+      {
+        "name": "Terrace",
+        "salience": 0.008627781644463539,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "visitors",
+        "salience": 0.007780641783028841,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "data",
+        "salience": 0.006801419425755739,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "telescopes",
+        "salience": 0.006801419425755739,
+        "type": "CONSUMER_GOOD",
+        "source": "merge"
+      },
+      {
+        "name": "cameras",
+        "salience": 0.006801419425755739,
+        "type": "CONSUMER_GOOD",
+        "source": "merge"
+      },
+      {
+        "name": "Bay Area",
+        "salience": 0.0053629460744559765,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "tools",
+        "salience": 0.004831539932638407,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "video streams",
+        "salience": 0.0047618006356060505,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "surroundings",
+        "salience": 0.0047618006356060505,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "picture",
+        "salience": 0.0047618006356060505,
+        "type": "WORK_OF_ART",
+        "source": "merge"
+      },
+      {
+        "name": "visualizations",
+        "salience": 0.0047618006356060505,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "observation",
+        "salience": 0.003732735989615321,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "process",
+        "salience": 0.0034045781940221786,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "world",
+        "salience": 0.0029904041439294815,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "methods",
+        "salience": 0.0029904041439294815,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "information",
+        "salience": 0.0029904041439294815,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "scientists",
+        "salience": 0.0025653645861893892,
+        "type": "PERSON",
+        "source": "merge"
+      }
+    ]
+  },
+  "gallery-5": {
+    "tagline": [
+      {
+        "name": "winds",
+        "type": "OTHER",
+        "salience": 0.6233991980552673,
+        "source": "language_v1"
+      },
+      {
+        "name": "tides",
+        "type": "OTHER",
+        "salience": 0.21800990402698517,
+        "source": "language_v1"
+      },
+      {
+        "name": "phenomena",
+        "type": "OTHER",
+        "salience": 0.1585909128189087,
+        "source": "language_v1"
+      }
+    ],
+    "description": [
+      {
+        "name": "Investigate forces",
+        "type": "OTHER",
+        "salience": 0.32277318835258484,
+        "source": "language_v1"
+      },
+      {
+        "name": "City",
+        "type": "LOCATION",
+        "salience": 0.2017512172460556,
+        "source": "language_v1"
+      },
+      {
+        "name": "region",
+        "type": "LOCATION",
+        "salience": 0.1330922544002533,
+        "source": "language_v1"
+      },
+      {
+        "name": "Bay",
+        "type": "LOCATION",
+        "salience": 0.08044123649597168,
+        "source": "language_v1"
+      },
+      {
+        "name": "winds",
+        "type": "OTHER",
+        "salience": 0.05291612073779106,
+        "source": "language_v1"
+      },
+      {
+        "name": "ways",
+        "type": "OTHER",
+        "salience": 0.04863296076655388,
+        "source": "language_v1"
+      },
+      {
+        "name": "tides",
+        "type": "OTHER",
+        "salience": 0.04468990117311478,
+        "source": "language_v1"
+      },
+      {
+        "name": "bridge",
+        "type": "LOCATION",
+        "salience": 0.04156108573079109,
+        "source": "language_v1"
+      },
+      {
+        "name": "life",
+        "type": "OTHER",
+        "salience": 0.038182102143764496,
+        "source": "language_v1"
+      },
+      {
+        "name": "places",
+        "type": "LOCATION",
+        "salience": 0.02208358235657215,
+        "source": "language_v1"
+      },
+      {
+        "name": "human behavior",
+        "type": "OTHER",
+        "salience": 0.013876360841095448,
+        "source": "language_v1"
+      }
+    ],
+    "curator_statement": [
+      {
+        "name": "principle",
+        "salience": 0.1055813580751419,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "community museum",
+        "salience": 0.10012698173522949,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "role",
+        "salience": 0.10012698173522949,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "awareness",
+        "salience": 0.08829006552696228,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Gallery 5",
+        "salience": 0.0703687071800232,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "Exploratorium",
+        "salience": 0.05637197196483612,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "gallery",
+        "salience": 0.04215920343995094,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "gallery team",
+        "salience": 0.02681778185069561,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "partnerships",
+        "salience": 0.019515948370099068,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "museum",
+        "salience": 0.018644221127033234,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "ideas",
+        "salience": 0.016386045143008232,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "exchange",
+        "salience": 0.016386045143008232,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "place",
+        "salience": 0.016386045143008232,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "efforts",
+        "salience": 0.013986948877573013,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "outposts",
+        "salience": 0.013680219650268555,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "exhibits",
+        "salience": 0.012688091956079006,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Eric Dimond",
+        "salience": 0.012013743631541729,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "Shawn Lani",
+        "salience": 0.012013743631541729,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "exhibitions",
+        "salience": 0.011643924750387669,
+        "type": "EVENT",
+        "source": "merge"
+      },
+      {
+        "name": "programs",
+        "salience": 0.011148639023303986,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "art installations",
+        "salience": 0.011148639023303986,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "phenomena",
+        "salience": 0.01106758788228035,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "investigations",
+        "salience": 0.01106758788228035,
+        "type": "EVENT",
+        "source": "merge"
+      },
+      {
+        "name": "endeavors",
+        "salience": 0.01106758788228035,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "observations",
+        "salience": 0.01106758788228035,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "inquiries",
+        "salience": 0.01106758788228035,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "combination",
+        "salience": 0.010357096791267395,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "performance artists",
+        "salience": 0.01023072935640812,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "city",
+        "salience": 0.010194661095738411,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "edge",
+        "salience": 0.010194661095738411,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "location",
+        "salience": 0.010194661095738411,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "precision",
+        "salience": 0.009262644685804844,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "visitors",
+        "salience": 0.00860462337732315,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "campus",
+        "salience": 0.007664810866117477,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "boundaries",
+        "salience": 0.007664810866117477,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "vendors",
+        "salience": 0.007433929480612278,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "Bay",
+        "salience": 0.006864704191684723,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "delight",
+        "salience": 0.005366511642932892,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "San Francisco",
+        "salience": 0.004532364197075367,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "understanding",
+        "salience": 0.003371983068063855,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "insight",
+        "salience": 0.003371983068063855,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "clarity",
+        "salience": 0.003371983068063855,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "surroundings",
+        "salience": 0.003371983068063855,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "ability",
+        "salience": 0.003371983068063855,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Bay Area",
+        "salience": 0.003172342199832201,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "5",
+        "salience": 0.0,
+        "type": "NUMBER",
+        "source": "merge"
+      }
+    ]
+  },
+  "gallery-4": {
+    "tagline": [
+      {
+        "name": "life",
+        "type": "OTHER",
+        "salience": 0.5070117115974426,
+        "source": "language_v1"
+      },
+      {
+        "name": "cells",
+        "type": "OTHER",
+        "salience": 0.1631956398487091,
+        "source": "language_v1"
+      },
+      {
+        "name": "DNA",
+        "type": "OTHER",
+        "salience": 0.16136790812015533,
+        "source": "language_v1"
+      },
+      {
+        "name": "ecosystems",
+        "type": "OTHER",
+        "salience": 0.11586012691259384,
+        "source": "language_v1"
+      },
+      {
+        "name": "organisms",
+        "type": "OTHER",
+        "salience": 0.052564606070518494,
+        "source": "language_v1"
+      }
+    ],
+    "description": [
+      {
+        "name": "life",
+        "type": "OTHER",
+        "salience": 0.44750016927719116,
+        "source": "language_v1"
+      },
+      {
+        "name": "sizes",
+        "type": "OTHER",
+        "salience": 0.2540542185306549,
+        "source": "language_v1"
+      },
+      {
+        "name": "ocean",
+        "type": "LOCATION",
+        "salience": 0.10948086529970169,
+        "source": "language_v1"
+      },
+      {
+        "name": "things",
+        "type": "OTHER",
+        "salience": 0.07638963311910629,
+        "source": "language_v1"
+      },
+      {
+        "name": "tools",
+        "type": "OTHER",
+        "salience": 0.04920540377497673,
+        "source": "language_v1"
+      },
+      {
+        "name": "ecosystems",
+        "type": "OTHER",
+        "salience": 0.03722430393099785,
+        "source": "language_v1"
+      },
+      {
+        "name": "processes",
+        "type": "OTHER",
+        "salience": 0.026145409792661667,
+        "source": "language_v1"
+      }
+    ],
+    "curator_statement": [
+      {
+        "name": "appreciation",
+        "salience": 0.16007357835769653,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "visitors",
+        "salience": 0.11568005383014679,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "Gallery",
+        "salience": 0.08085287362337112,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "world",
+        "salience": 0.07394825667142868,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "ways",
+        "salience": 0.0651792362332344,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "laboratory",
+        "salience": 0.04920116811990738,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "Microscope Imaging Station",
+        "salience": 0.04075712710618973,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "methods",
+        "salience": 0.0320647656917572,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "tools",
+        "salience": 0.03167722001671791,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Living Liquid",
+        "salience": 0.027218954637646675,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "space",
+        "salience": 0.026321211829781532,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "organisms",
+        "salience": 0.017879869788885117,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "gallery",
+        "salience": 0.01215806882828474,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "scales",
+        "salience": 0.012066556140780449,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "ecosystems",
+        "salience": 0.012066556140780449,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "things",
+        "salience": 0.012066556140780449,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "processes",
+        "salience": 0.012066556140780449,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "exhibits",
+        "salience": 0.01068914495408535,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "contributions",
+        "salience": 0.0106211481615901,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "exhibit area",
+        "salience": 0.009568111039698124,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "section",
+        "salience": 0.009477335028350353,
+        "type": "WORK_OF_ART",
+        "source": "merge"
+      },
+      {
+        "name": "Jennifer Frazier",
+        "salience": 0.008814302273094654,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "Kristina Yu",
+        "salience": 0.008814302273094654,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "microscopes",
+        "salience": 0.008542858064174652,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "development",
+        "salience": 0.008542858064174652,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "communities",
+        "salience": 0.008108112961053848,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "Life Sciences Laboratory",
+        "salience": 0.008088752627372742,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "stem cell biology",
+        "salience": 0.007505652029067278,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "aspects",
+        "salience": 0.007505652029067278,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Bay",
+        "salience": 0.006514895707368851,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "experiences",
+        "salience": 0.006264694966375828,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "look",
+        "salience": 0.006242590025067329,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "features",
+        "salience": 0.005629964638501406,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "end",
+        "salience": 0.005619308911263943,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "view",
+        "salience": 0.005619308911263943,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "A Cells and Development",
+        "salience": 0.0055075096897780895,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "behaviors",
+        "salience": 0.004739867523312569,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "interaction",
+        "salience": 0.0039340294897556305,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Pier 15",
+        "salience": 0.0033224408980458975,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "plankton",
+        "salience": 0.0029045308474451303,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Life",
+        "salience": 0.002811692887917161,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "species",
+        "salience": 0.0024751718156039715,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "ocean",
+        "salience": 0.0024751718156039715,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "15",
+        "salience": 0.0,
+        "type": "NUMBER",
+        "source": "merge"
+      },
+      {
+        "name": "4",
+        "salience": 0.0,
+        "type": "NUMBER",
+        "source": "merge"
+      }
+    ]
+  },
+  "gallery-1": {
+    "tagline": [
+      {
+        "name": "Experiment",
+        "type": "OTHER",
+        "salience": 0.4898326098918915,
+        "source": "language_v1"
+      },
+      {
+        "name": "thoughts",
+        "type": "OTHER",
+        "salience": 0.22917072474956512,
+        "source": "language_v1"
+      },
+      {
+        "name": "feelings",
+        "type": "OTHER",
+        "salience": 0.16395482420921326,
+        "source": "language_v1"
+      },
+      {
+        "name": "behavior",
+        "type": "OTHER",
+        "salience": 0.11704183369874954,
+        "source": "language_v1"
+      }
+    ],
+    "description": [
+      {
+        "name": "Humans",
+        "salience": 0.4206271469593048,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "phenomena",
+        "salience": 0.16239593923091888,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "exploration",
+        "salience": 0.1154911071062088,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "investigation",
+        "salience": 0.11413095146417618,
+        "type": "EVENT",
+        "source": "merge"
+      },
+      {
+        "name": "others",
+        "salience": 0.05896306410431862,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "interactions",
+        "salience": 0.039267830550670624,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "reflections",
+        "salience": 0.027580732479691505,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "exhibits",
+        "salience": 0.016911163926124573,
+        "type": "OTHER",
+        "source": "merge"
+      }
+    ],
+    "curator_statement": [
+      {
+        "name": "science",
+        "salience": 0.07155850529670715,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "experiences",
+        "salience": 0.0667543038725853,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "art",
+        "salience": 0.0610215999186039,
+        "type": "WORK_OF_ART",
+        "source": "merge"
+      },
+      {
+        "name": "emotion",
+        "salience": 0.0610215999186039,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "behavior",
+        "salience": 0.0610215999186039,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "interplay",
+        "salience": 0.05374961346387863,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "society",
+        "salience": 0.05374961346387863,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "cognition",
+        "salience": 0.05374961346387863,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "culture",
+        "salience": 0.05374961346387863,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "mechanisms",
+        "salience": 0.04819710552692413,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Osher Gallery",
+        "salience": 0.04276948422193527,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "exhibit",
+        "salience": 0.04134546220302582,
+        "type": "EVENT",
+        "source": "merge"
+      },
+      {
+        "name": "exhibits",
+        "salience": 0.024236099794507027,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "artifacts",
+        "salience": 0.021676184609532356,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Science of Sharing",
+        "salience": 0.020143648609519005,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "artists",
+        "salience": 0.013272823765873909,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "gallery",
+        "salience": 0.012273618020117283,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "scientists",
+        "salience": 0.011598669923841953,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "each other",
+        "salience": 0.009910596534609795,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "world",
+        "salience": 0.009910596534609795,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "home",
+        "salience": 0.008585695177316666,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "space",
+        "salience": 0.0080745043233037,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "human behavior",
+        "salience": 0.0075777992606163025,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Pamela Winfrey",
+        "salience": 0.007227185182273388,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "Hugh McDonald",
+        "salience": 0.007227185182273388,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "resources",
+        "salience": 0.0071413638070225716,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "cooperation",
+        "salience": 0.006715937051922083,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "strategies",
+        "salience": 0.006715937051922083,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "competition",
+        "salience": 0.006715937051922083,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "study",
+        "salience": 0.00665742252022028,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "memory",
+        "salience": 0.00665742252022028,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "pattern recognition",
+        "salience": 0.00665742252022028,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "mind",
+        "salience": 0.00665742252022028,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "language",
+        "salience": 0.00665742252022028,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "The Changing Face of What Is Normal",
+        "salience": 0.005682372022420168,
+        "type": "WORK_OF_ART",
+        "source": "merge"
+      },
+      {
+        "name": "Black Box",
+        "salience": 0.004743208643049002,
+        "type": "CONSUMER_GOOD",
+        "source": "merge"
+      },
+      {
+        "name": "lives",
+        "salience": 0.004621793981641531,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "illness",
+        "salience": 0.004621793981641531,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "addition",
+        "salience": 0.004613042343407869,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "exhibitions",
+        "salience": 0.004588373936712742,
+        "type": "EVENT",
+        "source": "merge"
+      },
+      {
+        "name": "environment",
+        "salience": 0.004500984214246273,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "artists-in-residence",
+        "salience": 0.004321468528360128,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "National Science Foundation",
+        "salience": 0.003971500787883997,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "works",
+        "salience": 0.002994435839354992,
+        "type": "WORK_OF_ART",
+        "source": "merge"
+      },
+      {
+        "name": "venue",
+        "salience": 0.0025925524532794952,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "normality",
+        "salience": 0.00230770418420434,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "first",
+        "salience": 0.0022923597134649754,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "nature",
+        "salience": 0.002026898553594947,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Exploratorium",
+        "salience": 0.001905345357954502,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      }
+    ]
+  },
+  "gallery-3": {
+    "tagline": [
+      {
+        "name": "Experiment",
+        "type": "OTHER",
+        "salience": 0.4898326098918915,
+        "source": "language_v1"
+      },
+      {
+        "name": "light",
+        "type": "OTHER",
+        "salience": 0.22917072474956512,
+        "source": "language_v1"
+      },
+      {
+        "name": "mirrors",
+        "type": "OTHER",
+        "salience": 0.16395482420921326,
+        "source": "language_v1"
+      },
+      {
+        "name": "bubbles",
+        "type": "OTHER",
+        "salience": 0.11704183369874954,
+        "source": "language_v1"
+      }
+    ],
+    "description": [
+      {
+        "name": "light",
+        "salience": 0.31979408860206604,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "eyes",
+        "salience": 0.2672935426235199,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "aspect",
+        "salience": 0.14684730768203735,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "world",
+        "salience": 0.07965520769357681,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "phenomena",
+        "salience": 0.05587542802095413,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "way",
+        "salience": 0.04601622745394707,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "understanding",
+        "salience": 0.020776089280843735,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "process",
+        "salience": 0.019073106348514557,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "one",
+        "salience": 0.0,
+        "type": "NUMBER",
+        "source": "merge"
+      }
+    ],
+    "curator_statement": [
+      {
+        "name": "visitors",
+        "salience": 0.2831896245479584,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "gallery",
+        "salience": 0.10194452852010727,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "phenomena",
+        "salience": 0.08928290754556656,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "heart",
+        "salience": 0.05711943283677101,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "place",
+        "salience": 0.04501153528690338,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "curiosity",
+        "salience": 0.04501153528690338,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Gallery 3",
+        "salience": 0.040066979825496674,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "exhibits",
+        "salience": 0.03694045916199684,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Exploratorium",
+        "salience": 0.03345436975359917,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "experimentation",
+        "salience": 0.029295338317751884,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Bechtel",
+        "salience": 0.026910707354545593,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "tools",
+        "salience": 0.017324980348348618,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "guidance",
+        "salience": 0.017324980348348618,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "science",
+        "salience": 0.01680500991642475,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Visitors",
+        "salience": 0.016466237604618073,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "explorations",
+        "salience": 0.014789942651987076,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "experiments",
+        "salience": 0.006961988750845194,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Richard O. Brown",
+        "salience": 0.0061132051050662994,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "Thomas Humphrey",
+        "salience": 0.0061132051050662994,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "opportunities",
+        "salience": 0.005915320478379726,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "sense",
+        "salience": 0.005683735013008118,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "efforts",
+        "salience": 0.005642414093017578,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "prototypes",
+        "salience": 0.005642414093017578,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "many",
+        "salience": 0.00524179870262742,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "experiment",
+        "salience": 0.00523583497852087,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "things",
+        "salience": 0.005197383929044008,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "variations",
+        "salience": 0.005197383929044008,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "controls",
+        "salience": 0.005197383929044008,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "power",
+        "salience": 0.003907629754394293,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "questions",
+        "salience": 0.003907629754394293,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "roles",
+        "salience": 0.003907629754394293,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "knowledge",
+        "salience": 0.003907629754394293,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "creativity",
+        "salience": 0.003907629754394293,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "connections",
+        "salience": 0.003907629754394293,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "experiences",
+        "salience": 0.003658610861748457,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "opportunity",
+        "salience": 0.0019279321422800422,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "process",
+        "salience": 0.0017143714940175414,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "3",
+        "salience": 0.0,
+        "type": "NUMBER",
+        "source": "merge"
+      }
+    ]
+  },
+  "gallery-2": {
+    "tagline": [
+      {
+        "name": "creativity",
+        "type": "OTHER",
+        "salience": 0.8107461333274841,
+        "source": "language_v1"
+      },
+      {
+        "name": "contraptions",
+        "type": "OTHER",
+        "salience": 0.18925388157367706,
+        "source": "language_v1"
+      }
+    ],
+    "description": [
+      {
+        "name": "things",
+        "type": "OTHER",
+        "salience": 0.3472287654876709,
+        "source": "language_v1"
+      },
+      {
+        "name": "ideas",
+        "type": "OTHER",
+        "salience": 0.30702024698257446,
+        "source": "language_v1"
+      },
+      {
+        "name": "hand",
+        "type": "OTHER",
+        "salience": 0.12860634922981262,
+        "source": "language_v1"
+      },
+      {
+        "name": "understanding",
+        "type": "OTHER",
+        "salience": 0.08861259371042252,
+        "source": "language_v1"
+      },
+      {
+        "name": "something",
+        "type": "OTHER",
+        "salience": 0.03216438740491867,
+        "source": "language_v1"
+      },
+      {
+        "name": "connections",
+        "type": "OTHER",
+        "salience": 0.030642258003354073,
+        "source": "language_v1"
+      },
+      {
+        "name": "systems",
+        "type": "OTHER",
+        "salience": 0.030642258003354073,
+        "source": "language_v1"
+      },
+      {
+        "name": "phenomena",
+        "type": "OTHER",
+        "salience": 0.021539360284805298,
+        "source": "language_v1"
+      },
+      {
+        "name": "contraptions",
+        "type": "OTHER",
+        "salience": 0.01354378554970026,
+        "source": "language_v1"
+      }
+    ],
+    "curator_statement": [
+      {
+        "name": "workshop area",
+        "salience": 0.16293147206306458,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "Clock towers",
+        "salience": 0.06557407975196838,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "others",
+        "salience": 0.06557407975196838,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "Learning Studio",
+        "salience": 0.05621447414159775,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "Gallery 2",
+        "salience": 0.0521465502679348,
+        "type": "CONSUMER_GOOD",
+        "source": "merge"
+      },
+      {
+        "name": "Tinkerer",
+        "salience": 0.04859920218586922,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "something",
+        "salience": 0.032776717096567154,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "exhibit-building workshop",
+        "salience": 0.03021179884672165,
+        "type": "EVENT",
+        "source": "merge"
+      },
+      {
+        "name": "creativity",
+        "salience": 0.025068899616599083,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "world",
+        "salience": 0.025068899616599083,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "way",
+        "salience": 0.025068899616599083,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "materials",
+        "salience": 0.019464420154690742,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "whimsy",
+        "salience": 0.0174272358417511,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "beauty",
+        "salience": 0.0174272358417511,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "exhibits",
+        "salience": 0.015195426531136036,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "experiments",
+        "salience": 0.014256800524890423,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "ways",
+        "salience": 0.01206141896545887,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "gallery",
+        "salience": 0.01085516158491373,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "heart",
+        "salience": 0.0103572066873312,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "artists",
+        "salience": 0.009276743978261948,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "tools",
+        "salience": 0.00918862409889698,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "space",
+        "salience": 0.00918862409889698,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "things",
+        "salience": 0.008582512848079205,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "most",
+        "salience": 0.008524910546839237,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "museum",
+        "salience": 0.008477075956761837,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "staff",
+        "salience": 0.008463176898658276,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "technology",
+        "salience": 0.008171997964382172,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "time",
+        "salience": 0.008149617351591587,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "makers",
+        "salience": 0.008149617351591587,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "complexity",
+        "salience": 0.008141238242387772,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "discovery",
+        "salience": 0.008141238242387772,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "novice",
+        "salience": 0.008131377398967743,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "intersection",
+        "salience": 0.00807217974215746,
+        "type": "LOCATION",
+        "source": "merge"
+      },
+      {
+        "name": "art",
+        "salience": 0.00807217974215746,
+        "type": "WORK_OF_ART",
+        "source": "merge"
+      },
+      {
+        "name": "science",
+        "salience": 0.00807217974215746,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "view",
+        "salience": 0.007434690836817026,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Tinkering Studio",
+        "salience": 0.007188963703811169,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "research-and-development",
+        "salience": 0.006974195130169392,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "visitors",
+        "salience": 0.006926052272319794,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "expert",
+        "salience": 0.006019791588187218,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "lab",
+        "salience": 0.005587959662079811,
+        "type": "ORGANIZATION",
+        "source": "merge"
+      },
+      {
+        "name": "collaborators",
+        "salience": 0.005587959662079811,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "workshops",
+        "salience": 0.004876418970525265,
+        "type": "EVENT",
+        "source": "merge"
+      },
+      {
+        "name": "development",
+        "salience": 0.004876418970525265,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "mistakes",
+        "salience": 0.004418176598846912,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "museum educators",
+        "salience": 0.003906690515577793,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "teachers",
+        "salience": 0.003906690515577793,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "woodworking tools",
+        "salience": 0.0027974203694611788,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "gallery space",
+        "salience": 0.0027933677192777395,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "lathes",
+        "salience": 0.002456985879689455,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "some",
+        "salience": 0.002456985879689455,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "drills",
+        "salience": 0.002456985879689455,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "example",
+        "salience": 0.002456985879689455,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "stages",
+        "salience": 0.002456985879689455,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "variety",
+        "salience": 0.002456985879689455,
+        "type": "OTHER",
+        "source": "merge"
+      },
+      {
+        "name": "Mike Petrich",
+        "salience": 0.00230627809651196,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "Karen Wilkinson",
+        "salience": 0.00230627809651196,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "Curators",
+        "salience": 0.00230627809651196,
+        "type": "PERSON",
+        "source": "merge"
+      },
+      {
+        "name": "2",
+        "salience": 0.0,
+        "type": "NUMBER",
+        "source": "merge"
+      }
+    ]
+  }
+}

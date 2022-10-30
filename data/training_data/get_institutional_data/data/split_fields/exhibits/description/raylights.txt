@@ -1,0 +1,14 @@
+.btn-language{
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.dropdown-menu{
+    min-width: unset;
+}
+
+.dropdown-item{
+    text-decoration: none !important;
+}  Language   Español  繁體中文  Filipino      This dynamic artwork produces ever-changing, mandala-like light patterns that are synchronized to ambient sounds. The fluctuating, animated light rays range from intense spectral colors to subtle pastels. A sequence of patterns repeats, but when you make sound—talk, sing, clap—the preprogrammed patterns are interrupted as the lights respond with non-repeating, complex variations of the colors and patterns.  On view in Glow: Discover the Art of Light , November 17, 2022–January 29, 2023.  Photo: Courtesy of Craig Newswanger. 

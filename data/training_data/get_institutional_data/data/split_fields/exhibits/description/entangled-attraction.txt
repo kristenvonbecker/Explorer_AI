@@ -1,0 +1,14 @@
+.btn-language{
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.dropdown-menu{
+    min-width: unset;
+}
+
+.dropdown-item{
+    text-decoration: none !important;
+}  Language   Español  繁體中文 Filipino      In the darkened Wattis Studio, visitors gaze up at an array of 300 spiraling lights.  When viewed from a distance, each pinpoint of light seems to be in orbit around another, evocative of galaxies rotating and twisting as they sweep through space. But when viewed from below, the lights fill our field of vision and transform into unpredictable 3-D patterns dancing overhead.  Our eyes see the light from each LED as a spiraling pattern because our visual system “remembers” the light’s image for up to a tenth of a second. This surprising effect is called persistence of vision. You may also see traces of color around each orbit.  A score by Jonathan Crawford accompanies Entangled Attraction.   On view in Glow: Discover the Art of Light , November 17, 2022–January 29, 2023.  Photo: Courtesy of Sally Weber and Craig Newswanger 

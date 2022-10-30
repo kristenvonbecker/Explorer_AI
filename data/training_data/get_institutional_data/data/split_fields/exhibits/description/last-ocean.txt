@@ -1,0 +1,14 @@
+.btn-language{
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.dropdown-menu{
+    min-width: unset;
+}
+
+.dropdown-item{
+    text-decoration: none !important;
+}  Language   Español  繁體中文  Filipino       The Last Ocean is a 1,200-square-foot landscape of interactive platforms illuminated by visitor activity. Made from reclaimed and recycled ocean plastics, its five-sided pieces form a beautiful geometric tessellation —a repeating pattern of flat shapes with no gaps. The independent “smart” platforms communicate with each other over a robust wireless network.  Through the use of recycled ocean plastic, Lewin aims to impact the recovery of our oceans and planet and to explore the crisis of polluted oceans, a warming planet, dwindling natural resources, and an urgent need for systemic change. She also asks us to consider how a global community can connect, address, and mitigate the issues our planet faces.  In 2021 the Brunt Ice Shelf in Antarctica experienced a significant calving event —the breaking away of a mass of ice. The detached piece of ice was named Iceberg A-74. The design of the installation at the Exploratorium was inspired by an overhead view of the calving event.  Jen Lewin’s works combine the beauty of the natural world with the transformative possibilities of interactivity and the power of technology.  On view in Glow: Discover the Art of Light , November 17, 2022–January 29, 2023.  Photo: The Last Ocean by artist Jen Lewin. Photo by Charles Aydlett. 

@@ -1,0 +1,196 @@
+[
+  [
+    {
+      "word": "reaction",
+      "pos": "n",
+      "sense": "reaction.n.03"
+    },
+    {
+      "word": "time",
+      "pos": "n",
+      "sense": "time.n.02"
+    }
+  ],
+  [
+    {
+      "word": "interference",
+      "pos": "n",
+      "sense": "hindrance.n.03"
+    }
+  ],
+  [
+    {
+      "word": "number",
+      "pos": "n",
+      "sense": "number.n.02"
+    },
+    {
+      "word": "series",
+      "pos": "n",
+      "sense": "series.n.01"
+    }
+  ],
+  [
+    {
+      "word": "effect",
+      "pos": "n",
+      "sense": "consequence.n.01"
+    },
+    {
+      "word": "temperature",
+      "pos": "n",
+      "sense": "temperature.n.01"
+    }
+  ],
+  [
+    {
+      "word": "information",
+      "pos": "n",
+      "sense": "data.n.01"
+    },
+    {
+      "word": "processing",
+      "pos": "v",
+      "sense": "process.v.03"
+    },
+    {
+      "word": "encoding",
+      "pos": "v",
+      "sense": "encode.v.01"
+    }
+  ],
+  [
+    {
+      "word": "scattering",
+      "pos": "v",
+      "sense": "disperse.v.04"
+    }
+  ],
+  [
+    {
+      "word": "accelerated",
+      "pos": "v",
+      "sense": "accelerate.v.02"
+    },
+    {
+      "word": "rotational",
+      "pos": "a",
+      "sense": "rotational.a.01"
+    },
+    {
+      "word": "motion",
+      "pos": "n",
+      "sense": "movement.n.03"
+    }
+  ],
+  [
+    {
+      "word": "oscillation",
+      "pos": "n",
+      "sense": "oscillation.n.02"
+    }
+  ],
+  [
+    {
+      "word": "vortices",
+      "pos": "n",
+      "sense": "whirl.n.02"
+    }
+  ],
+  [
+    {
+      "word": "resource",
+      "pos": "n",
+      "sense": "resource.n.02"
+    },
+    {
+      "word": "sharing",
+      "pos": "v",
+      "sense": "share.v.02"
+    }
+  ],
+  [
+    {
+      "word": "numbers",
+      "pos": "n",
+      "sense": "numeral.n.01"
+    }
+  ],
+  [
+    {
+      "word": "rhythm",
+      "pos": "n",
+      "sense": "rhythm.n.02"
+    }
+  ],
+  [
+    {
+      "word": "patterns",
+      "pos": "n",
+      "sense": "form.n.03"
+    }
+  ],
+  [
+    {
+      "word": "projections",
+      "pos": "n",
+      "sense": "protrusion.n.02"
+    }
+  ],
+  [
+    {
+      "word": "size",
+      "pos": "n",
+      "sense": "size.n.01"
+    },
+    {
+      "word": "distance",
+      "pos": "n",
+      "sense": "distance.n.01"
+    }
+  ],
+  [
+    {
+      "word": "social",
+      "pos": "a",
+      "sense": "social.a.01"
+    },
+    {
+      "word": "loafing",
+      "pos": "v",
+      "sense": "loiter.v.01"
+    }
+  ],
+  [],
+  [
+    {
+      "word": "dominant",
+      "pos": "a",
+      "sense": "dominant.a.01"
+    },
+    {
+      "word": "cues",
+      "pos": "n",
+      "sense": "discriminative_stimulus.n.01"
+    }
+  ],
+  [
+    {
+      "word": "shadows",
+      "pos": "n",
+      "sense": "shadow.n.01"
+    }
+  ],
+  [
+    {
+      "word": "evaporation",
+      "pos": "n",
+      "sense": "vaporization.n.02"
+    },
+    {
+      "word": "evaporation",
+      "pos": "n",
+      "sense": "vaporization.n.02"
+    }
+  ]
+]

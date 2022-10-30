@@ -1,0 +1,535 @@
+[
+  [
+    {
+      "word": "nodes",
+      "pos": "n",
+      "sense": "node.n.04"
+    },
+    {
+      "word": "antinodes",
+      "pos": "n",
+      "sense": "antinode.n.01"
+    }
+  ],
+  [
+    {
+      "word": "color",
+      "pos": "n",
+      "sense": "color.n.01"
+    },
+    {
+      "word": "separation",
+      "pos": "n",
+      "sense": "separation.n.02"
+    }
+  ],
+  [
+    {
+      "word": "persistence",
+      "pos": "n",
+      "sense": "perseverance.n.02"
+    },
+    {
+      "word": "vision",
+      "pos": "n",
+      "sense": "vision.n.01"
+    }
+  ],
+  [
+    {
+      "word": "modeling",
+      "pos": "v",
+      "sense": "model.v.05"
+    },
+    {
+      "word": "landscapes",
+      "pos": "n",
+      "sense": "landscape.n.01"
+    }
+  ],
+  [
+    {
+      "word": "ionization",
+      "pos": "n",
+      "sense": "ionization.n.01"
+    }
+  ],
+  [
+    {
+      "word": "real",
+      "pos": "a",
+      "sense": "real.a.01"
+    },
+    {
+      "word": "images",
+      "pos": "n",
+      "sense": "picture.n.01"
+    }
+  ],
+  [
+    {
+      "word": "parabolic",
+      "pos": "a",
+      "sense": "parabolic.a.01"
+    },
+    {
+      "word": "mirrors",
+      "pos": "n",
+      "sense": "mirror.n.01"
+    }
+  ],
+  [
+    {
+      "word": "iridescence",
+      "pos": "n",
+      "sense": "opalescence.n.01"
+    }
+  ],
+  [
+    {
+      "word": "prisoners",
+      "pos": "n",
+      "sense": "prisoner.n.01"
+    },
+    {
+      "word": "dilemma",
+      "pos": "n",
+      "sense": "dilemma.n.01"
+    }
+  ],
+  [
+    {
+      "word": "pressure",
+      "pos": "n",
+      "sense": "pressure.n.01"
+    }
+  ],
+  [
+    {
+      "word": "magnetization",
+      "pos": "n",
+      "sense": "magnetization.n.03"
+    }
+  ],
+  [
+    {
+      "word": "apparent",
+      "pos": "s",
+      "sense": "apparent.s.02"
+    },
+    {
+      "word": "motion",
+      "pos": "n",
+      "sense": "movement.n.03"
+    }
+  ],
+  [
+    {
+      "word": "spatial",
+      "pos": "a",
+      "sense": "spatial.a.01"
+    },
+    {
+      "word": "perception",
+      "pos": "n",
+      "sense": "perception.n.03"
+    }
+  ],
+  [
+    {
+      "word": "atoms",
+      "pos": "n",
+      "sense": "atom.n.01"
+    },
+    {
+      "word": "particles",
+      "pos": "n",
+      "sense": "particle.n.02"
+    }
+  ],
+  [
+    {
+      "word": "reflection",
+      "pos": "n",
+      "sense": "mirror_image.n.01"
+    }
+  ],
+  [
+    {
+      "word": "symmetry",
+      "pos": "n",
+      "sense": "symmetry.n.01"
+    }
+  ],
+  [
+    {
+      "word": "motion",
+      "pos": "n",
+      "sense": "movement.n.03"
+    },
+    {
+      "word": "detection",
+      "pos": "n",
+      "sense": "detection.n.02"
+    }
+  ],
+  [
+    {
+      "word": "wave",
+      "pos": "n",
+      "sense": "wave.n.03"
+    },
+    {
+      "word": "guide",
+      "pos": "n",
+      "sense": "guide.n.06"
+    }
+  ],
+  [],
+  [
+    {
+      "word": "gravitational",
+      "pos": "a",
+      "sense": "gravitational.a.01"
+    },
+    {
+      "word": "forces",
+      "pos": "n",
+      "sense": "force.n.02"
+    }
+  ],
+  [
+    {
+      "word": "binocular",
+      "pos": "a",
+      "sense": "binocular.a.01"
+    },
+    {
+      "word": "vision",
+      "pos": "n",
+      "sense": "sight.n.03"
+    }
+  ],
+  [
+    {
+      "word": "rotational",
+      "pos": "a",
+      "sense": "rotational.a.01"
+    },
+    {
+      "word": "motion",
+      "pos": "n",
+      "sense": "movement.n.03"
+    }
+  ],
+  [
+    {
+      "word": "visual",
+      "pos": "a",
+      "sense": "ocular.a.02"
+    },
+    {
+      "word": "motion",
+      "pos": "n",
+      "sense": "movement.n.03"
+    },
+    {
+      "word": "detection",
+      "pos": "n",
+      "sense": "detection.n.02"
+    }
+  ],
+  [
+    {
+      "word": "reproduction",
+      "pos": "n",
+      "sense": "reproduction.n.05"
+    }
+  ],
+  [
+    {
+      "word": "time",
+      "pos": "n",
+      "sense": "time.n.05"
+    },
+    {
+      "word": "effects",
+      "pos": "n",
+      "sense": "consequence.n.01"
+    },
+    {
+      "word": "in",
+      "pos": "r",
+      "sense": "in.r.01"
+    },
+    {
+      "word": "perception",
+      "pos": "n",
+      "sense": "percept.n.01"
+    }
+  ],
+  [
+    {
+      "word": "torque",
+      "pos": "n",
+      "sense": "torsion.n.02"
+    }
+  ],
+  [
+    {
+      "word": "afterimage",
+      "pos": "n",
+      "sense": "afterimage.n.01"
+    }
+  ],
+  [
+    {
+      "word": "color",
+      "pos": "a",
+      "sense": "color.a.01"
+    },
+    {
+      "word": "vision",
+      "pos": "n",
+      "sense": "sight.n.03"
+    }
+  ],
+  [
+    {
+      "word": "crystallization",
+      "pos": "n",
+      "sense": "crystallization.n.01"
+    }
+  ],
+  [
+    {
+      "word": "bernoulli",
+      "pos": "n",
+      "sense": "bernoulli.n.01"
+    },
+    {
+      "word": "effect",
+      "pos": "n",
+      "sense": "consequence.n.01"
+    }
+  ],
+  [
+    {
+      "word": "close",
+      "pos": "a",
+      "sense": "close.a.01"
+    },
+    {
+      "word": "packing",
+      "pos": "v",
+      "sense": "pack.v.01"
+    }
+  ],
+  [
+    {
+      "word": "friction",
+      "pos": "n",
+      "sense": "friction.n.02"
+    }
+  ],
+  [
+    {
+      "word": "thin",
+      "pos": "a",
+      "sense": "thin.a.01"
+    },
+    {
+      "word": "films",
+      "pos": "n",
+      "sense": "film.n.04"
+    }
+  ],
+  [
+    {
+      "word": "standing",
+      "pos": "v",
+      "sense": "stand.v.02"
+    },
+    {
+      "word": "waves",
+      "pos": "n",
+      "sense": "wave.n.03"
+    }
+  ],
+  [
+    {
+      "word": "simple",
+      "pos": "s",
+      "sense": "elementary.s.01"
+    },
+    {
+      "word": "harmonic",
+      "pos": "a",
+      "sense": "harmonic.a.02"
+    },
+    {
+      "word": "motion",
+      "pos": "n",
+      "sense": "motion.n.06"
+    }
+  ],
+  [
+    {
+      "word": "microscopy",
+      "pos": "n",
+      "sense": "microscopy.n.01"
+    }
+  ],
+  [
+    {
+      "word": "mental",
+      "pos": "a",
+      "sense": "mental.a.01"
+    },
+    {
+      "word": "tasks",
+      "pos": "n",
+      "sense": "undertaking.n.01"
+    }
+  ],
+  [
+    {
+      "word": "economic",
+      "pos": "a",
+      "sense": "economic.a.01"
+    },
+    {
+      "word": "exchange",
+      "pos": "n",
+      "sense": "exchange.n.03"
+    }
+  ],
+  [
+    {
+      "word": "wave",
+      "pos": "n",
+      "sense": "wave.n.03"
+    },
+    {
+      "word": "excitation",
+      "pos": "n",
+      "sense": "excitation.n.03"
+    }
+  ],
+  [
+    {
+      "word": "social",
+      "pos": "a",
+      "sense": "social.a.01"
+    },
+    {
+      "word": "dilemma",
+      "pos": "n",
+      "sense": "dilemma.n.01"
+    }
+  ],
+  [],
+  [
+    {
+      "word": "mental",
+      "pos": "a",
+      "sense": "mental.a.01"
+    },
+    {
+      "word": "activity",
+      "pos": "n",
+      "sense": "bodily_process.n.01"
+    }
+  ],
+  [
+    {
+      "word": "techniques",
+      "pos": "n",
+      "sense": "technique.n.01"
+    },
+    {
+      "word": "make",
+      "pos": "v",
+      "sense": "make.v.03"
+    },
+    {
+      "word": "invisible",
+      "pos": "a",
+      "sense": "invisible.a.01"
+    },
+    {
+      "word": "visible",
+      "pos": "a",
+      "sense": "visible.a.01"
+    }
+  ],
+  [
+    {
+      "word": "transverse",
+      "pos": "s",
+      "sense": "cross.s.01"
+    },
+    {
+      "word": "waves",
+      "pos": "n",
+      "sense": "wave.n.03"
+    }
+  ],
+  [
+    {
+      "word": "polarization",
+      "pos": "n",
+      "sense": "polarization.n.01"
+    }
+  ],
+  [
+    {
+      "word": "phase",
+      "pos": "n",
+      "sense": "phase.n.03"
+    }
+  ],
+  [
+    {
+      "word": "embryonic",
+      "pos": "s",
+      "sense": "embryonic.s.02"
+    },
+    {
+      "word": "development",
+      "pos": "n",
+      "sense": "growth.n.01"
+    }
+  ],
+  [
+    {
+      "word": "emotion",
+      "pos": "n",
+      "sense": "emotion.n.01"
+    }
+  ],
+  [
+    {
+      "word": "kinetic",
+      "pos": "a",
+      "sense": "kinetic.a.01"
+    },
+    {
+      "word": "energy",
+      "pos": "n",
+      "sense": "energy.n.01"
+    }
+  ],
+  [
+    {
+      "word": "ferromagnetism",
+      "pos": "n",
+      "sense": "ferromagnetism.n.01"
+    },
+    {
+      "word": "ferromagnetism",
+      "pos": "n",
+      "sense": "ferromagnetism.n.01"
+    }
+  ]
+]

@@ -1,0 +1,14 @@
+.btn-language{
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.dropdown-menu{
+    min-width: unset;
+}
+
+.dropdown-item{
+    text-decoration: none !important;
+}  Idioma   English  繁體中文  Filipino      En el Wattis Studio oscurecido, los visitantes pueden contemplar un conjunto de 300 luces en espiral.  Cuando se observa desde la distancia, cada punto de luz pareciera estar en órbita alrededor de otro, lo que evoca a las galaxias en movimiento de rotación y giro mientras recorren el espacio. No obstante, cuando se ven desde abajo, las luces inundan nuestro campo visual y se transforman en patrones 3D imprevisibles que danzan sobre nuestras cabezas.  Nuestros ojos perciben la luz de cada LED como un patrón en espiral porque nuestro sistema de visión "retiene" la imagen de la luz hasta una décima de segundo. Este sorprendente efecto se denomina persistencia de la visión . Es posible, además, que veas vestigios de color alrededor de cada órbita.  La música de Jonathan Crawford complementa la obra Entangled Attraction .  Expuesta en Brillo: descubre el arte de la luz , del 17 de noviembre de 2022 al 29 de enero de 2023.  Foto: cortesía de Sally Weber y Craig Newswanger. 

@@ -1,0 +1,14 @@
+.btn-language{
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.dropdown-menu{
+    min-width: unset;
+}
+
+.dropdown-item{
+    text-decoration: none !important;
+}  Language   Español  繁體中文  Filipino      If you visited the Exploratorium in the 1970s or 1980s, you might remember this tree lighting up—mysteriously, delightfully—at the sound of clapping. “This tree was created by Burt Libe as a fantastic approach to the new field of electronic art,” the artist wrote.  A feat of engineering in 1971, this beloved work is now over 50 years old. Though The Enchanted Tree no longer functions fully, it’s still a wonderful expression of one tinkerer’s skill and vision. You can tap a pedal to light up the tree and its circuits. The circuit board is hand-built, unique in design, and too fragile to disassemble; its exact logic remains a mystery.  On view in Glow: Discover the Art of Light , November 17, 2022–January 29, 2023.   Photo: The Enchanted Tree at the Palace of Fine Arts in 1976. Photo © Exploratorium Archives.  

@@ -1,0 +1,14 @@
+.btn-language{
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.dropdown-menu{
+    min-width: unset;
+}
+
+.dropdown-item{
+    text-decoration: none !important;
+}  語言   English Español  Filipino      這個具動態的藝術作品，產生類似曼陀羅的光影圖案，並隨著周遭環境的聲音而同步不斷變化。 光線變化多端，從強烈的光譜顏色到淡粉彩，一直躍動不息。 光線圖案按次序重複出現，但當您發出聲音（說話、唱歌、拍手）時，預先編定的圖案便會被打斷，取而代之的是作為回應的不重複、變化繁複的顏色和圖案。  2022年11月17日－2023年1月29日在 光輝燦爛：探索光的藝術  展覽中展出  照片：由Craig Newswanger提供。 

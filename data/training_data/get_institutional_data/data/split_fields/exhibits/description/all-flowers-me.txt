@@ -1,0 +1,14 @@
+.btn-language{
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.dropdown-menu{
+    min-width: unset;
+}
+
+.dropdown-item{
+    text-decoration: none !important;
+}  Language   Español  繁體中文  Filipino    Who are the flowers for?  The ethereal lacy shadows that cover every surface are for everyone who enters the Black Box. The artist’s aims are to create a space where visitors of all genders, races, nationalities, and religions feel welcome, and to offer an opportunity to explore our similarities and differences. Islamic textiles, architecture, and floral motifs inspired the patterns Agha produced using light and shadow. A single beacon of light glows from within a suspended steel cube, producing immersive patterns that ripple and change as visitors move through the space.   All the Flowers Are for Me (Turquoise) appears in the Exploratorium’s Black Box , a gallery space dedicated to an ongoing series of media art installations.  On view in Glow: Discover the Art of Light , November 17, 2022–January 29, 2023.  Photo: Drew Baron. Courtesy of The Columbia Museum of Art. 

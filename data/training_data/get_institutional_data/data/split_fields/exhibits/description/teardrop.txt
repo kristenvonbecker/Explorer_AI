@@ -1,0 +1,14 @@
+.btn-language{
+    position: absolute;
+    right: 0;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.dropdown-menu{
+    min-width: unset;
+}
+
+.dropdown-item{
+    text-decoration: none !important;
+}  Language   Español  繁體中文  Filipino      In a spectacular interplay of light and shadow, “hidden” shapes and patterns emerge. Fragmented shadows are cast in all directions from reflected and refracted light.   Teardrop (after Robert Irwin) interweaves delicate, traditional Islamic decorative geometric patterns and architecture with modern materials. The work is inspired by jaalis , intricate carved screens, which cast moving shadows as the Sun rises and falls. The design is a laser-cut steel disk that is lacquered in seafoam green. Multiple, overlapping shadows of varying density are cast and appear to move as visitors move.  On view in Glow: Discover the Art of Light , November 17, 2022–January 29, 2023.  Photo: Courtesy of Anila Quayyum Agha. 
