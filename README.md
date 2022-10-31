@@ -1,6 +1,6 @@
 # Explorer AI
 
-Explorer AI will be an intelligent chatbot which assists and educates visitors to 
+Explorer AI will be a conversational chatbot which assists and educates visitors to 
 [The Exploratorium](https://www.exploratorium.edu/about-us), "a public learning laboratory exploring the world through 
 science, art, and human perception."
 
@@ -20,82 +20,67 @@ development, and will use a combination of both pre-trained and custom natural l
 Initially, Explorer AI will be deployed through a simple web application. 
 
 
-## Training data
+## Data
 
 In addition to information which is specific to the Exploratorium (e.g. exhibit- or gallery-level data), Explorer AI's 
-training data must also include plenty of detailed information about the individual entities described or illustrated 
-by the exhibits (e.g. vision, fog, magnets). To obtain such training data, we employ a pipeline containing the 
-following components:
-  - Web-scraping from [exploratorium.edu](https://www.exploratorium.edu/) --  this step provides the required 
-institutional-specific data (e.g. exhibit metadata, labeling of exhibits by topic)
-  - Processing of institutional data for use with language processing and API calls 
-  - API calls to both [Encyclopedia Britannica](https://encyclopaediaapi.com/products/index) and 
-[Merriam-Webster](https://dictionaryapi.com/products/index) -- these provide the entity-specific data (i.e. the 
-knowledge base) in raw form
-  - Processing of knowledge-base data for use with natural language processing and ML modeling purposes
+training data must also include plenty of data regarding the individual entities described or illustrated by the 
+exhibits (e.g. vision, fog, magnets). Thus, our data will originate from the following two sources:
+  - Content scraped from [exploratorium.edu](https://www.exploratorium.edu/). This step will yield Explorer AI's 
+institutional knowledge, and bit of analysis will extract dozens of search terms which will be used to seed our
+second data source. 
+  - Encylopedia articles courtesy of [Encyclopedia Britannica](https://encyclopaediaapi.com/products/index) and 
+dictionary and thesaurus entries courtesty of [Merriam-Webster](https://dictionaryapi.com/products/index). This step
+will provide the training data for Explorer AI's subject matter knowledge, most of which is scientific in nature.
 
 ### Web-scraping
 
-Explorer AI's knowledge base should be rooted in each of The Exploratorium's 179 exhibits and the entities that they 
-describe or illustrate. Therefore, our data pipeline begins with two webpages on the Exploratorium's website: 
-one containing [links to each exhibit's webpage](https://www.exploratorium.edu/exhibits/all), and the other 
-containing [links to each gallery's webpage](https://www.exploratorium.edu/visit/galleries). By scraping these pages 
-(using Scrapy spiders defined in `project/project/spiders`), we obtain a wealth of information about the exhibits and 
-the galleries that contain them:
+In order to get the most relevant information about the Exploratorium and its exhibits, we scrape two URLs: one 
+containing [links to each exhibit's webpage](https://www.exploratorium.edu/exhibits/all), and the other 
+containing [links to each gallery's webpage](https://www.exploratorium.edu/visit/galleries). These pages are crawled
+using Scrapy spiders defined in `data/training_data/get_institutional_data/scrapy_project/project/spiders`.
 
-  - Each item in the file `data/scraped_data/exhibits.json` represents a unique exhibit at the Exploratorium 
-(e.g. [Velvet Hands](https://www.exploratorium.edu/exhibits/velvet-hands), 
-[Chladni Singing](https://www.exploratorium.edu/exhibits/chladni-singing), or 
-[Probably Chelsea](https://www.exploratorium.edu/exhibits/probably-chelsea)). It has the following keys:
-  
-    - `id` is the (unique) id of the exhibit (taken from the URL slug)
+  - Each item in the exhibit-level data (i.e. each exhibit) has the following fields:
+    - `id` is the id of the exhibit (taken from the URL slug)
     - `title` is the title of the exhibit
     - `tagline` is a (catchy) short description
     - `description` gives a brief description of the exhibit
     - `location` gives the (current) location of the exhibit (e.g. gallery) inside the museum, or says that it is not 
 currently on view
     - `byline` is the information contained in the line beginning "Exhibit developer(s):"
-    - `whats_going_on` is one of the more common headings in the exhibit's "about" section; many empty values
-    - `going_further` is the other common heading; many empty values
+    - `whats_going_on` is one of the more common headings in the exhibit's "about" section
+    - `going_further` is the other common heading
     - `details` stores the text contents of the "about section" whenever it does not contain the previous two features
     - `phenomena` gives a list of phenomena which are illustrated by the exhibit
     - `keywords` gives a list of keywords for the exhibit
     - `collections` gives a list of collections (groupings of exhibits, based on some theme) that the exhibit belongs to
-    - `aliases` gives other names that the exhibit might go by; many empty values
+    - `aliases` gives other names that the exhibit might go by
     - `collection_id` gives a list of ids for collections to which the exhibit belongs
-    - `related_exhibit_id` gives a list of ids for related exhibits
-    
-  - Each item in the file `data/scraped_data/galleries.json` represents a unique gallery at the Exploratorium 
-(e.g. [Gallery 2: Tinkering](https://www.exploratorium.edu/visit/gallery-2) or 
-[Gallery 4: Living Systems](https://www.exploratorium.edu/visit/gallery-4)). It has the following keys:
-    - `id` is the (unique) id of the gallery (taken from the URL slug)
+    - `related_exhibit_id` gives a list of ids for related exhibits 
+
+
+  - Each item in the gallery-level data (i.e. each gallery) has the following fields:
+    - `id` is the id of the gallery (taken from the URL slug)
     - `title` is the title of the exhibit
     - `tagline` is a catchy short description
-    - `description` gives a brief description of the exhibit; many empty values
+    - `description` gives a brief description of the exhibit
     - `curator_url` gives a link to the curators' statement
     - `curator_statement` gives the curators' names and their statement about the gallery
+    
+The `json` files containing this data are located in `data/training_data/get_institutional_data/data/raw`.
+  
+In addition to using the scraped data obtain knowledge specific to the Exploratorium's exhibits, we also analyze it
+for the purpose of extracting the entities and phenomena which are illustrated by each exhibit.
 
 ### Analysis of institutional data
 
-Some data will be needed for API calls, so it is extracted and processed separately. Specifically:
-  - The `keywords` and `phenomena` fields in `exhibits.json` will have a lot of affect on how we choose which 
-entities our chatbot should have subject matter knowledge over. These fields are processed in `pre_process.ipynb` 
-using modules defined in `language_processing.py`. 
+
+In order to perform the second step of data extraction (API calls to Encyclopedia Britannica and Merriam-Webster), we 
+must process and analyze the data obtained through web-scraping. This is accomplished in two ways:
   - The long-form fields (from `exhibits.json` these are `description`, `whats_going_on`, `going_further`, and 
-`details`; from `galleries.json` they are `description` and `curator_statement`), as well as some others, are 
-extracted (for later analysis) in `split_fields.ipynb`. These extracted fields can be found in `data/split_data`. 
-
-In `get_entities.ipynb` we use the 
-[analyzeEntities method](https://cloud.google.com/natural-language/docs/analyzing-entities) provided by 
-Google's Natural Language API to extract entities from the long-form fields references above. These entities are 
-stored in `data/entities/exhibits.json` and `data/entities/galleries.json`. 
-
-Finally, some additional data processing is performed in `data_exploration.ipynb`. 
-
-### Querying knowledge sources
-Using the entities obtained from the Natural Language API, as well as keywords and phenomena contained in the scraped 
-data, we query the encyclopedia and dictionary APIs to obtain articles about and definitions of topics related to the 
-Exploratorium's exhibits.
-
-The files `get_article_lists.ipynb` and `get_articles.ipynb` contain API calls. Not all of the code is currently 
-fuctional. 
+`details`; from `galleries.json` they are `description` and `curator_statement`) are extracted and analyzed using the
+[analyzeEntities method](https://cloud.google.com/natural-language/docs/analyzing-entities) available through Google's 
+Natural Language API. See `data/training_data/analysis/get_entities.ipynb` for details.
+  - The `keywords` and `phenomena` fields in `exhibits.json` are cleaned and tagged (at the word level) with part of
+speech (using [NLTK's tagger](https://www.nltk.org/api/nltk.tag.html)) and word sense (done manually, using
+the script in `data/training_data/analysis/set_word_sense.py`). See `data/training_data/analysis/pre_process.ipynb` for
+details.
