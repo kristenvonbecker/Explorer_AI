@@ -14,10 +14,9 @@ reload(lang_process)
 reload(parse_data)
 
 nltk.download('wordnet')
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
-nltk.download('wordnet')
-nltk.download('omw-1.4')
+# nltk.download('punkt')
+# nltk.download('averaged_perceptron_tagger')
+# nltk.download('omw-1.4')
 
 
 # clean up phenomenon and keyword phrases
@@ -55,8 +54,16 @@ def preprocess(phrase, kind):
     return proc_phrase
 
 
-# work tokenize and get pos tags for each word in a phrase
+# get text from list of token tags
+def get_text(phrase):
+    words = []
+    for text, label in phrase:
+        words.append(text)
+    phrase_text = ' '.join(words)
+    return phrase_text
 
+
+# work tokenize and get pos tags for each word in a phrase
 def get_token_tags(phrase):
     words = word_tokenize(phrase)
     tags = pos_tag(words)
@@ -99,11 +106,26 @@ def get_syns(phrase):
     return this_phrase
 
 
-def get_all_data(phrase):
-    phrase = get_token_tags(phrase)
+def get_search_terms(phrase):
+    primary = phrase
+    primary_tokens = get_token_tags(phrase)
+    related = get_related(primary_tokens)
+    related_text = []
+    for item in related:
+        this_related_text = get_text(item)
+        related_text.append(this_related_text)
     data = {
-        'primary': phrase,
-        'related': get_related(phrase),
-        'syns': get_syns(phrase)
+        'primary': primary,
+        'related': related_text
+    }
+    return data
+
+
+def get_all_data(phrase):
+    primary = phrase
+    primary_tokens = get_token_tags(phrase)
+    data = {
+        'primary': primary,
+        'syns': get_syns(primary_tokens)
     }
     return data
