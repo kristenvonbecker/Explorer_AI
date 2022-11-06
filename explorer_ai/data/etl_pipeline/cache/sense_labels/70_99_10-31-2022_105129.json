@@ -1,0 +1,327 @@
+[
+  [
+    {
+      "word": "judgment",
+      "pos": "n",
+      "sense": "judgment.n.04"
+    }
+  ],
+  [
+    {
+      "word": "wind",
+      "pos": "n",
+      "sense": "wind.n.01"
+    }
+  ],
+  [
+    {
+      "word": "gas",
+      "pos": "n",
+      "sense": "gas.n.02"
+    },
+    {
+      "word": "flow",
+      "pos": "n",
+      "sense": "flow.n.01"
+    }
+  ],
+  [
+    {
+      "word": "electric",
+      "pos": "a",
+      "sense": "electric.a.01"
+    },
+    {
+      "word": "fields",
+      "pos": "n",
+      "sense": "field.n.05"
+    },
+    {
+      "word": "forces",
+      "pos": "n",
+      "sense": "force.n.02"
+    }
+  ],
+  [
+    {
+      "word": "probability",
+      "pos": "n",
+      "sense": "probability.n.01"
+    }
+  ],
+  [
+    {
+      "word": "freezing",
+      "pos": "v",
+      "sense": "freeze.v.07"
+    }
+  ],
+  [
+    {
+      "word": "potential",
+      "pos": "a",
+      "sense": "potential.a.01"
+    },
+    {
+      "word": "energy",
+      "pos": "n",
+      "sense": "energy.n.01"
+    }
+  ],
+  [
+    {
+      "word": "diffraction",
+      "pos": "n",
+      "sense": "diffraction.n.01"
+    }
+  ],
+  [
+    {
+      "word": "surface",
+      "pos": "a",
+      "sense": "surface.a.01"
+    },
+    {
+      "word": "tension",
+      "pos": "n",
+      "sense": "tension.n.04"
+    },
+    {
+      "word": "liquids",
+      "pos": "n",
+      "sense": "liquid.n.03"
+    }
+  ],
+  [
+    {
+      "word": "motion",
+      "pos": "n",
+      "sense": "movement.n.03"
+    }
+  ],
+  [
+    {
+      "word": "accelerated",
+      "pos": "v",
+      "sense": "accelerate.v.01"
+    },
+    {
+      "word": "linear",
+      "pos": "a",
+      "sense": "linear.a.02"
+    },
+    {
+      "word": "motion",
+      "pos": "n",
+      "sense": "movement.n.03"
+    }
+  ],
+  [
+    {
+      "word": "stereotypes",
+      "pos": "n",
+      "sense": "stereotype.n.01"
+    }
+  ],
+  [
+    {
+      "word": "frame",
+      "pos": "n",
+      "sense": "frame_of_reference.n.02"
+    },
+    {
+      "word": "reference",
+      "pos": "n",
+      "sense": "reference_point.n.01"
+    }
+  ],
+  [
+    {
+      "word": "dispersion",
+      "pos": "n",
+      "sense": "dispersion.n.03"
+    }
+  ],
+  [
+    {
+      "word": "accelerated",
+      "pos": "v",
+      "sense": "accelerate.v.01"
+    },
+    {
+      "word": "gravitational",
+      "pos": "a",
+      "sense": "gravitational.a.01"
+    },
+    {
+      "word": "motion",
+      "pos": "n",
+      "sense": "movement.n.03"
+    }
+  ],
+  [
+    {
+      "word": "nonlinear",
+      "pos": "a",
+      "sense": "nonlinear.a.01"
+    },
+    {
+      "word": "behavior",
+      "pos": "n",
+      "sense": "behavior.n.02"
+    }
+  ],
+  [
+    {
+      "word": "fluorescence",
+      "pos": "n",
+      "sense": "fluorescence.n.01"
+    }
+  ],
+  [
+    {
+      "word": "image",
+      "pos": "n",
+      "sense": "picture.n.01"
+    },
+    {
+      "word": "formation",
+      "pos": "n",
+      "sense": "formation.n.06"
+    }
+  ],
+  [
+    {
+      "word": "complementary",
+      "pos": "s",
+      "sense": "complemental.s.01"
+    },
+    {
+      "word": "color",
+      "pos": "n",
+      "sense": "color.n.01"
+    }
+  ],
+  [
+    {
+      "word": "harmonics",
+      "pos": "n",
+      "sense": "harmonic.n.02"
+    }
+  ],
+  [
+    {
+      "word": "color",
+      "pos": "n",
+      "sense": "color.n.01"
+    }
+  ],
+  [
+    {
+      "word": "rotational",
+      "pos": "a",
+      "sense": "rotational.a.01"
+    },
+    {
+      "word": "inertia",
+      "pos": "n",
+      "sense": "inertia.n.02"
+    }
+  ],
+  [
+    {
+      "word": "conservation",
+      "pos": "n",
+      "sense": "conservation.n.03"
+    },
+    {
+      "word": "energy",
+      "pos": "n",
+      "sense": "energy.n.01"
+    }
+  ],
+  [
+    {
+      "word": "turbulent",
+      "pos": "s",
+      "sense": "churning.s.02"
+    },
+    {
+      "word": "flow",
+      "pos": "n",
+      "sense": "flow.n.01"
+    }
+  ],
+  [
+    {
+      "word": "electric",
+      "pos": "a",
+      "sense": "electric.a.01"
+    },
+    {
+      "word": "current",
+      "pos": "n",
+      "sense": "current.n.01"
+    }
+  ],
+  [
+    {
+      "word": "selective",
+      "pos": "s",
+      "sense": "selective.s.02"
+    },
+    {
+      "word": "awareness",
+      "pos": "n",
+      "sense": "awareness.n.02"
+    }
+  ],
+  [
+    {
+      "word": "lateral",
+      "pos": "s",
+      "sense": "lateral.s.01"
+    },
+    {
+      "word": "inhibition",
+      "pos": "n",
+      "sense": "inhibition.n.01"
+    }
+  ],
+  [
+    {
+      "word": "light",
+      "pos": "n",
+      "sense": "light.n.01"
+    },
+    {
+      "word": "production",
+      "pos": "n",
+      "sense": "production.n.01"
+    }
+  ],
+  [
+    {
+      "word": "social",
+      "pos": "a",
+      "sense": "social.a.01"
+    },
+    {
+      "word": "influence",
+      "pos": "n",
+      "sense": "influence.n.04"
+    }
+  ],
+  [
+    {
+      "word": "cues",
+      "pos": "n",
+      "sense": "discriminative_stimulus.n.01"
+    },
+    {
+      "word": "cues",
+      "pos": "n",
+      "sense": "discriminative_stimulus.n.01"
+    }
+  ]
+]

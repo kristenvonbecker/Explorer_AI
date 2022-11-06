@@ -168,7 +168,7 @@ def get_unique_articles(matches, path_out=None):
     if not os.path.exists(path_out):
         os.makedirs(path_out)
 
-    filepath = os.path.join(path_out, 'eb_articles.json')
+    filepath = os.path.join(path_out, '../cache/eb_articles.json')
     if os.path.exists(filepath):
         os.remove(filepath)
 

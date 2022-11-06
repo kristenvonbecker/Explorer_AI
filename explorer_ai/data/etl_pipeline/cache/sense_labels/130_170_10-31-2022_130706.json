@@ -1,0 +1,347 @@
+[
+  [
+    {
+      "word": "decomposition",
+      "pos": "n",
+      "sense": "decomposition.n.04"
+    }
+  ],
+  [
+    {
+      "word": "parabolic",
+      "pos": "s",
+      "sense": "parabolic.s.02"
+    },
+    {
+      "word": "arc",
+      "pos": "n",
+      "sense": "bow.n.05"
+    }
+  ],
+  [],
+  [
+    {
+      "word": "electromagnetic",
+      "pos": "a",
+      "sense": "electromagnetic.a.01"
+    },
+    {
+      "word": "forces",
+      "pos": "n",
+      "sense": "force.n.02"
+    }
+  ],
+  [
+    {
+      "word": "refraction",
+      "pos": "n",
+      "sense": "refraction.n.01"
+    }
+  ],
+  [
+    {
+      "word": "resonance",
+      "pos": "n",
+      "sense": "resonance.n.02"
+    }
+  ],
+  [
+    {
+      "word": "exponentials",
+      "pos": "n",
+      "sense": "exponential.n.01"
+    }
+  ],
+  [
+    {
+      "word": "fluid",
+      "pos": "n",
+      "sense": "fluid.n.01"
+    },
+    {
+      "word": "mechanics",
+      "pos": "n",
+      "sense": "mechanics.n.01"
+    }
+  ],
+  [
+    {
+      "word": "melting",
+      "pos": "v",
+      "sense": "melt.v.01"
+    }
+  ],
+  [
+    {
+      "word": "precession",
+      "pos": "n",
+      "sense": "precession.n.01"
+    }
+  ],
+  [
+    {
+      "word": "superposition",
+      "pos": "n",
+      "sense": "superposition.n.03"
+    }
+  ],
+  [
+    {
+      "word": "effect",
+      "pos": "n",
+      "sense": "consequence.n.01"
+    }
+  ],
+  [
+    {
+      "word": "parallax",
+      "pos": "n",
+      "sense": "parallax.n.01"
+    }
+  ],
+  [
+    {
+      "word": "fatigue",
+      "pos": "n",
+      "sense": "fatigue.n.02"
+    }
+  ],
+  [
+    {
+      "word": "complexity",
+      "pos": "n",
+      "sense": "complexity.n.01"
+    }
+  ],
+  [
+    {
+      "word": "vibration",
+      "pos": "n",
+      "sense": "vibration.n.01"
+    }
+  ],
+  [
+    {
+      "word": "lenses",
+      "pos": "n",
+      "sense": "lens.n.01"
+    }
+  ],
+  [
+    {
+      "word": "sundial",
+      "pos": "n",
+      "sense": "sundial.n.01"
+    }
+  ],
+  [
+    {
+      "word": "reflections",
+      "pos": "n",
+      "sense": "reflection.n.02"
+    }
+  ],
+  [
+    {
+      "word": "levitation",
+      "pos": "n",
+      "sense": "levitation.n.01"
+    }
+  ],
+  [
+    {
+      "word": "human",
+      "pos": "a",
+      "sense": "human.a.02"
+    },
+    {
+      "word": "generosity",
+      "pos": "n",
+      "sense": "generosity.n.02"
+    },
+    {
+      "word": "project",
+      "pos": "n",
+      "sense": "undertaking.n.01"
+    }
+  ],
+  [
+    {
+      "word": "magnetic",
+      "pos": "a",
+      "sense": "magnetic.a.01"
+    },
+    {
+      "word": "field",
+      "pos": "n",
+      "sense": "field.n.05"
+    }
+  ],
+  [
+    {
+      "word": "turbulence",
+      "pos": "n",
+      "sense": "turbulence.n.01"
+    }
+  ],
+  [
+    {
+      "word": "circuit",
+      "pos": "n",
+      "sense": "circuit.n.01"
+    }
+  ],
+  [
+    {
+      "word": "bicycle",
+      "pos": "n",
+      "sense": "bicycle.n.01"
+    },
+    {
+      "word": "wheel",
+      "pos": "n",
+      "sense": "wheel.n.01"
+    }
+  ],
+  [
+    {
+      "word": "parallel",
+      "pos": "a",
+      "sense": "parallel.a.01"
+    }
+  ],
+  [
+    {
+      "word": "portraits",
+      "pos": "n",
+      "sense": "portrait.n.02"
+    }
+  ],
+  [
+    {
+      "word": "sharks",
+      "pos": "n",
+      "sense": "shark.n.01"
+    }
+  ],
+  [
+    {
+      "word": "speakers",
+      "pos": "n",
+      "sense": "loudspeaker.n.01"
+    }
+  ],
+  [
+    {
+      "word": "musical",
+      "pos": "a",
+      "sense": "musical.a.01"
+    },
+    {
+      "word": "instruments",
+      "pos": "n",
+      "sense": "musical_instrument.n.01"
+    }
+  ],
+  [
+    {
+      "word": "plankton",
+      "pos": "n",
+      "sense": "plankton.n.01"
+    }
+  ],
+  [
+    {
+      "word": "phase",
+      "pos": "n",
+      "sense": "phase.n.03"
+    },
+    {
+      "word": "angle",
+      "pos": "n",
+      "sense": "angle.n.01"
+    }
+  ],
+  [],
+  [
+    {
+      "word": "nerves",
+      "pos": "n",
+      "sense": "nerve.n.01"
+    }
+  ],
+  [
+    {
+      "word": "electrolysis",
+      "pos": "n",
+      "sense": "electrolysis.n.01"
+    }
+  ],
+  [
+    {
+      "word": "fish",
+      "pos": "n",
+      "sense": "fish.n.01"
+    },
+    {
+      "word": "eggs",
+      "pos": "n",
+      "sense": "egg.n.01"
+    }
+  ],
+  [
+    {
+      "word": "volcanoes",
+      "pos": "n",
+      "sense": "vent.n.03"
+    }
+  ],
+  [
+    {
+      "word": "whales",
+      "pos": "n",
+      "sense": "whale.n.02"
+    }
+  ],
+  [
+    {
+      "word": "dissection",
+      "pos": "n",
+      "sense": "dissection.n.01"
+    }
+  ],
+  [
+    {
+      "word": "huygens",
+      "pos": "n",
+      "sense": "huygens.n.01"
+    },
+    {
+      "word": "principle",
+      "pos": "n",
+      "sense": "principle.n.04"
+    }
+  ],
+  [
+    {
+      "word": "ping",
+      "pos": "v",
+      "sense": "ping.v.01"
+    },
+    {
+      "word": "pong",
+      "pos": "n",
+      "sense": "niff.n.01"
+    },
+    {
+      "word": "balls",
+      "pos": "n",
+      "sense": "ball.n.01"
+    },
+    {
+      "word": "balls",
+      "pos": "n",
+      "sense": "ball.n.01"
+    }
+  ]
+]

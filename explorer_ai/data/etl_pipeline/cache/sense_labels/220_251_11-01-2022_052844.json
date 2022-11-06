@@ -1,0 +1,305 @@
+[
+  [
+    {
+      "word": "water",
+      "pos": "n",
+      "sense": "water.n.01"
+    }
+  ],
+  [
+    {
+      "word": "sun",
+      "pos": "n",
+      "sense": "sun.n.01"
+    }
+  ],
+  [
+    {
+      "word": "illusions",
+      "pos": "n",
+      "sense": "illusion.n.01"
+    }
+  ],
+  [
+    {
+      "word": "magnet",
+      "pos": "n",
+      "sense": "magnet.n.01"
+    }
+  ],
+  [
+    {
+      "word": "carbon",
+      "pos": "n",
+      "sense": "carbon.n.01"
+    },
+    {
+      "word": "dioxide",
+      "pos": "n",
+      "sense": "dioxide.n.01"
+    }
+  ],
+  [
+    {
+      "word": "moon",
+      "pos": "n",
+      "sense": "moon.n.01"
+    }
+  ],
+  [
+    {
+      "word": "ratio",
+      "pos": "n",
+      "sense": "ratio.n.01"
+    }
+  ],
+  [
+    {
+      "word": "air",
+      "pos": "n",
+      "sense": "air.n.01"
+    },
+    {
+      "word": "currents",
+      "pos": "n",
+      "sense": "current.n.02"
+    }
+  ],
+  [
+    {
+      "word": "simultaneous",
+      "pos": "s",
+      "sense": "coincident.s.01"
+    },
+    {
+      "word": "contrast",
+      "pos": "n",
+      "sense": "contrast.n.01"
+    }
+  ],
+  [
+    {
+      "word": "cells",
+      "pos": "n",
+      "sense": "cell.n.02"
+    },
+    {
+      "word": "movement",
+      "pos": "n",
+      "sense": "movement.n.03"
+    },
+    {
+      "word": "animation",
+      "pos": "n",
+      "sense": "liveliness.n.01"
+    }
+  ],
+  [
+    {
+      "word": "balance",
+      "pos": "n",
+      "sense": "balance.n.04"
+    }
+  ],
+  [
+    {
+      "word": "neon",
+      "pos": "n",
+      "sense": "neon.n.01"
+    }
+  ],
+  [
+    {
+      "word": "identical",
+      "pos": "a",
+      "sense": "identical.a.03"
+    },
+    {
+      "word": "twins",
+      "pos": "n",
+      "sense": "twin.n.01"
+    }
+  ],
+  [
+    {
+      "word": "spinning",
+      "pos": "v",
+      "sense": "spin.v.01"
+    }
+  ],
+  [
+    {
+      "word": "bubbles",
+      "pos": "n",
+      "sense": "bubble.n.01"
+    }
+  ],
+  [
+    {
+      "word": "heat",
+      "pos": "n",
+      "sense": "heat.n.01"
+    },
+    {
+      "word": "transfer",
+      "pos": "n",
+      "sense": "transportation.n.02"
+    }
+  ],
+  [
+    {
+      "word": "perspective",
+      "pos": "n",
+      "sense": "perspective.n.02"
+    }
+  ],
+  [
+    {
+      "word": "fragmentation",
+      "pos": "n",
+      "sense": "atomization.n.01"
+    }
+  ],
+  [
+    {
+      "word": "mirrors",
+      "pos": "n",
+      "sense": "mirror.n.01"
+    }
+  ],
+  [
+    {
+      "word": "weather",
+      "pos": "n",
+      "sense": "weather.n.01"
+    }
+  ],
+  [
+    {
+      "word": "tides",
+      "pos": "n",
+      "sense": "tide.n.01"
+    }
+  ],
+  [
+    {
+      "word": "cosmic",
+      "pos": "a",
+      "sense": "cosmic.a.01"
+    },
+    {
+      "word": "rays",
+      "pos": "n",
+      "sense": "beam.n.03"
+    }
+  ],
+  [
+    {
+      "word": "human",
+      "pos": "a",
+      "sense": "human.a.02"
+    },
+    {
+      "word": "traits",
+      "pos": "n",
+      "sense": "trait.n.01"
+    },
+    {
+      "word": "genetics",
+      "pos": "n",
+      "sense": "genetics.n.01"
+    },
+    {
+      "word": "environment",
+      "pos": "n",
+      "sense": "environment.n.02"
+    },
+    {
+      "word": "nature",
+      "pos": "n",
+      "sense": "nature.n.02"
+    },
+    {
+      "word": "nurture",
+      "pos": "n",
+      "sense": "raising.n.02"
+    },
+    {
+      "word": "inheritance",
+      "pos": "n",
+      "sense": "inheritance.n.03"
+    },
+    {
+      "word": "diversity",
+      "pos": "n",
+      "sense": "diverseness.n.01"
+    }
+  ],
+  [
+    {
+      "word": "magnification",
+      "pos": "n",
+      "sense": "magnification.n.01"
+    }
+  ],
+  [
+    {
+      "word": "wavelength",
+      "pos": "n",
+      "sense": "wavelength.n.01"
+    }
+  ],
+  [
+    {
+      "word": "cooperation",
+      "pos": "n",
+      "sense": "cooperation.n.02"
+    }
+  ],
+  [
+    {
+      "word": "rotation",
+      "pos": "n",
+      "sense": "rotation.n.01"
+    }
+  ],
+  [
+    {
+      "word": "center",
+      "pos": "n",
+      "sense": "center.n.01"
+    },
+    {
+      "word": "gravity",
+      "pos": "n",
+      "sense": "gravity.n.01"
+    }
+  ],
+  [],
+  [
+    {
+      "word": "pendulums",
+      "pos": "n",
+      "sense": "pendulum.n.01"
+    }
+  ],
+  [
+    {
+      "word": "organisms",
+      "pos": "n",
+      "sense": "organism.n.01"
+    }
+  ],
+  [
+    {
+      "word": "cells",
+      "pos": "n",
+      "sense": "cell.n.02"
+    },
+    {
+      "word": "cells",
+      "pos": "n",
+      "sense": "cell.n.02"
+    }
+  ]
+]

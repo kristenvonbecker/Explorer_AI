@@ -1,13 +1,10 @@
-import language_processing as lang_process
-import parse_institutional_data as parse_data
-import pandas as pd
+from explorer_ai.data.etl_pipeline.processing import language_processing as lang_process, \
+    parse_institutional_data as parse_data
 import re
 import nltk
 from nltk import word_tokenize
 from nltk import pos_tag
 from nltk.corpus import wordnet as wn
-import json
-import os
 
 from importlib import reload
 reload(lang_process)

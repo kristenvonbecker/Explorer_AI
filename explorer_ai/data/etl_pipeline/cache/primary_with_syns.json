@@ -1,33 +1,6 @@
 [
   {
-    "primary": [
-      [
-        "nodes",
-        "NNS"
-      ],
-      [
-        "and",
-        "CC"
-      ],
-      [
-        "antinodes",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "node",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "antinode",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "nodes and antinodes",
     "syns": [
       {
         "word": [
@@ -80,30 +53,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "color",
-        "NN"
-      ],
-      [
-        "separation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "color",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "separation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "color separation",
     "syns": [
       {
         "word": [
@@ -176,44 +126,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "persistence",
-        "NN"
-      ],
-      [
-        "of",
-        "IN"
-      ],
-      [
-        "vision",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "persistence",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "vision",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "vision",
-          "NN"
-        ],
-        [
-          "persistence",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "persistence of vision",
     "syns": [
       {
         "word": [
@@ -254,30 +167,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "modeling",
-        "VBG"
-      ],
-      [
-        "landscapes",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "landscape",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "modeling",
-          "VBG"
-        ]
-      ]
-    ],
+    "primary": "modeling landscapes",
     "syns": [
       {
         "word": [
@@ -332,20 +222,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "ionization",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "ionization",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "ionization",
     "syns": [
       {
         "word": [
@@ -364,30 +241,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "real",
-        "JJ"
-      ],
-      [
-        "images",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "image",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "real",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "real images",
     "syns": [
       {
         "word": [
@@ -460,30 +314,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "parabolic",
-        "JJ"
-      ],
-      [
-        "mirrors",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "mirror",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "parabolic",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "parabolic mirrors",
     "syns": [
       {
         "word": [
@@ -520,20 +351,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "iridescence",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "iridescence",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "iridescence",
     "syns": [
       {
         "word": [
@@ -550,30 +368,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "prisoners",
-        "NNS"
-      ],
-      [
-        "dilemma",
-        "VBP"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "prisoner",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "dilemma",
-          "VBP"
-        ]
-      ]
-    ],
+    "primary": "prisoners dilemma",
     "syns": [
       {
         "word": [
@@ -602,20 +397,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "pressure",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "pressure",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "pressure",
     "syns": [
       {
         "word": [
@@ -648,20 +430,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "magnetization",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "magnetization",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "magnetization",
     "syns": [
       {
         "word": [
@@ -682,30 +451,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "apparent",
-        "JJ"
-      ],
-      [
-        "motion",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "apparent",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "apparent motion",
     "syns": [
       {
         "word": [
@@ -750,30 +496,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "spatial",
-        "JJ"
-      ],
-      [
-        "perception",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "perception",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "spatial",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "spatial perception",
     "syns": [
       {
         "word": [
@@ -810,34 +533,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "atoms",
-        "NNS"
-      ],
-      [
-        "and",
-        "CC"
-      ],
-      [
-        "particles",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "atom",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "particle",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "atoms and particles",
     "syns": [
       {
         "word": [
@@ -872,20 +568,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "reflection",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "reflection",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "reflection",
     "syns": [
       {
         "word": [
@@ -916,20 +599,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "symmetry",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "symmetry",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "symmetry",
     "syns": [
       {
         "word": [
@@ -950,30 +620,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "motion",
-        "NN"
-      ],
-      [
-        "detection",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "detection",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "motion detection",
     "syns": [
       {
         "word": [
@@ -1022,30 +669,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "wave",
-        "NN"
-      ],
-      [
-        "guide",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "wave",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "guide",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "wave guide",
     "syns": [
       {
         "word": [
@@ -1120,47 +744,11 @@
     ]
   },
   {
-    "primary": [
-      [
-        "phototaxis",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "phototaxis",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "phototaxis",
     "syns": []
   },
   {
-    "primary": [
-      [
-        "gravitational",
-        "JJ"
-      ],
-      [
-        "forces",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "force",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "gravitational",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "gravitational forces",
     "syns": [
       {
         "word": [
@@ -1225,30 +813,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "binocular",
-        "JJ"
-      ],
-      [
-        "vision",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "vision",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "binocular",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "binocular vision",
     "syns": [
       {
         "word": [
@@ -1285,30 +850,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "rotational",
-        "JJ"
-      ],
-      [
-        "motion",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "rotational",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "rotational motion",
     "syns": [
       {
         "word": [
@@ -1351,70 +893,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "visual",
-        "JJ"
-      ],
-      [
-        "motion",
-        "NN"
-      ],
-      [
-        "detection",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "visual",
-          "JJ"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "visual",
-          "JJ"
-        ],
-        [
-          "detection",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "detection",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "motion",
-          "NN"
-        ],
-        [
-          "detection",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "visual",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "visual motion detection",
     "syns": [
       {
         "word": [
@@ -1477,20 +956,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "reproduction",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "reproduction",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "reproduction",
     "syns": [
       {
         "word": [
@@ -1515,64 +981,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "time",
-        "NN"
-      ],
-      [
-        "effects",
-        "NNS"
-      ],
-      [
-        "in",
-        "IN"
-      ],
-      [
-        "perception",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "time",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "effect",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "perception",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "time",
-          "NN"
-        ],
-        [
-          "effect",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "perception",
-          "NN"
-        ],
-        [
-          "effect",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "time effects in perception",
     "syns": [
       {
         "word": [
@@ -1689,20 +1098,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "torque",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "torque",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "torque",
     "syns": [
       {
         "word": [
@@ -1719,20 +1115,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "afterimage",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "afterimage",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "afterimage",
     "syns": [
       {
         "word": [
@@ -1749,30 +1132,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "color",
-        "NN"
-      ],
-      [
-        "vision",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "color",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "vision",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "color vision",
     "syns": [
       {
         "word": [
@@ -1837,20 +1197,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "crystallization",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "crystallization",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "crystallization",
     "syns": [
       {
         "word": [
@@ -1871,30 +1218,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "bernoulli",
-        "NNS"
-      ],
-      [
-        "effect",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "bernoullis",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "effect",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "bernoulli effect",
     "syns": [
       {
         "word": [
@@ -1941,24 +1265,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "close",
-        "RB"
-      ],
-      [
-        "packing",
-        "VBG"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "packing",
-          "VBG"
-        ]
-      ]
-    ],
+    "primary": "close packing",
     "syns": [
       {
         "word": [
@@ -2089,20 +1396,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "friction",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "friction",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "friction",
     "syns": [
       {
         "word": [
@@ -2123,30 +1417,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "thin",
-        "JJ"
-      ],
-      [
-        "films",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "film",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "thin",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "thin films",
     "syns": [
       {
         "word": [
@@ -2211,30 +1482,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "standing",
-        "VBG"
-      ],
-      [
-        "waves",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "wave",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "standing",
-          "VBG"
-        ]
-      ]
-    ],
+    "primary": "standing waves",
     "syns": [
       {
         "word": [
@@ -2329,60 +1577,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "simple",
-        "NN"
-      ],
-      [
-        "harmonic",
-        "JJ"
-      ],
-      [
-        "motion",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "harmonic",
-          "JJ"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "simple",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "simple",
-          "NN"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "harmonic",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "simple harmonic motion",
     "syns": [
       {
         "word": [
@@ -2465,20 +1660,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "microscopy",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "microscopy",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "microscopy",
     "syns": [
       {
         "word": [
@@ -2495,30 +1677,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "mental",
-        "JJ"
-      ],
-      [
-        "tasks",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "task",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "mental",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "mental tasks",
     "syns": [
       {
         "word": [
@@ -2561,30 +1720,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "economic",
-        "JJ"
-      ],
-      [
-        "exchange",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "exchange",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "economic",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "economic exchange",
     "syns": [
       {
         "word": [
@@ -2653,30 +1789,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "wave",
-        "NN"
-      ],
-      [
-        "excitation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "wave",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "excitation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "wave excitation",
     "syns": [
       {
         "word": [
@@ -2735,30 +1848,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "social",
-        "JJ"
-      ],
-      [
-        "dilemma",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "dilemma",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "social",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "social dilemma",
     "syns": [
       {
         "word": [
@@ -2799,40 +1889,11 @@
     ]
   },
   {
-    "primary": [
-      [
-        "upwelling",
-        "VBG"
-      ]
-    ],
-    "related": [],
+    "primary": "upwelling",
     "syns": []
   },
   {
-    "primary": [
-      [
-        "mental",
-        "JJ"
-      ],
-      [
-        "activity",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "activity",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "mental",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "mental activity",
     "syns": [
       {
         "word": [
@@ -2879,58 +1940,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "techniques",
-        "NNS"
-      ],
-      [
-        "to",
-        "TO"
-      ],
-      [
-        "make",
-        "VB"
-      ],
-      [
-        "the",
-        "DT"
-      ],
-      [
-        "invisible",
-        "JJ"
-      ],
-      [
-        "visible",
-        "JJ"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "technique",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "make",
-          "VB"
-        ]
-      ],
-      [
-        [
-          "invisible",
-          "JJ"
-        ]
-      ],
-      [
-        [
-          "visible",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "techniques to make the invisible visible",
     "syns": [
       {
         "word": [
@@ -3091,30 +2101,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "transverse",
-        "NN"
-      ],
-      [
-        "waves",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "transverse",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "wave",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "transverse waves",
     "syns": [
       {
         "word": [
@@ -3169,20 +2156,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "polarization",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "polarization",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "polarization",
     "syns": [
       {
         "word": [
@@ -3201,20 +2175,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "phase",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "phase",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "phase",
     "syns": [
       {
         "word": [
@@ -3241,30 +2202,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "embryonic",
-        "JJ"
-      ],
-      [
-        "development",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "development",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "embryonic",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "embryonic development",
     "syns": [
       {
         "word": [
@@ -3311,20 +2249,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "emotion",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "emotion",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "emotion",
     "syns": [
       {
         "word": [
@@ -3341,30 +2266,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "kinetic",
-        "JJ"
-      ],
-      [
-        "energy",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "energy",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "kinetic",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "kinetic energy",
     "syns": [
       {
         "word": [
@@ -3409,20 +2311,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "ferromagnetism",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "ferromagnetism",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "ferromagnetism",
     "syns": [
       {
         "word": [
@@ -3439,30 +2328,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "reaction",
-        "NN"
-      ],
-      [
-        "time",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "reaction",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "time",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "reaction time",
     "syns": [
       {
         "word": [
@@ -3531,20 +2397,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "interference",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "interference",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "interference",
     "syns": [
       {
         "word": [
@@ -3569,30 +2422,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "number",
-        "NN"
-      ],
-      [
-        "series",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "number",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "series",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "number series",
     "syns": [
       {
         "word": [
@@ -3665,44 +2495,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "effect",
-        "NN"
-      ],
-      [
-        "of",
-        "IN"
-      ],
-      [
-        "temperature",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "effect",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "temperature",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "temperature",
-          "NN"
-        ],
-        [
-          "effect",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "effect of temperature",
     "syns": [
       {
         "word": [
@@ -3747,64 +2540,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "information",
-        "NN"
-      ],
-      [
-        "processing",
-        "NN"
-      ],
-      [
-        "and",
-        "CC"
-      ],
-      [
-        "encoding",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "information",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "processing",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "encoding",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "information",
-          "NN"
-        ],
-        [
-          "processing",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "information",
-          "NN"
-        ],
-        [
-          "encoding",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "information processing and encoding",
     "syns": [
       {
         "word": [
@@ -3869,13 +2605,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "scattering",
-        "VBG"
-      ]
-    ],
-    "related": [],
+    "primary": "scattering",
     "syns": [
       {
         "word": [
@@ -3912,60 +2642,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "accelerated",
-        "VBN"
-      ],
-      [
-        "rotational",
-        "JJ"
-      ],
-      [
-        "motion",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "rotational",
-          "JJ"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "accelerated",
-          "VBN"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "accelerated",
-          "VBN"
-        ]
-      ],
-      [
-        [
-          "rotational",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "accelerated rotational motion",
     "syns": [
       {
         "word": [
@@ -4024,20 +2701,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "oscillation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "oscillation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "oscillation",
     "syns": [
       {
         "word": [
@@ -4058,20 +2722,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "vortices",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "vortice",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "vortices",
     "syns": [
       {
         "word": [
@@ -4090,30 +2741,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "resource",
-        "NN"
-      ],
-      [
-        "sharing",
-        "VBG"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "resource",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "sharing",
-          "VBG"
-        ]
-      ]
-    ],
+    "primary": "resource sharing",
     "syns": [
       {
         "word": [
@@ -4164,20 +2792,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "numbers",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "number",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "numbers",
     "syns": [
       {
         "word": [
@@ -4230,20 +2845,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "rhythm",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "rhythm",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "rhythm",
     "syns": [
       {
         "word": [
@@ -4268,20 +2870,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "patterns",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "pattern",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "patterns",
     "syns": [
       {
         "word": [
@@ -4316,20 +2905,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "projections",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "projection",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "projections",
     "syns": [
       {
         "word": [
@@ -4364,30 +2940,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "size",
-        "NN"
-      ],
-      [
-        "distance",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "size",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "distance",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "size distance",
     "syns": [
       {
         "word": [
@@ -4446,30 +2999,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "social",
-        "JJ"
-      ],
-      [
-        "loafing",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "loafing",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "social",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "social loafing",
     "syns": [
       {
         "word": [
@@ -4514,47 +3044,11 @@
     ]
   },
   {
-    "primary": [
-      [
-        "gyroscopics",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "gyroscopic",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "gyroscopics",
     "syns": []
   },
   {
-    "primary": [
-      [
-        "dominant",
-        "JJ"
-      ],
-      [
-        "cues",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "cue",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "dominant",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "dominant cues",
     "syns": [
       {
         "word": [
@@ -4599,20 +3093,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "shadows",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "shadow",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "shadows",
     "syns": [
       {
         "word": [
@@ -4651,20 +3132,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "evaporation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "evaporation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "evaporation",
     "syns": [
       {
         "word": [
@@ -4683,20 +3151,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "judgment",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "judgment",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "judgment",
     "syns": [
       {
         "word": [
@@ -4725,20 +3180,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "wind",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "wind",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "wind",
     "syns": [
       {
         "word": [
@@ -4783,30 +3225,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "gas",
-        "NN"
-      ],
-      [
-        "flow",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "gas",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "flow",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "gas flow",
     "syns": [
       {
         "word": [
@@ -4875,64 +3294,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "electric",
-        "JJ"
-      ],
-      [
-        "fields",
-        "NNS"
-      ],
-      [
-        "and",
-        "CC"
-      ],
-      [
-        "forces",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "electric",
-          "JJ"
-        ],
-        [
-          "field",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "electric",
-          "JJ"
-        ],
-        [
-          "force",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "field",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "force",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "electric",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "electric fields and forces",
     "syns": [
       {
         "word": [
@@ -5057,20 +3419,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "probability",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "probability",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "probability",
     "syns": [
       {
         "word": [
@@ -5089,13 +3438,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "freezing",
-        "VBG"
-      ]
-    ],
-    "related": [],
+    "primary": "freezing",
     "syns": [
       {
         "word": [
@@ -5132,30 +3475,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "potential",
-        "JJ"
-      ],
-      [
-        "energy",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "energy",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "potential",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "potential energy",
     "syns": [
       {
         "word": [
@@ -5202,20 +3522,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "diffraction",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "diffraction",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "diffraction",
     "syns": [
       {
         "word": [
@@ -5232,64 +3539,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "surface",
-        "NN"
-      ],
-      [
-        "tension",
-        "NN"
-      ],
-      [
-        "of",
-        "IN"
-      ],
-      [
-        "liquids",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "surface",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "tension",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "liquid",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "surface",
-          "NN"
-        ],
-        [
-          "tension",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "liquid",
-          "NN"
-        ],
-        [
-          "tension",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "surface tension of liquids",
     "syns": [
       {
         "word": [
@@ -5364,30 +3614,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "pendular",
-        "JJ"
-      ],
-      [
-        "motion",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "pendular",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "pendular motion",
     "syns": [
       {
         "word": [
@@ -5418,60 +3645,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "accelerated",
-        "VBN"
-      ],
-      [
-        "linear",
-        "JJ"
-      ],
-      [
-        "motion",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "linear",
-          "JJ"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "accelerated",
-          "VBN"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "accelerated",
-          "VBN"
-        ]
-      ],
-      [
-        [
-          "linear",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "accelerated linear motion",
     "syns": [
       {
         "word": [
@@ -5538,20 +3712,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "stereotypes",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "stereotype",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "stereotypes",
     "syns": [
       {
         "word": [
@@ -5570,44 +3731,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "frame",
-        "NN"
-      ],
-      [
-        "of",
-        "IN"
-      ],
-      [
-        "reference",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "frame",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "reference",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "reference",
-          "NN"
-        ],
-        [
-          "frame",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "frame of reference",
     "syns": [
       {
         "word": [
@@ -5688,20 +3812,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "dispersion",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "dispersion",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "dispersion",
     "syns": [
       {
         "word": [
@@ -5722,60 +3833,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "accelerated",
-        "VBN"
-      ],
-      [
-        "gravitational",
-        "JJ"
-      ],
-      [
-        "motion",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "gravitational",
-          "JJ"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "accelerated",
-          "VBN"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "accelerated",
-          "VBN"
-        ]
-      ],
-      [
-        [
-          "gravitational",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "accelerated gravitational motion",
     "syns": [
       {
         "word": [
@@ -5834,30 +3892,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "nonlinear",
-        "JJ"
-      ],
-      [
-        "behavior",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "behavior",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "nonlinear",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "nonlinear behavior",
     "syns": [
       {
         "word": [
@@ -5892,20 +3927,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "fluorescence",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "fluorescence",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "fluorescence",
     "syns": [
       {
         "word": [
@@ -5922,30 +3944,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "image",
-        "NN"
-      ],
-      [
-        "formation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "image",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "formation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "image formation",
     "syns": [
       {
         "word": [
@@ -6006,30 +4005,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "complimentary",
-        "JJ"
-      ],
-      [
-        "color",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "color",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "complimentary",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "complimentary color",
     "syns": [
       {
         "word": [
@@ -6088,20 +4064,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "harmonics",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "harmonic",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "harmonics",
     "syns": [
       {
         "word": [
@@ -6122,20 +4085,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "color",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "color",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "color",
     "syns": [
       {
         "word": [
@@ -6180,30 +4130,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "rotational",
-        "JJ"
-      ],
-      [
-        "inertia",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "inertia",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "rotational",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "rotational inertia",
     "syns": [
       {
         "word": [
@@ -6234,44 +4161,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "conservation",
-        "NN"
-      ],
-      [
-        "of",
-        "IN"
-      ],
-      [
-        "energy",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "conservation",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "energy",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "energy",
-          "NN"
-        ],
-        [
-          "conservation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "conservation of energy",
     "syns": [
       {
         "word": [
@@ -6316,30 +4206,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "turbulent",
-        "NN"
-      ],
-      [
-        "flow",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "turbulent",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "flow",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "turbulent flow",
     "syns": [
       {
         "word": [
@@ -6396,30 +4263,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "electric",
-        "JJ"
-      ],
-      [
-        "current",
-        "JJ"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "electric",
-          "JJ"
-        ]
-      ],
-      [
-        [
-          "current",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "electric current",
     "syns": [
       {
         "word": [
@@ -6460,30 +4304,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "selective",
-        "JJ"
-      ],
-      [
-        "awareness",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "awareness",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "selective",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "selective awareness",
     "syns": [
       {
         "word": [
@@ -6516,30 +4337,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "lateral",
-        "JJ"
-      ],
-      [
-        "inhibition",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "inhibition",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "lateral",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "lateral inhibition",
     "syns": [
       {
         "word": [
@@ -6578,30 +4376,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "light",
-        "JJ"
-      ],
-      [
-        "production",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "production",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "light",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "light production",
     "syns": [
       {
         "word": [
@@ -6736,30 +4511,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "social",
-        "JJ"
-      ],
-      [
-        "influence",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "influence",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "social",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "social influence",
     "syns": [
       {
         "word": [
@@ -6814,30 +4566,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "amibiguous",
-        "JJ"
-      ],
-      [
-        "cues",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "cue",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "amibiguous",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "amibiguous cues",
     "syns": [
       {
         "word": [
@@ -6862,13 +4591,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "damping",
-        "VBG"
-      ]
-    ],
-    "related": [],
+    "primary": "damping",
     "syns": [
       {
         "word": [
@@ -6891,30 +4614,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "natural",
-        "JJ"
-      ],
-      [
-        "frequency",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "frequency",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "natural",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "natural frequency",
     "syns": [
       {
         "word": [
@@ -6971,68 +4671,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "conservation",
-        "NN"
-      ],
-      [
-        "of",
-        "IN"
-      ],
-      [
-        "angular",
-        "JJ"
-      ],
-      [
-        "momentum",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "angular",
-          "JJ"
-        ],
-        [
-          "momentum",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "conservation",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "momentum",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "conservation",
-          "NN"
-        ],
-        [
-          "of",
-          "IN"
-        ],
-        [
-          "momentum",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "angular",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "conservation of angular momentum",
     "syns": [
       {
         "word": [
@@ -7081,20 +4720,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "parabolas",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "parabola",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "parabolas",
     "syns": [
       {
         "word": [
@@ -7111,70 +4737,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "visual",
-        "JJ"
-      ],
-      [
-        "edge",
-        "NN"
-      ],
-      [
-        "effects",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "visual",
-          "JJ"
-        ],
-        [
-          "edge",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "visual",
-          "JJ"
-        ],
-        [
-          "effect",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "edge",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "effect",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "edge",
-          "NN"
-        ],
-        [
-          "effect",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "visual",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "visual edge effects",
     "syns": [
       {
         "word": [
@@ -7251,20 +4814,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "randomness",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "randomness",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "randomness",
     "syns": [
       {
         "word": [
@@ -7283,30 +4833,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "depth",
-        "NN"
-      ],
-      [
-        "perception",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "depth",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "perception",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "depth perception",
     "syns": [
       {
         "word": [
@@ -7353,34 +4880,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "information",
-        "NN"
-      ],
-      [
-        "and",
-        "CC"
-      ],
-      [
-        "noise",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "information",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "noise",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "information and noise",
     "syns": [
       {
         "word": [
@@ -7429,85 +4929,11 @@
     ]
   },
   {
-    "primary": [
-      [
-        "phosphoresence",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "phosphoresence",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "phosphoresence",
     "syns": []
   },
   {
-    "primary": [
-      [
-        "composition",
-        "NN"
-      ],
-      [
-        "of",
-        "IN"
-      ],
-      [
-        "perpendicular",
-        "JJ"
-      ],
-      [
-        "motion",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "perpendicular",
-          "JJ"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "composition",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "composition",
-          "NN"
-        ],
-        [
-          "of",
-          "IN"
-        ],
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "perpendicular",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "composition of perpendicular motion",
     "syns": [
       {
         "word": [
@@ -7590,30 +5016,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "color",
-        "NN"
-      ],
-      [
-        "mixing",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "color",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "mixing",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "color mixing",
     "syns": [
       {
         "word": [
@@ -7682,20 +5085,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "feedback",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "feedback",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "feedback",
     "syns": [
       {
         "word": [
@@ -7714,60 +5104,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "hand",
-        "NN"
-      ],
-      [
-        "eye",
-        "NN"
-      ],
-      [
-        "coordination",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "hand",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "eye",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "coordination",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "hand",
-          "NN"
-        ],
-        [
-          "eye",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "eye",
-          "NN"
-        ],
-        [
-          "coordination",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "hand eye coordination",
     "syns": [
       {
         "word": [
@@ -7854,20 +5191,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "frequency",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "frequency",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "frequency",
     "syns": [
       {
         "word": [
@@ -7888,44 +5212,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "change",
-        "NN"
-      ],
-      [
-        "of",
-        "IN"
-      ],
-      [
-        "state",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "change",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "state",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "state",
-          "NN"
-        ],
-        [
-          "change",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "change of state",
     "syns": [
       {
         "word": [
@@ -8012,20 +5299,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "condensation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "condensation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "condensation",
     "syns": [
       {
         "word": [
@@ -8052,30 +5326,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "periodic",
-        "JJ"
-      ],
-      [
-        "motion",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "motion",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "periodic",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "periodic motion",
     "syns": [
       {
         "word": [
@@ -8120,70 +5371,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "subtractive",
-        "JJ"
-      ],
-      [
-        "color",
-        "NN"
-      ],
-      [
-        "mixing",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "subtractive",
-          "JJ"
-        ],
-        [
-          "color",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "subtractive",
-          "JJ"
-        ],
-        [
-          "mixing",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "color",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "mixing",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "color",
-          "NN"
-        ],
-        [
-          "mixing",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "subtractive",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "subtractive color mixing",
     "syns": [
       {
         "word": [
@@ -8264,20 +5452,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "sublimation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "sublimation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "sublimation",
     "syns": [
       {
         "word": [
@@ -8296,30 +5471,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "linear",
-        "JJ"
-      ],
-      [
-        "inertia",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "inertia",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "linear",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "linear inertia",
     "syns": [
       {
         "word": [
@@ -8358,20 +5510,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "photosynthesis",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "photosynthesis",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "photosynthesis",
     "syns": [
       {
         "word": [
@@ -8388,20 +5527,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "albedo",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "albedo",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "albedo",
     "syns": [
       {
         "word": [
@@ -8418,30 +5544,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "light",
-        "JJ"
-      ],
-      [
-        "absorption",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "absorption",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "light",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "light absorption",
     "syns": [
       {
         "word": [
@@ -8572,44 +5675,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "transformation",
-        "NN"
-      ],
-      [
-        "of",
-        "IN"
-      ],
-      [
-        "energy",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "transformation",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "energy",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "energy",
-          "NN"
-        ],
-        [
-          "transformation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "transformation of energy",
     "syns": [
       {
         "word": [
@@ -8658,30 +5724,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "laminar",
-        "NN"
-      ],
-      [
-        "flow",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "laminar",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "flow",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "laminar flow",
     "syns": [
       {
         "word": [
@@ -8736,20 +5779,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "biases",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "biase",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "biases",
     "syns": [
       {
         "word": [
@@ -8772,20 +5802,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "blackness",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "blackness",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "blackness",
     "syns": [
       {
         "word": [
@@ -8804,30 +5821,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "light",
-        "NN"
-      ],
-      [
-        "gathering",
-        "VBG"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "light",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "gathering",
-          "VBG"
-        ]
-      ]
-    ],
+    "primary": "light gathering",
     "syns": [
       {
         "word": [
@@ -8972,70 +5966,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "electromagnetic",
-        "JJ"
-      ],
-      [
-        "radiation",
-        "NN"
-      ],
-      [
-        "spectrum",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "electromagnetic",
-          "JJ"
-        ],
-        [
-          "radiation",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "electromagnetic",
-          "JJ"
-        ],
-        [
-          "spectrum",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "radiation",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "spectrum",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "radiation",
-          "NN"
-        ],
-        [
-          "spectrum",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "electromagnetic",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "electromagnetic radiation spectrum",
     "syns": [
       {
         "word": [
@@ -9090,20 +6021,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "attention",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "attention",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "attention",
     "syns": [
       {
         "word": [
@@ -9130,20 +6048,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "decomposition",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "decomposition",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "decomposition",
     "syns": [
       {
         "word": [
@@ -9168,30 +6073,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "parabolic",
-        "JJ"
-      ],
-      [
-        "arc",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "arc",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "parabolic",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "parabolic arc",
     "syns": [
       {
         "word": [
@@ -9228,47 +6110,11 @@
     ]
   },
   {
-    "primary": [
-      [
-        "metacognition",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "metacognition",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "metacognition",
     "syns": []
   },
   {
-    "primary": [
-      [
-        "electromagnetic",
-        "JJ"
-      ],
-      [
-        "forces",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "force",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "electromagnetic",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "electromagnetic forces",
     "syns": [
       {
         "word": [
@@ -9333,20 +6179,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "refraction",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "refraction",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "refraction",
     "syns": [
       {
         "word": [
@@ -9365,20 +6198,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "resonance",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "resonance",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "resonance",
     "syns": [
       {
         "word": [
@@ -9403,20 +6223,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "exponentials",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "exponential",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "exponentials",
     "syns": [
       {
         "word": [
@@ -9433,30 +6240,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "fluid",
-        "NN"
-      ],
-      [
-        "mechanics",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "fluid",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "mechanic",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "fluid mechanics",
     "syns": [
       {
         "word": [
@@ -9503,13 +6287,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "melting",
-        "VBG"
-      ]
-    ],
-    "related": [],
+    "primary": "melting",
     "syns": [
       {
         "word": [
@@ -9540,20 +6318,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "precession",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "precession",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "precession",
     "syns": [
       {
         "word": [
@@ -9572,20 +6337,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "superposition",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "superposition",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "superposition",
     "syns": [
       {
         "word": [
@@ -9608,30 +6360,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "coand\u0103",
-        "NNS"
-      ],
-      [
-        "effect",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "coand\u0103s",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "effect",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "coand\u0103  effect",
     "syns": [
       {
         "word": [
@@ -9662,20 +6391,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "parallax",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "parallax",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "parallax",
     "syns": [
       {
         "word": [
@@ -9692,20 +6408,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "fatigue",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "fatigue",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "fatigue",
     "syns": [
       {
         "word": [
@@ -9732,20 +6435,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "complexity",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "complexity",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "complexity",
     "syns": [
       {
         "word": [
@@ -9762,20 +6452,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "vibration",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "vibration",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "vibration",
     "syns": [
       {
         "word": [
@@ -9798,20 +6475,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "lenses",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "lense",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "lenses",
     "syns": [
       {
         "word": [
@@ -9838,13 +6502,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "sundial",
-        "JJ"
-      ]
-    ],
-    "related": [],
+    "primary": "sundial",
     "syns": [
       {
         "word": [
@@ -9861,20 +6519,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "reflections",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "reflection",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "reflections",
     "syns": [
       {
         "word": [
@@ -9905,20 +6550,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "levitation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "levitation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "levitation",
     "syns": [
       {
         "word": [
@@ -9939,70 +6571,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "human",
-        "JJ"
-      ],
-      [
-        "generosity",
-        "NN"
-      ],
-      [
-        "project",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "human",
-          "JJ"
-        ],
-        [
-          "generosity",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "human",
-          "JJ"
-        ],
-        [
-          "project",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "generosity",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "project",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "generosity",
-          "NN"
-        ],
-        [
-          "project",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "human",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "human generosity project",
     "syns": [
       {
         "word": [
@@ -10077,30 +6646,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "magnetic",
-        "JJ"
-      ],
-      [
-        "field",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "field",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "magnetic",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "magnetic field",
     "syns": [
       {
         "word": [
@@ -10177,20 +6723,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "turbulence",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "turbulence",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "turbulence",
     "syns": [
       {
         "word": [
@@ -10211,20 +6744,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "circuit",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "circuit",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "circuit",
     "syns": [
       {
         "word": [
@@ -10255,30 +6775,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "bicycle",
-        "NN"
-      ],
-      [
-        "wheel",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "bicycle",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "wheel",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "bicycle wheel",
     "syns": [
       {
         "word": [
@@ -10329,20 +6826,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "parallel",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "parallel",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "parallel",
     "syns": [
       {
         "word": [
@@ -10373,20 +6857,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "portraits",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "portrait",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "portraits",
     "syns": [
       {
         "word": [
@@ -10405,20 +6876,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "sharks",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "shark",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "sharks",
     "syns": [
       {
         "word": [
@@ -10443,20 +6901,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "speakers",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "speaker",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "speakers",
     "syns": [
       {
         "word": [
@@ -10477,30 +6922,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "musical",
-        "JJ"
-      ],
-      [
-        "instruments",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "instrument",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "musical",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "musical instruments",
     "syns": [
       {
         "word": [
@@ -10553,20 +6975,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "plankton",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "plankton",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "plankton",
     "syns": [
       {
         "word": [
@@ -10583,30 +6992,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "phase",
-        "NN"
-      ],
-      [
-        "angle",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "phase",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "angle",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "phase angle",
     "syns": [
       {
         "word": [
@@ -10659,37 +7045,11 @@
     ]
   },
   {
-    "primary": [
-      [
-        "zebrafish",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "zebrafish",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "zebrafish",
     "syns": []
   },
   {
-    "primary": [
-      [
-        "nerves",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "nerve",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "nerves",
     "syns": [
       {
         "word": [
@@ -10716,20 +7076,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "electrolysis",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "electrolysis",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "electrolysis",
     "syns": [
       {
         "word": [
@@ -10748,30 +7095,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "fish",
-        "NN"
-      ],
-      [
-        "eggs",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "fish",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "egg",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "fish eggs",
     "syns": [
       {
         "word": [
@@ -10820,20 +7144,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "volcanoes",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "volcano",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "volcanoes",
     "syns": [
       {
         "word": [
@@ -10852,20 +7163,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "whales",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "whale",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "whales",
     "syns": [
       {
         "word": [
@@ -10886,20 +7184,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "dissection",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "dissection",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "dissection",
     "syns": [
       {
         "word": [
@@ -10920,30 +7205,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "huygens",
-        "NNS"
-      ],
-      [
-        "principle",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "huygen",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "principle",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "huygens principle",
     "syns": [
       {
         "word": [
@@ -10982,60 +7244,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "ping",
-        "VBG"
-      ],
-      [
-        "pong",
-        "NN"
-      ],
-      [
-        "balls",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "pong",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "ball",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "pong",
-          "NN"
-        ],
-        [
-          "ball",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "ping",
-          "VBG"
-        ],
-        [
-          "pong",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "ping",
-          "VBG"
-        ]
-      ]
-    ],
+    "primary": "ping pong balls",
     "syns": [
       {
         "word": [
@@ -11112,20 +7321,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "pacific",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "pacific",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "pacific",
     "syns": [
       {
         "word": [
@@ -11148,20 +7344,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "chaos",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "chaos",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "chaos",
     "syns": [
       {
         "word": [
@@ -11184,20 +7367,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "adaptation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "adaptation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "adaptation",
     "syns": [
       {
         "word": [
@@ -11218,20 +7388,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "embryology",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "embryology",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "embryology",
     "syns": [
       {
         "word": [
@@ -11248,20 +7405,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "artwork",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "artwork",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "artwork",
     "syns": [
       {
         "word": [
@@ -11278,20 +7422,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "scale",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "scale",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "scale",
     "syns": [
       {
         "word": [
@@ -11342,20 +7473,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "sand",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "sand",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "sand",
     "syns": [
       {
         "word": [
@@ -11378,20 +7496,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "comets",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "comet",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "comets",
     "syns": [
       {
         "word": [
@@ -11408,30 +7513,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "unicellular",
-        "JJ"
-      ],
-      [
-        "organisms",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "organism",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "unicellular",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "unicellular organisms",
     "syns": [
       {
         "word": [
@@ -11462,20 +7544,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "ocean",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "ocean",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "ocean",
     "syns": [
       {
         "word": [
@@ -11494,20 +7563,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "identity",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "identity",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "identity",
     "syns": [
       {
         "word": [
@@ -11530,30 +7586,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "newtons",
-        "NNS"
-      ],
-      [
-        "laws",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "newton",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "law",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "newtons laws",
     "syns": [
       {
         "word": [
@@ -11598,30 +7631,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "cornsweet",
-        "NN"
-      ],
-      [
-        "illusion",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "cornsweet",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "illusion",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "cornsweet illusion",
     "syns": [
       {
         "word": [
@@ -11644,20 +7654,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "gases",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "gase",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "gases",
     "syns": [
       {
         "word": [
@@ -11688,20 +7685,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "navigation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "navigation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "navigation",
     "syns": [
       {
         "word": [
@@ -11722,20 +7706,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "membrane",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "membrane",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "membrane",
     "syns": [
       {
         "word": [
@@ -11754,20 +7725,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "proportion",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "proportion",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "proportion",
     "syns": [
       {
         "word": [
@@ -11796,30 +7754,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "ganzfeld",
-        "NN"
-      ],
-      [
-        "effect",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "ganzfeld",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "effect",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "ganzfeld effect",
     "syns": [
       {
         "word": [
@@ -11850,20 +7785,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "turtles",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "turtle",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "turtles",
     "syns": [
       {
         "word": [
@@ -11886,20 +7808,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "boundary",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "boundary",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "boundary",
     "syns": [
       {
         "word": [
@@ -11920,20 +7829,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "eyes",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "eye",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "eyes",
     "syns": [
       {
         "word": [
@@ -11962,20 +7858,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "lasers",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "laser",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "lasers",
     "syns": [
       {
         "word": [
@@ -11992,20 +7875,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "marine",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "marine",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "marine",
     "syns": [
       {
         "word": [
@@ -12034,20 +7904,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "photography",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "photography",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "photography",
     "syns": [
       {
         "word": [
@@ -12068,30 +7925,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "chicken",
-        "NN"
-      ],
-      [
-        "wire",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "chicken",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "wire",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "chicken wire",
     "syns": [
       {
         "word": [
@@ -12144,20 +7978,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "dna",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "dna",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "dna",
     "syns": [
       {
         "word": [
@@ -12174,20 +7995,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "habitat",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "habitat",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "habitat",
     "syns": [
       {
         "word": [
@@ -12204,47 +8012,11 @@
     ]
   },
   {
-    "primary": [
-      [
-        "cmy",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "cmy",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "cmy",
     "syns": []
   },
   {
-    "primary": [
-      [
-        "attentive",
-        "JJ"
-      ],
-      [
-        "listening",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "listening",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "attentive",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "attentive listening",
     "syns": [
       {
         "word": [
@@ -12281,30 +8053,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "focal",
-        "JJ"
-      ],
-      [
-        "point",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "point",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "focal",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "focal point",
     "syns": [
       {
         "word": [
@@ -12413,20 +8162,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "prisms",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "prism",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "prisms",
     "syns": [
       {
         "word": [
@@ -12445,20 +8181,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "genetics",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "genetic",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "genetics",
     "syns": [
       {
         "word": [
@@ -12475,20 +8198,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "appearance",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "appearance",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "appearance",
     "syns": [
       {
         "word": [
@@ -12515,37 +8225,11 @@
     ]
   },
   {
-    "primary": [
-      [
-        "chladni",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "chladni",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "chladni",
     "syns": []
   },
   {
-    "primary": [
-      [
-        "skin",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "skin",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "skin",
     "syns": [
       {
         "word": [
@@ -12580,20 +8264,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "gravity",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "gravity",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "gravity",
     "syns": [
       {
         "word": [
@@ -12614,20 +8285,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "amplification",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "amplification",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "amplification",
     "syns": [
       {
         "word": [
@@ -12648,30 +8306,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "stroop",
-        "NN"
-      ],
-      [
-        "effect",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "stroop",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "effect",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "stroop effect",
     "syns": [
       {
         "word": [
@@ -12702,20 +8337,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "curves",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "curve",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "curves",
     "syns": [
       {
         "word": [
@@ -12750,20 +8372,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "equilibrium",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "equilibrium",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "equilibrium",
     "syns": [
       {
         "word": [
@@ -12786,20 +8395,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "earthquakes",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "earthquake",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "earthquakes",
     "syns": [
       {
         "word": [
@@ -12818,20 +8414,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "series",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "series",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "series",
     "syns": [
       {
         "word": [
@@ -12860,30 +8443,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "cmy",
-        "NN"
-      ],
-      [
-        "retina",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "cmy",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "retina",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "cmy retina",
     "syns": [
       {
         "word": [
@@ -12900,30 +8460,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "model",
-        "NN"
-      ],
-      [
-        "organisms",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "model",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "organism",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "model organisms",
     "syns": [
       {
         "word": [
@@ -12984,20 +8521,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "migrations",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "migration",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "migrations",
     "syns": [
       {
         "word": [
@@ -13020,20 +8544,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "fog",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "fog",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "fog",
     "syns": [
       {
         "word": [
@@ -13056,20 +8567,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "acoustics",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "acoustic",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "acoustics",
     "syns": [
       {
         "word": [
@@ -13088,20 +8586,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "model",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "model",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "model",
     "syns": [
       {
         "word": [
@@ -13148,20 +8633,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "soap",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "soap",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "soap",
     "syns": [
       {
         "word": [
@@ -13184,20 +8656,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "water",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "water",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "water",
     "syns": [
       {
         "word": [
@@ -13232,20 +8691,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "sun",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "sun",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "sun",
     "syns": [
       {
         "word": [
@@ -13274,20 +8720,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "illusions",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "illusion",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "illusions",
     "syns": [
       {
         "word": [
@@ -13310,20 +8743,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "magnet",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "magnet",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "magnet",
     "syns": [
       {
         "word": [
@@ -13342,30 +8762,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "carbon",
-        "NN"
-      ],
-      [
-        "dioxide",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "carbon",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "dioxide",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "carbon dioxide",
     "syns": [
       {
         "word": [
@@ -13398,20 +8795,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "moon",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "moon",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "moon",
     "syns": [
       {
         "word": [
@@ -13444,20 +8828,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "ratio",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "ratio",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "ratio",
     "syns": [
       {
         "word": [
@@ -13476,30 +8847,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "air",
-        "NN"
-      ],
-      [
-        "currents",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "air",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "current",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "air currents",
     "syns": [
       {
         "word": [
@@ -13560,30 +8908,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "simultaneous",
-        "JJ"
-      ],
-      [
-        "contrast",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "contrast",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "simultaneous",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "simultaneous contrast",
     "syns": [
       {
         "word": [
@@ -13624,60 +8949,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "cells",
-        "NNS"
-      ],
-      [
-        "movement",
-        "NN"
-      ],
-      [
-        "animation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "cell",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "movement",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "animation",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "cell",
-          "NN"
-        ],
-        [
-          "movement",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "movement",
-          "NN"
-        ],
-        [
-          "animation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "cells movement animation",
     "syns": [
       {
         "word": [
@@ -13760,20 +9032,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "balance",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "balance",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "balance",
     "syns": [
       {
         "word": [
@@ -13820,20 +9079,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "neon",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "neon",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "neon",
     "syns": [
       {
         "word": [
@@ -13850,30 +9096,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "identical",
-        "JJ"
-      ],
-      [
-        "twins",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "twin",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "identical",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "identical twins",
     "syns": [
       {
         "word": [
@@ -13928,13 +9151,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "spinning",
-        "VBG"
-      ]
-    ],
-    "related": [],
+    "primary": "spinning",
     "syns": [
       {
         "word": [
@@ -13967,20 +9184,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "bubbles",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "bubble",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "bubbles",
     "syns": [
       {
         "word": [
@@ -14013,30 +9217,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "heat",
-        "NN"
-      ],
-      [
-        "transfer",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "heat",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "transfer",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "heat transfer",
     "syns": [
       {
         "word": [
@@ -14113,20 +9294,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "perspective",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "perspective",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "perspective",
     "syns": [
       {
         "word": [
@@ -14145,20 +9313,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "fragmentation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "fragmentation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "fragmentation",
     "syns": [
       {
         "word": [
@@ -14181,20 +9336,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "mirrors",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "mirror",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "mirrors",
     "syns": [
       {
         "word": [
@@ -14217,20 +9359,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "weather",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "weather",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "weather",
     "syns": [
       {
         "word": [
@@ -14257,20 +9386,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "tides",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "tide",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "tides",
     "syns": [
       {
         "word": [
@@ -14297,30 +9413,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "cosmic",
-        "JJ"
-      ],
-      [
-        "rays",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "ray",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "cosmic",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "cosmic rays",
     "syns": [
       {
         "word": [
@@ -14369,150 +9462,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "human",
-        "JJ"
-      ],
-      [
-        "traits",
-        "VBZ"
-      ],
-      [
-        "genetics",
-        "NNS"
-      ],
-      [
-        "environment",
-        "NN"
-      ],
-      [
-        "nature",
-        "NN"
-      ],
-      [
-        "nurture",
-        "NN"
-      ],
-      [
-        "inheritance",
-        "NN"
-      ],
-      [
-        "diversity",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "genetic",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "environment",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "nature",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "nurture",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "inheritance",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "diversity",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "genetic",
-          "NN"
-        ],
-        [
-          "environment",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "environment",
-          "NN"
-        ],
-        [
-          "nature",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "nature",
-          "NN"
-        ],
-        [
-          "nurture",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "nurture",
-          "NN"
-        ],
-        [
-          "inheritance",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "inheritance",
-          "NN"
-        ],
-        [
-          "diversity",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "traits",
-          "VBZ"
-        ],
-        [
-          "genetic",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "traits",
-          "VBZ"
-        ]
-      ],
-      [
-        [
-          "human",
-          "JJ"
-        ]
-      ]
-    ],
+    "primary": "human traits genetics environment nature nurture inheritance diversity",
     "syns": [
       {
         "word": [
@@ -14645,20 +9595,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "magnification",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "magnification",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "magnification",
     "syns": [
       {
         "word": [
@@ -14681,20 +9618,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "wavelength",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "wavelength",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "wavelength",
     "syns": [
       {
         "word": [
@@ -14713,20 +9637,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "cooperation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "cooperation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "cooperation",
     "syns": [
       {
         "word": [
@@ -14745,20 +9656,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "rotation",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "rotation",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "rotation",
     "syns": [
       {
         "word": [
@@ -14781,44 +9679,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "center",
-        "NN"
-      ],
-      [
-        "of",
-        "IN"
-      ],
-      [
-        "gravity",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "center",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "gravity",
-          "NN"
-        ]
-      ],
-      [
-        [
-          "gravity",
-          "NN"
-        ],
-        [
-          "center",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "center of gravity",
     "syns": [
       {
         "word": [
@@ -14895,37 +9756,11 @@
     ]
   },
   {
-    "primary": [
-      [
-        "rgb",
-        "NN"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "rgb",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "rgb",
     "syns": []
   },
   {
-    "primary": [
-      [
-        "pendulums",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "pendulum",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "pendulums",
     "syns": [
       {
         "word": [
@@ -14942,20 +9777,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "organisms",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "organism",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "organisms",
     "syns": [
       {
         "word": [
@@ -14974,20 +9796,7 @@
     ]
   },
   {
-    "primary": [
-      [
-        "cells",
-        "NNS"
-      ]
-    ],
-    "related": [
-      [
-        [
-          "cell",
-          "NN"
-        ]
-      ]
-    ],
+    "primary": "cells",
     "syns": [
       {
         "word": [

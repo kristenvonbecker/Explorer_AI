@@ -1,0 +1,226 @@
+[
+  [
+    {
+      "word": "damping",
+      "pos": "v",
+      "sense": "dampen.v.07"
+    }
+  ],
+  [
+    {
+      "word": "natural",
+      "pos": "a",
+      "sense": "natural.a.01"
+    },
+    {
+      "word": "frequency",
+      "pos": "n",
+      "sense": "frequency.n.01"
+    }
+  ],
+  [
+    {
+      "word": "conservation",
+      "pos": "n",
+      "sense": "conservation.n.03"
+    },
+    {
+      "word": "angular",
+      "pos": "a",
+      "sense": "angular.a.01"
+    },
+    {
+      "word": "momentum",
+      "pos": "n",
+      "sense": "momentum.n.02"
+    }
+  ],
+  [
+    {
+      "word": "parabolas",
+      "pos": "n",
+      "sense": "parabola.n.01"
+    }
+  ],
+  [
+    {
+      "word": "visual",
+      "pos": "a",
+      "sense": "ocular.a.02"
+    },
+    {
+      "word": "edge",
+      "pos": "n",
+      "sense": "boundary.n.02"
+    },
+    {
+      "word": "effects",
+      "pos": "n",
+      "sense": "consequence.n.01"
+    }
+  ],
+  [
+    {
+      "word": "randomness",
+      "pos": "n",
+      "sense": "randomness.n.02"
+    }
+  ],
+  [
+    {
+      "word": "depth",
+      "pos": "n",
+      "sense": "depth.n.01"
+    },
+    {
+      "word": "perception",
+      "pos": "n",
+      "sense": "perception.n.03"
+    }
+  ],
+  [
+    {
+      "word": "information",
+      "pos": "n",
+      "sense": "data.n.01"
+    },
+    {
+      "word": "noise",
+      "pos": "n",
+      "sense": "noise.n.05"
+    }
+  ],
+  [],
+  [
+    {
+      "word": "composition",
+      "pos": "n",
+      "sense": "composition.n.01"
+    },
+    {
+      "word": "perpendicular",
+      "pos": "a",
+      "sense": "perpendicular.a.01"
+    },
+    {
+      "word": "motion",
+      "pos": "n",
+      "sense": "movement.n.03"
+    }
+  ],
+  [
+    {
+      "word": "color",
+      "pos": "n",
+      "sense": "color.n.01"
+    },
+    {
+      "word": "mixing",
+      "pos": "v",
+      "sense": "blend.v.03"
+    }
+  ],
+  [
+    {
+      "word": "feedback",
+      "pos": "n",
+      "sense": "feedback.n.01"
+    }
+  ],
+  [
+    {
+      "word": "hand",
+      "pos": "n",
+      "sense": "hand.n.01"
+    },
+    {
+      "word": "eye",
+      "pos": "n",
+      "sense": "eye.n.01"
+    },
+    {
+      "word": "coordination",
+      "pos": "n",
+      "sense": "coordination.n.01"
+    }
+  ],
+  [
+    {
+      "word": "frequency",
+      "pos": "n",
+      "sense": "frequency.n.01"
+    }
+  ],
+  [
+    {
+      "word": "change",
+      "pos": "n",
+      "sense": "change.n.02"
+    },
+    {
+      "word": "state",
+      "pos": "n",
+      "sense": "state_of_matter.n.01"
+    }
+  ],
+  [
+    {
+      "word": "condensation",
+      "pos": "n",
+      "sense": "condensation.n.02"
+    }
+  ],
+  [
+    {
+      "word": "periodic",
+      "pos": "a",
+      "sense": "periodic.a.01"
+    },
+    {
+      "word": "motion",
+      "pos": "n",
+      "sense": "movement.n.03"
+    }
+  ],
+  [
+    {
+      "word": "subtractive",
+      "pos": "a",
+      "sense": "subtractive.a.01"
+    },
+    {
+      "word": "color",
+      "pos": "n",
+      "sense": "color.n.01"
+    },
+    {
+      "word": "mixing",
+      "pos": "v",
+      "sense": "blend.v.03"
+    }
+  ],
+  [
+    {
+      "word": "sublimation",
+      "pos": "n",
+      "sense": "sublimation.n.01"
+    }
+  ],
+  [
+    {
+      "word": "linear",
+      "pos": "a",
+      "sense": "linear.a.02"
+    },
+    {
+      "word": "inertia",
+      "pos": "n",
+      "sense": "inertia.n.02"
+    },
+    {
+      "word": "inertia",
+      "pos": "n",
+      "sense": "inertia.n.02"
+    }
+  ]
+]

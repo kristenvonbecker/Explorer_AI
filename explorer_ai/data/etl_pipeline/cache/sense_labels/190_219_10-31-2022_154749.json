@@ -1,0 +1,225 @@
+[
+  [
+    {
+      "word": "boundary",
+      "pos": "n",
+      "sense": "boundary.n.01"
+    }
+  ],
+  [
+    {
+      "word": "eyes",
+      "pos": "n",
+      "sense": "eye.n.01"
+    }
+  ],
+  [
+    {
+      "word": "lasers",
+      "pos": "n",
+      "sense": "laser.n.01"
+    }
+  ],
+  [
+    {
+      "word": "marine",
+      "pos": "a",
+      "sense": "marine.a.01"
+    }
+  ],
+  [
+    {
+      "word": "photography",
+      "pos": "n",
+      "sense": "photography.n.02"
+    }
+  ],
+  [
+    {
+      "word": "chicken",
+      "pos": "n",
+      "sense": "chicken.n.02"
+    },
+    {
+      "word": "wire",
+      "pos": "n",
+      "sense": "wire.n.01"
+    }
+  ],
+  [
+    {
+      "word": "dna",
+      "pos": "n",
+      "sense": "deoxyribonucleic_acid.n.01"
+    }
+  ],
+  [
+    {
+      "word": "habitat",
+      "pos": "n",
+      "sense": "habitat.n.01"
+    }
+  ],
+  [],
+  [
+    {
+      "word": "attentive",
+      "pos": "a",
+      "sense": "heedful.a.01"
+    },
+    {
+      "word": "listening",
+      "pos": "n",
+      "sense": "listening.n.01"
+    }
+  ],
+  [
+    {
+      "word": "focal",
+      "pos": "a",
+      "sense": "focal.a.02"
+    },
+    {
+      "word": "point",
+      "pos": "n",
+      "sense": "point.n.02"
+    }
+  ],
+  [
+    {
+      "word": "prisms",
+      "pos": "n",
+      "sense": "prism.n.02"
+    }
+  ],
+  [
+    {
+      "word": "genetics",
+      "pos": "n",
+      "sense": "genetics.n.01"
+    }
+  ],
+  [
+    {
+      "word": "appearance",
+      "pos": "n",
+      "sense": "appearance.n.01"
+    }
+  ],
+  [],
+  [
+    {
+      "word": "skin",
+      "pos": "n",
+      "sense": "skin.n.01"
+    }
+  ],
+  [
+    {
+      "word": "gravity",
+      "pos": "n",
+      "sense": "gravity.n.01"
+    }
+  ],
+  [
+    {
+      "word": "amplification",
+      "pos": "n",
+      "sense": "amplification.n.03"
+    }
+  ],
+  [
+    {
+      "word": "effect",
+      "pos": "n",
+      "sense": "consequence.n.01"
+    }
+  ],
+  [
+    {
+      "word": "curves",
+      "pos": "n",
+      "sense": "curve.n.01"
+    }
+  ],
+  [
+    {
+      "word": "equilibrium",
+      "pos": "n",
+      "sense": "equilibrium.n.01"
+    }
+  ],
+  [
+    {
+      "word": "earthquakes",
+      "pos": "n",
+      "sense": "earthquake.n.01"
+    }
+  ],
+  [
+    {
+      "word": "series",
+      "pos": "n",
+      "sense": "series.n.07"
+    }
+  ],
+  [
+    {
+      "word": "retina",
+      "pos": "n",
+      "sense": "retina.n.01"
+    }
+  ],
+  [
+    {
+      "word": "model",
+      "pos": "n",
+      "sense": "model.n.01"
+    },
+    {
+      "word": "organisms",
+      "pos": "n",
+      "sense": "organism.n.02"
+    }
+  ],
+  [
+    {
+      "word": "migrations",
+      "pos": "n",
+      "sense": "migration.n.04"
+    }
+  ],
+  [
+    {
+      "word": "fog",
+      "pos": "n",
+      "sense": "fog.n.01"
+    }
+  ],
+  [
+    {
+      "word": "acoustics",
+      "pos": "n",
+      "sense": "acoustics.n.01"
+    }
+  ],
+  [
+    {
+      "word": "model",
+      "pos": "n",
+      "sense": "model.n.04"
+    }
+  ],
+  [
+    {
+      "word": "soap",
+      "pos": "n",
+      "sense": "soap.n.01"
+    },
+    {
+      "word": "soap",
+      "pos": "n",
+      "sense": "soap.n.01"
+    }
+  ]
+]

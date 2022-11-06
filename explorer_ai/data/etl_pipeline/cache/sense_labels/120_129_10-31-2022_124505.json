@@ -1,0 +1,107 @@
+[
+  [
+    {
+      "word": "photosynthesis",
+      "pos": "n",
+      "sense": "photosynthesis.n.01"
+    }
+  ],
+  [
+    {
+      "word": "albedo",
+      "pos": "n",
+      "sense": "albedo.n.01"
+    }
+  ],
+  [
+    {
+      "word": "light",
+      "pos": "n",
+      "sense": "light.n.01"
+    },
+    {
+      "word": "absorption",
+      "pos": "n",
+      "sense": "absorption.n.02"
+    }
+  ],
+  [
+    {
+      "word": "transformation",
+      "pos": "n",
+      "sense": "transformation.n.05"
+    },
+    {
+      "word": "energy",
+      "pos": "n",
+      "sense": "energy.n.06"
+    }
+  ],
+  [
+    {
+      "word": "laminar",
+      "pos": "s",
+      "sense": "laminar.s.01"
+    },
+    {
+      "word": "flow",
+      "pos": "n",
+      "sense": "flow.n.01"
+    }
+  ],
+  [
+    {
+      "word": "biases",
+      "pos": "n",
+      "sense": "bias.n.01"
+    }
+  ],
+  [
+    {
+      "word": "blackness",
+      "pos": "n",
+      "sense": "total_darkness.n.01"
+    }
+  ],
+  [
+    {
+      "word": "light",
+      "pos": "n",
+      "sense": "light.n.01"
+    },
+    {
+      "word": "gathering",
+      "pos": "v",
+      "sense": "meet.v.07"
+    }
+  ],
+  [
+    {
+      "word": "electromagnetic",
+      "pos": "a",
+      "sense": "electromagnetic.a.01"
+    },
+    {
+      "word": "radiation",
+      "pos": "n",
+      "sense": "radiation.n.04"
+    },
+    {
+      "word": "spectrum",
+      "pos": "n",
+      "sense": "spectrum.n.01"
+    }
+  ],
+  [
+    {
+      "word": "attention",
+      "pos": "n",
+      "sense": "attention.n.01"
+    },
+    {
+      "word": "attention",
+      "pos": "n",
+      "sense": "attention.n.01"
+    }
+  ]
+]

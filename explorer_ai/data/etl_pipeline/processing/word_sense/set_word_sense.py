@@ -109,7 +109,6 @@ def confirm_pos(new_pos, prev_pos, flag):
     if confirm == 'n':
         return get_new_pos(prev_pos, flag)
     elif confirm == 'y':
-        this_word['pos'] = new_pos
         if flag:
             senses = print_sense_defs(new_pos)
             get_sense(new_pos, senses)
@@ -150,8 +149,6 @@ def get_sense(pos, senses):
         get_sense(pos, senses)
 
 
-
-
 # confirm the choice of sense
 def confirm_sense(ind, pos, senses):
     sense = senses.iloc[ind]['syns']
@@ -177,7 +174,7 @@ def save_quit(start_index, end_index):
         this_term.append(this_word)
         terms_labeled.append(this_term)
 
-        path = '../get_institutional_data/data/labeled_search_phrases/'
+        path = '../../cache/sense_labels/'
         if not os.path.exists(path):
             os.makedirs(path)
 
@@ -216,7 +213,7 @@ def select_start():
 # related: list of lists of tuples
 # syns: list of dicts -- each dict has the following keys: word, syns, defs
 
-with open('../get_institutional_data/data/all_search_terms.json') as file:
+with open('../../cache/primary_with_syns.json') as file:
     terms_raw = json.load(file)
 
 terms_labeled = []
@@ -224,7 +221,7 @@ terms_labeled = []
 start_index = select_start()
 reindexed_terms = terms_raw[start_index:] + terms_raw[:start_index]
 
-counter = 0
+index_ctr = 0
 
 for term in reindexed_terms:
     this_term = []
@@ -233,19 +230,18 @@ for term in reindexed_terms:
     num_words = len(term['syns'])
     for item in term['syns']:
         this_word = {
-            'word': get_text([item['word']]),
-            'pos':  get_pos(item['word']),
+            'orig_word': get_text([item['word']]),
             'sense': ''
         }
-        print('\n\nIndex = {}'.format(start_index + counter))
+        print('\n\nIndex = {}'.format(start_index + index_ctr))
         print('-' * 3)
         print('For the phrase: {}'.format(this_phrase))
         print('-' * (len(this_phrase) + 16))
         print('Word = {}'.format(tuple(item['word'])))
         print('-' * 3)
 
+        # this_word['orig_word'] = item['word'][0]
         new_word, flag = change_word(item['word'][0])
-        this_word['word'] = new_word
 
         if flag:
             synset = wn.synsets(new_word)
@@ -254,6 +250,7 @@ for term in reindexed_terms:
         else:
             syns = item['syns']
             defs = item['defs']
+
         pos_filter = [syn_pos(syn) for syn in syns]
         syn_def = list(zip(pos_filter, syns, defs))
         syn_def_df = pd.DataFrame(syn_def, columns=['pos', 'syns', 'defs'])
@@ -265,7 +262,7 @@ for term in reindexed_terms:
         get_sense(pos, senses)
 
         this_term.append(this_word)
-    get_next_phrase(start_index, start_index + counter)
-    counter += 1
+    get_next_phrase(start_index, start_index + index_ctr)
+    index_ctr += 1
 
     terms_labeled.append(this_term)
