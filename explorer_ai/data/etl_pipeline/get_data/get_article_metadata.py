@@ -20,6 +20,7 @@ def load_article_list(path, filename):
             data.remove(item)
     return data
 
+
 # load list of search_terms
 def load_search_terms(path, filename):
     filepath = os.path.join(path, filename)

@@ -1,4 +1,8 @@
 import scrapy
+from scrapy.crawler import CrawlerProcess
+
+from scrapy.utils.project import get_project_settings
+settings = get_project_settings()
 
 
 class ExhibitsSpider(scrapy.Spider):
@@ -49,3 +53,8 @@ class ExhibitsSpider(scrapy.Spider):
             'phenomena': extracts('//span[text()="Phenomena:"]/following-sibling::a/text()'),
             'keywords': extracts('//span[text()="Keywords:"]/following-sibling::a/text()'),
         }
+
+
+process = CrawlerProcess(settings)
+process.crawl(ExhibitsSpider)
+process.start()

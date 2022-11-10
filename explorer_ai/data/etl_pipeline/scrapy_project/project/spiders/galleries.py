@@ -1,4 +1,8 @@
 import scrapy
+from scrapy.crawler import CrawlerProcess
+
+from scrapy.utils.project import get_project_settings
+settings = get_project_settings()
 
 
 def extract(query, response):
@@ -36,3 +40,8 @@ class GalleriesSpider(scrapy.Spider):
         kwargs['curator_statement'] = extracts_merge('//div[@id="main-content"]' +
                                                      '//div[@class="field-items"]//p//text()', response)
         yield kwargs
+
+
+process = CrawlerProcess(settings)
+process.crawl(GalleriesSpider)
+process.start()
