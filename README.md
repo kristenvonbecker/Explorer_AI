@@ -29,8 +29,9 @@ exhibits (e.g. vision, fog, magnets). Thus, our data will originate from the fol
 institutional knowledge, and bit of analysis will extract dozens of search terms which will be used to seed our
 second data source. 
   - Encylopedia articles courtesy of [Encyclopedia Britannica](https://encyclopaediaapi.com/products/index) and 
-dictionary and thesaurus entries courtesty of [Merriam-Webster](https://dictionaryapi.com/products/index). This step
-will provide the training data for Explorer AI's subject matter knowledge, most of which is scientific in nature.
+(possibly) dictionary and thesaurus entries courtesty of [Merriam-Webster](https://dictionaryapi.com/products/index). 
+This step will provide the training data for Explorer AI's subject matter knowledge, most of which is scientific in 
+nature.
 
 ### Web-scraping
 
