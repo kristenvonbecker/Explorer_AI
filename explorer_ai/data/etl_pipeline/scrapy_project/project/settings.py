@@ -1,7 +1,7 @@
 BOT_NAME = 'project'
 
 SPIDER_MODULES = ['project.spiders']
-NEWSPIDER_MODULE = 'proejct.spiders'
+NEWSPIDER_MODULE = 'project.spiders'
 
 ROBOTSTXT_OBEY = True
 COOKIES_ENABLED = False
@@ -13,19 +13,19 @@ DEFAULT_REQUEST_HEADERS = {
 
 ITEM_PIPELINES = {
   'project.pipelines.ProjectPipeline': 300,
-  'project.pipelines.ExhibitPipeline': 500,
-  'project.pipelines.GalleryPipeline': 700,
+  # 'project.pipelines.ExhibitPipeline': 500,
+  # 'project.pipelines.GalleryPipeline': 700,
 }
 
-FEEDS = {
-    'file://../../cache/raw/%(name)s.json': {
-        'format': 'json',
-        'encoding': 'utf8',
-        'store_empty': False,
-        'indent': 2,
-        'overwrite': True,
-    }
-}
+# FEEDS = {
+#     'file://../../cache/raw/%(name)s.json': {
+#         'format': 'json',
+#         'encoding': 'utf8',
+#         'store_empty': False,
+#         'indent': 2,
+#         'overwrite': True,
+#     }
+# }
 
 #HTTPCACHE_ENABLED = True
 #HTTPCACHE_EXPIRATION_SECS = 0
