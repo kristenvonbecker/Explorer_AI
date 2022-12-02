@@ -1,0 +1,6 @@
+[
+  {
+    "name": "subject",
+    "pattern": "(\\bwater\\b|\\bmirrors\\b|\\bsociology\\b|\\bradiation\\b|\\bDNA\\b|\\bgravity\\b|\\bcooperation\\b|\\bthe\\ Prisoner's\\ dilemma\\b|\\berosion\\b|\\btransverse\\ waves\\b|\\bcooperation\\b|\\btides\\b|\\bcolor\\b|\\blasagna\\b)"
+  }
+]

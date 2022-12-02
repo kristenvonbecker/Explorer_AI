@@ -1,0 +1,20 @@
+version: "3.1"
+
+nlu:
+
+- lookup: subject
+  examples: |
+    - water
+    - mirrors
+    - sociology
+    - radiation
+    - DNA
+    - gravity
+    - cooperation
+    - the Prisoner's dilemma
+    - erosion
+    - transverse waves
+    - cooperation
+    - tides
+    - color
+    - lasagna

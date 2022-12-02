@@ -1,0 +1,17 @@
+version: "3.1"
+
+stories:
+
+- story: get explanation sucessfully
+  steps:
+    - intent: get_explanation
+    - action: utter_confirmation
+    - intent: affirm
+    - action: utter_how_else_help
+
+- story: get explanation unsucessfully
+  steps:
+    - intent: get_explanation
+    - action: utter_confirmation
+    - intent: deny
+    - action: utter_try_again

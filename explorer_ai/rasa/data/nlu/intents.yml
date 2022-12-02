@@ -1,0 +1,181 @@
+version: "3.1"
+
+nlu:
+
+- intent: greet
+  examples: |
+    - hey there
+    - hi there
+    - hello!
+    - hi
+    - hiya
+    - yo
+    - hi, is anyone there?
+    - hello in there
+    - hello there
+    - good morning
+    - good evening
+    - good afternoon
+    - hey there
+    - hey dude!
+    - anyone there?
+    - are you listening to me?
+    - goodmorning
+    - goodevening
+    - howdy
+    - what's up?
+
+- intent: goodbye
+  examples: |
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - later
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+    - gotta go
+    - i'm leaving now
+
+- intent: thanks
+  examples: |
+    - thank you
+    - thanks so much
+    - i appreciate it
+    - thanks again
+    - thank you very much
+    - thanks
+    - many thanks
+    - i owe you
+    - thx
+    - ty
+    - that's perfect!
+    - that's exactly what i'm looking for
+
+- intent: affirm
+  examples: |
+    - yes
+    - yep
+    - yup
+    - exactly
+    - precisely
+    - yeah
+    - yea
+    - y
+    - indeed
+    - of course
+    - that's right
+    - that sounds good
+    - you know it
+    - correct
+    - affirmative
+    - i guess so
+
+- intent: deny
+  examples: |
+    - no
+    - nope
+    - n
+    - never
+    - I don't think so
+    - I doubt it
+    - not even close
+    - don't like that
+    - no way
+    - not really
+    - not remotely close
+    - that's not what I'm looking for
+    - that's not what I asked for
+    - not it
+    - not even
+    - far from the truth
+    - negative
+    - absolutely not
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - who are you?
+    - who am i talking to?
+    - who is this?
+    - anyone there?
+    - are you real?
+    - what is your name?
+    - am I talking to a robot?
+    - u robot?
+    - ru bot?
+    - ru real?
+    - am I talking to a human?
+    - you a machine?
+    - are you computer
+
+- intent: what_can_you_do
+  examples: |
+    - what are you trained to do?
+    - what kinds of questions can you answer?
+    - what is your specialty?
+    - what is your domain?
+    - what's your job?
+    - what do you do?
+    - can you talk to me?
+    - can you answer questions?
+    - what is your role?
+    - what sorts of things do you know about?
+    - what can I ask you?
+    - what can you tell me?
+
+- intent: get_explanation
+  examples: |
+    - I have a question
+    - can you answer a question for me?
+    - can I ask you something?
+    - there's something I'd like to know
+    - I'm wondering about something
+    - there's something I've been meaning to ask you
+    - I have a request
+    - I have a query
+    - I'd like to ask a question
+    - can you tell me about [gravity](subject)?
+    - what is [DNA](subject)?
+    - please describe [gravity](subject)
+    - what does it mean [tides](subject)?
+    - what's [gravity](subject) all about?
+    - what is [gravity](subject), if you please
+    - can you describe to me [color](subject)
+    - can you give me a description of [gravity](subject)
+    - i'd like to know more about [gravity](subject)
+    - what do you know about [gravity](subject)?
+    - explain the concept of [gravity](subject)
+    - please explain [gravity](subject)
+    - i'd like information on [gravity](subject)
+    - info about [cooperation](subject), please
+    - I don't understand [gravity](subject)
+    - i'm confused about [gravity](subject)
+    - plz give info on [DNA](subject)
+    - provide information about [gravity](subject)
+    - plese help me understand [gravity](subject)
+    - i don't know the first thing about [gravity](subject)
+    - i'm tryng to learn about [gravity](subject)
+    - teach me about [erosion](subject)
+    - education me on the topic of [gravity](subject)
+    - elaborate on [gravity](subject)
+    - i'd like an explanation about [DNA](subject)
+    - who was [Albert Einstein](subject)?
+    - who is [Jane Goodall](subject)?
+
+- intent: out_of_scope
+  examples: |
+    - what time is it?
+    - what's the weather like?
+    - 2+2
+    - knock knock
+    - tell me a joke
+
+- synonym: water
+  examples: |
+    - H2O

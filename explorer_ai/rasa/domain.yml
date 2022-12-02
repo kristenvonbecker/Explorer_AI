@@ -1,0 +1,69 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - bot_challenge
+  - what_can_you_do
+  - thanks
+  - out_of_scope
+  - get_explanation:
+      use_entities:
+        - subject
+
+entities:
+  - subject
+
+slots:
+  subject:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: subject
+
+
+responses:
+  utter_greet:
+    - text: "Hey there!"
+
+  utter_how_help:
+    - text: "How can I help you?"
+
+  utter_how_else_help:
+    - text: "What else would you like to know?"
+
+  utter_confirmation:
+    - text: "You'd like to know more about {subject}, correct?"
+
+  utter_try_again:
+    - text: "I'm sorry, I'll try again. Could you please rephrase your request?"
+
+  utter_iamabot:
+    - text: "I am Explorer AI, a chatbot."
+
+  utter_what_i_do:
+    - text: "I'm trained to answer your questions about science-y stuff. Ask away!"
+
+  utter_welcome:
+    - text: "Glad I could be of assistance!"
+
+  utter_goodbye:
+    - text: "Bye :)"
+
+  utter_default:
+    - text: "Sorry, I don't understand. Could you please rephrase that?"
+
+  utter_try_this:
+    - text: "I don't know how to respond to that. Here are some examples of things you can ask me:"
+
+
+#actions:
+#  - action_get_explanation
+
+
+session_config:
+  session_expiration_time: 30
+  carry_over_slots_to_new_session: false
