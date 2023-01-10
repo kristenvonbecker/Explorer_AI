@@ -49,7 +49,7 @@ def get_pre_header_text(article_id, source, dir_path=None):
         if elmt.tag == 'h1':
             h1 = True
         elif elmt.tag == 'p' and not h1:
-            data['text'] += ''.join(elmt.xpath("text()|xref/text()|e/text()"))
+            data['text'] += ''.join(elmt.xpath("text()|xref/text()|e/text()|xref/e/text()"))
     if dir_path:
         if not os.path.exists(dir_path):
             os.mkdir(dir_path)
